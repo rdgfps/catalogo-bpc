@@ -1,0 +1,6275 @@
+[
+  {
+    "id": "7896273809289",
+    "nome": "07 TAPETES HIGIENICOS ODOR BLOCK",
+    "categoria": "Areias e Higiênico",
+    "preco": 20,
+    "estoque": 9,
+    "codigoBarras": "7896273809289",
+    "ativo": true
+  },
+  {
+    "id": "7896108815140",
+    "nome": "ALCON BLEND COELHO E ROEDOR",
+    "categoria": "Outros Animais",
+    "preco": 21,
+    "estoque": 5,
+    "codigoBarras": "7896108815140",
+    "ativo": false
+  },
+  {
+    "id": "7898956801498",
+    "nome": "ALDRIN 40",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 5,
+    "codigoBarras": "7898956801498",
+    "ativo": false
+  },
+  {
+    "id": "7908405900501",
+    "nome": "ALICATE UNHA PET",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 2,
+    "codigoBarras": "7908405900501",
+    "ativo": true
+  },
+  {
+    "id": "7891000623107",
+    "nome": "ALIM CAES DOGUITOS FRANGO",
+    "categoria": "Outros",
+    "preco": 6,
+    "estoque": 1,
+    "codigoBarras": "7891000623107",
+    "ativo": true
+  },
+  {
+    "id": "7898006195614",
+    "nome": "Anticion Injetável c/ Seringa 1ml - UCB",
+    "categoria": "Outros",
+    "preco": 7,
+    "estoque": 7,
+    "codigoBarras": "7898006195614",
+    "ativo": false
+  },
+  {
+    "id": "7899863600569",
+    "nome": "ANTIPARASITARIO 100G",
+    "categoria": "Medicamentos",
+    "preco": 26,
+    "estoque": 11,
+    "codigoBarras": "7899863600569",
+    "ativo": false
+  },
+  {
+    "id": "7898416700514",
+    "nome": "ANTITOXICO BIOFARM",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 5,
+    "codigoBarras": "7898416700514",
+    "ativo": false
+  },
+  {
+    "id": "7899693502730",
+    "nome": "AREIA CANISTER 4KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 7.5,
+    "estoque": 129,
+    "codigoBarras": "7899693502730",
+    "ativo": true
+  },
+  {
+    "id": "7898960933017",
+    "nome": "AREIA DE GATO GATS 4KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 7.5,
+    "estoque": 8,
+    "codigoBarras": "7898960933017",
+    "ativo": true
+  },
+  {
+    "id": "7898639620958",
+    "nome": "AREIA FAMIL 4KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 13,
+    "estoque": 2,
+    "codigoBarras": "7898639620958",
+    "ativo": true
+  },
+  {
+    "id": "7898674092116",
+    "nome": "AREIA FINOTRATO 4KG",
+    "categoria": "Rações",
+    "preco": 40,
+    "estoque": 14,
+    "codigoBarras": "7898674092116",
+    "ativo": true
+  },
+  {
+    "id": "7896565711313",
+    "nome": "AREIA FORTACAT",
+    "categoria": "Areias e Higiênico",
+    "preco": 20,
+    "estoque": 11,
+    "codigoBarras": "7896565711313",
+    "ativo": true
+  },
+  {
+    "id": "7898905706058",
+    "nome": "AREIA HIGIÃŠNICO.GATOS FOFICAT 4KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 7.5,
+    "estoque": -5,
+    "codigoBarras": "7898905706058",
+    "ativo": true
+  },
+  {
+    "id": "7897265601157",
+    "nome": "AREIA MIAU 4KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 8,
+    "estoque": 19,
+    "codigoBarras": "7897265601157",
+    "ativo": true
+  },
+  {
+    "id": "7896273805182",
+    "nome": "AREIA PIPI CAT AROM FLORAL 4KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 20,
+    "estoque": 8,
+    "codigoBarras": "7896273805182",
+    "ativo": true
+  },
+  {
+    "id": "7896273808862",
+    "nome": "AREIA PUTZ",
+    "categoria": "Areias e Higiênico",
+    "preco": 13,
+    "estoque": 26,
+    "codigoBarras": "7896273808862",
+    "ativo": true
+  },
+  {
+    "id": "7898961193168",
+    "nome": "AREIA SILICA GROSSA 1,6KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 40,
+    "estoque": 0,
+    "codigoBarras": "7898961193168",
+    "ativo": true
+  },
+  {
+    "id": "7898905706027",
+    "nome": "AREIA SUPER CAT 4KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 7.5,
+    "estoque": -2,
+    "codigoBarras": "7898905706027",
+    "ativo": true
+  },
+  {
+    "id": "2000000099967",
+    "nome": "ARROZ 25KG",
+    "categoria": "Outros",
+    "preco": 70,
+    "estoque": 3,
+    "codigoBarras": "2000000099967",
+    "ativo": true
+  },
+  {
+    "id": "7897566520072",
+    "nome": "ARROZ P/ CACHORRO 5KG",
+    "categoria": "Outros",
+    "preco": 17,
+    "estoque": 1,
+    "codigoBarras": "7897566520072",
+    "ativo": true
+  },
+  {
+    "id": "7891126001094",
+    "nome": "Avitrin Antibiótico 10ml - Coveli",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 2,
+    "codigoBarras": "7891126001094",
+    "ativo": false
+  },
+  {
+    "id": "7891126001063",
+    "nome": "AVITRIN COMPLEXO VITAMÃNICO PARA AVES GOTAS USO VETERINÃRIO",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 7,
+    "codigoBarras": "7891126001063",
+    "ativo": false
+  },
+  {
+    "id": "7891126001186",
+    "nome": "Avitrin Vermífugo 10ml - Coveli",
+    "categoria": "Medicamentos",
+    "preco": 25,
+    "estoque": 3,
+    "codigoBarras": "7891126001186",
+    "ativo": false
+  },
+  {
+    "id": "7898416701504",
+    "nome": "BABECID CÃES 10ML",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 1,
+    "codigoBarras": "7898416701504",
+    "ativo": false
+  },
+  {
+    "id": "7898416701498",
+    "nome": "BABECID GRANDE PORTE 20ML",
+    "categoria": "Outros",
+    "preco": 38,
+    "estoque": 2,
+    "codigoBarras": "7898416701498",
+    "ativo": false
+  },
+  {
+    "id": "7898950369536",
+    "nome": "BAGUAL DOG 7KG",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 0,
+    "codigoBarras": "7898950369536",
+    "ativo": true
+  },
+  {
+    "id": "7898908110944",
+    "nome": "BAH CAT 7KG",
+    "categoria": "Outros",
+    "preco": 65,
+    "estoque": 5,
+    "codigoBarras": "7898908110944",
+    "ativo": true
+  },
+  {
+    "id": "7898950369253",
+    "nome": "BAHDOG 7KG",
+    "categoria": "Rações",
+    "preco": 35,
+    "estoque": 5,
+    "codigoBarras": "7898950369253",
+    "ativo": true
+  },
+  {
+    "id": "7898950369727",
+    "nome": "BAHDOG ESSENCIAL 20KG",
+    "categoria": "Rações",
+    "preco": 135,
+    "estoque": 2,
+    "codigoBarras": "7898950369727",
+    "ativo": true
+  },
+  {
+    "id": "7898950369710",
+    "nome": "BAHDOG ESSENCIAL 7KG",
+    "categoria": "Rações",
+    "preco": 55,
+    "estoque": -2,
+    "codigoBarras": "7898950369710",
+    "ativo": true
+  },
+  {
+    "id": "7898950369291",
+    "nome": "BAHDOG ESSENCIAL 7KG",
+    "categoria": "Rações",
+    "preco": 70,
+    "estoque": 5,
+    "codigoBarras": "7898950369291",
+    "ativo": true
+  },
+  {
+    "id": "7898950369307",
+    "nome": "BAHDOG FILHOTES 20KG",
+    "categoria": "Rações",
+    "preco": 140,
+    "estoque": 0,
+    "codigoBarras": "7898950369307",
+    "ativo": true
+  },
+  {
+    "id": "7898908110609",
+    "nome": "BAITACÃO 10,1KG",
+    "categoria": "Outros",
+    "preco": 60,
+    "estoque": 4,
+    "codigoBarras": "7898908110609",
+    "ativo": true
+  },
+  {
+    "id": "7898949819233",
+    "nome": "BANDEJA HIGIENICA P GATOS",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 2,
+    "codigoBarras": "7898949819233",
+    "ativo": true
+  },
+  {
+    "id": "7898726370230",
+    "nome": "BANHEIRO AZUL GATO",
+    "categoria": "Outros",
+    "preco": 100,
+    "estoque": 1,
+    "codigoBarras": "7898726370230",
+    "ativo": true
+  },
+  {
+    "id": "7898726370247",
+    "nome": "BANHEIRO ROSA GATO",
+    "categoria": "Outros",
+    "preco": 100,
+    "estoque": 0,
+    "codigoBarras": "7898726370247",
+    "ativo": true
+  },
+  {
+    "id": "7898964255627",
+    "nome": "BANHO A SECO ITS PET 500ML",
+    "categoria": "Banho e Tosa",
+    "preco": 28,
+    "estoque": 2,
+    "codigoBarras": "7898964255627",
+    "ativo": false
+  },
+  {
+    "id": "7898275017518",
+    "nome": "BANHO SECO P CAES 500ML",
+    "categoria": "Banho e Tosa",
+    "preco": 40,
+    "estoque": 6,
+    "codigoBarras": "7898275017518",
+    "ativo": false
+  },
+  {
+    "id": "7898019861278",
+    "nome": "BANNI VERMICIDA 5KG",
+    "categoria": "Outros",
+    "preco": 70,
+    "estoque": 1,
+    "codigoBarras": "7898019861278",
+    "ativo": false
+  },
+  {
+    "id": "7898555411029",
+    "nome": "BASTAO RACAO CALOPSITA 90G",
+    "categoria": "Rações",
+    "preco": 13,
+    "estoque": 2,
+    "codigoBarras": "7898555411029",
+    "ativo": true
+  },
+  {
+    "id": "7898494930421",
+    "nome": "BEBEDOURO FLOR",
+    "categoria": "Alimentação",
+    "preco": 15,
+    "estoque": 1,
+    "codigoBarras": "7898494930421",
+    "ativo": true
+  },
+  {
+    "id": "7898494930711",
+    "nome": "BEBEDOURO FLOR 2",
+    "categoria": "Alimentação",
+    "preco": 15,
+    "estoque": 1,
+    "codigoBarras": "7898494930711",
+    "ativo": true
+  },
+  {
+    "id": "7898584311017",
+    "nome": "BEBEDOURO MALHA 200ML",
+    "categoria": "Alimentação",
+    "preco": 8.5,
+    "estoque": 1,
+    "codigoBarras": "7898584311017",
+    "ativo": true
+  },
+  {
+    "id": "2000000099972",
+    "nome": "BEBEDOURO MEDIO",
+    "categoria": "Alimentação",
+    "preco": 8,
+    "estoque": 3,
+    "codigoBarras": "2000000099972",
+    "ativo": true
+  },
+  {
+    "id": "2000000099981",
+    "nome": "BICO DE MAMADEIRA",
+    "categoria": "Outros",
+    "preco": 5,
+    "estoque": 12,
+    "codigoBarras": "2000000099981",
+    "ativo": true
+  },
+  {
+    "id": "7896273807735",
+    "nome": "BIFINHO KELCO CRIADOR TEKINHOS P/CAES",
+    "categoria": "Alimentação",
+    "preco": 46,
+    "estoque": 19,
+    "codigoBarras": "7896273807735",
+    "ativo": true
+  },
+  {
+    "id": "7896273809425",
+    "nome": "BIFINHO KELDOG CHURRASCO 250G",
+    "categoria": "Alimentação",
+    "preco": 26,
+    "estoque": 6,
+    "codigoBarras": "7896273809425",
+    "ativo": true
+  },
+  {
+    "id": "7896273809418",
+    "nome": "BIFINHO KELDOG CHURRASCO 60G",
+    "categoria": "Alimentação",
+    "preco": 5.5,
+    "estoque": 6,
+    "codigoBarras": "7896273809418",
+    "ativo": true
+  },
+  {
+    "id": "7896273809357",
+    "nome": "BIFINHO KELDOG FRANGO GRELHADO 60G",
+    "categoria": "Alimentação",
+    "preco": 5.5,
+    "estoque": -1,
+    "codigoBarras": "7896273809357",
+    "ativo": true
+  },
+  {
+    "id": "7896273808923",
+    "nome": "BIFINHOS PEIXE KELCAT",
+    "categoria": "Alimentação",
+    "preco": 6,
+    "estoque": 2,
+    "codigoBarras": "7896273808923",
+    "ativo": true
+  },
+  {
+    "id": "7898951827011",
+    "nome": "BIFINHOS PETHAND 65G",
+    "categoria": "Alimentação",
+    "preco": 6,
+    "estoque": 13,
+    "codigoBarras": "7898951827011",
+    "ativo": true
+  },
+  {
+    "id": "7898250782844",
+    "nome": "BILLY CAT FRANGO 10,1KG",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 1,
+    "codigoBarras": "7898250782844",
+    "ativo": true
+  },
+  {
+    "id": "7898250782875",
+    "nome": "BILLY CAT SALMÃO 10,1KG",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": -6,
+    "codigoBarras": "7898250782875",
+    "ativo": true
+  },
+  {
+    "id": "7908244100667",
+    "nome": "BIOCARE 15KG",
+    "categoria": "Outros",
+    "preco": 130,
+    "estoque": 9,
+    "codigoBarras": "7908244100667",
+    "ativo": true
+  },
+  {
+    "id": "7908244100476",
+    "nome": "BIOCARE START 21% 15KG",
+    "categoria": "Outros",
+    "preco": 115,
+    "estoque": 5,
+    "codigoBarras": "7908244100476",
+    "ativo": true
+  },
+  {
+    "id": "7898121840048",
+    "nome": "BIOGOLD SUP P PASSARO",
+    "categoria": "Outros Animais",
+    "preco": 20,
+    "estoque": 3,
+    "codigoBarras": "7898121840048",
+    "ativo": false
+  },
+  {
+    "id": "7898416700491",
+    "nome": "BIOTRIL VERMIFUGO C/4 COMPRIMIDOS",
+    "categoria": "Medicamentos",
+    "preco": 25,
+    "estoque": 26,
+    "codigoBarras": "7898416700491",
+    "ativo": false
+  },
+  {
+    "id": "7898125118648",
+    "nome": "BOLA ADESTRAMENTO P REF 864",
+    "categoria": "Brinquedos",
+    "preco": 12,
+    "estoque": 2,
+    "codigoBarras": "7898125118648",
+    "ativo": true
+  },
+  {
+    "id": "2000000000007",
+    "nome": "BOLA CRAVO COLORIDA",
+    "categoria": "Brinquedos",
+    "preco": 10,
+    "estoque": 8,
+    "codigoBarras": "2000000000007",
+    "ativo": true
+  },
+  {
+    "id": "17898051391761",
+    "nome": "BOLA EMOJI",
+    "categoria": "Brinquedos",
+    "preco": 15,
+    "estoque": 11,
+    "codigoBarras": "17898051391761",
+    "ativo": true
+  },
+  {
+    "id": "1000000945317",
+    "nome": "BOLA PET SPIKE DE BORRACHA",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 0,
+    "codigoBarras": "1000000945317",
+    "ativo": true
+  },
+  {
+    "id": "7898608632227",
+    "nome": "BOLA SINO PEQ",
+    "categoria": "Brinquedos",
+    "preco": 5,
+    "estoque": 12,
+    "codigoBarras": "7898608632227",
+    "ativo": true
+  },
+  {
+    "id": "2000000000009",
+    "nome": "BOLINHA EMOJI",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 4,
+    "codigoBarras": "2000000000009",
+    "ativo": true
+  },
+  {
+    "id": "2000000099968",
+    "nome": "BOLINHA SINOS",
+    "categoria": "Outros",
+    "preco": 5,
+    "estoque": 2,
+    "codigoBarras": "2000000099968",
+    "ativo": true
+  },
+  {
+    "id": "7898608632258",
+    "nome": "BOLINHAS BICOLOR",
+    "categoria": "Outros",
+    "preco": 5,
+    "estoque": 11,
+    "codigoBarras": "7898608632258",
+    "ativo": true
+  },
+  {
+    "id": "2000000000012",
+    "nome": "BONECO DE BORRACHA",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 0,
+    "codigoBarras": "2000000000012",
+    "ativo": true
+  },
+  {
+    "id": "7899800307708",
+    "nome": "BORRIFADOR P GARRAFA PET",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 6,
+    "codigoBarras": "7899800307708",
+    "ativo": true
+  },
+  {
+    "id": "7898756901855",
+    "nome": "BOTA DE PVC AQUA CN EXT LONG 42",
+    "categoria": "Outros",
+    "preco": 85,
+    "estoque": 3,
+    "codigoBarras": "7898756901855",
+    "ativo": true
+  },
+  {
+    "id": "9502358915902",
+    "nome": "BOTA DE PVC VERDE CN EXT LONG 43",
+    "categoria": "Outros",
+    "preco": 95,
+    "estoque": 3,
+    "codigoBarras": "9502358915902",
+    "ativo": true
+  },
+  {
+    "id": "9502358915711",
+    "nome": "BOTA NAUTICA CANO EXTRA LONGO AZUL 40",
+    "categoria": "Outros",
+    "preco": 85,
+    "estoque": 0,
+    "codigoBarras": "9502358915711",
+    "ativo": true
+  },
+  {
+    "id": "9502358915728",
+    "nome": "BOTA NAUTICA CANO EXTRA LONGO AZUL 41",
+    "categoria": "Outros",
+    "preco": 85,
+    "estoque": 3,
+    "codigoBarras": "9502358915728",
+    "ativo": true
+  },
+  {
+    "id": "9502358915742",
+    "nome": "BOTA NAUTICA CANO EXTRA LONGO AZUL 43",
+    "categoria": "Outros",
+    "preco": 85,
+    "estoque": 3,
+    "codigoBarras": "9502358915742",
+    "ativo": true
+  },
+  {
+    "id": "9502358915735",
+    "nome": "BOTA NAUTICA CANO LONGO AZUL 42",
+    "categoria": "Outros",
+    "preco": 85,
+    "estoque": 1,
+    "codigoBarras": "9502358915735",
+    "ativo": true
+  },
+  {
+    "id": "7898486914446",
+    "nome": "BOTINA BICO FERRO CARAMELO 42",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": -1,
+    "codigoBarras": "7898486914446",
+    "ativo": true
+  },
+  {
+    "id": "7898486914415",
+    "nome": "BOTINA BICO FERRO CHOCOLATE 39",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 2,
+    "codigoBarras": "7898486914415",
+    "ativo": true
+  },
+  {
+    "id": "7898486914439",
+    "nome": "BOTINA BICO FERRO CHOCOLATE 41",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 1,
+    "codigoBarras": "7898486914439",
+    "ativo": true
+  },
+  {
+    "id": "7898486914507",
+    "nome": "BOTINA BICO FERRO PRETO 39",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 1,
+    "codigoBarras": "7898486914507",
+    "ativo": true
+  },
+  {
+    "id": "7898486914514",
+    "nome": "BOTINA BICO FERRO PRETO 40",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 2,
+    "codigoBarras": "7898486914514",
+    "ativo": true
+  },
+  {
+    "id": "7898486914521",
+    "nome": "BOTINA BICO FERRO PRETO 41",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 1,
+    "codigoBarras": "7898486914521",
+    "ativo": true
+  },
+  {
+    "id": "7898486914538",
+    "nome": "BOTINA BICO FERRO PRETO 42",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 1,
+    "codigoBarras": "7898486914538",
+    "ativo": true
+  },
+  {
+    "id": "7898486885067",
+    "nome": "BOTINA ESCOV SOLA INJET 39 MEL",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 2,
+    "codigoBarras": "7898486885067",
+    "ativo": true
+  },
+  {
+    "id": "7898486885074",
+    "nome": "BOTINA ESCOV SOLA INJET 40 MEL",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 2,
+    "codigoBarras": "7898486885074",
+    "ativo": true
+  },
+  {
+    "id": "7898486885081",
+    "nome": "BOTINA ESCOV SOLA INJET 41 MEL",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 2,
+    "codigoBarras": "7898486885081",
+    "ativo": true
+  },
+  {
+    "id": "7898486885098",
+    "nome": "BOTINA ESCOV SOLA INJET 42 MEL",
+    "categoria": "Outros",
+    "preco": 125,
+    "estoque": 1,
+    "codigoBarras": "7898486885098",
+    "ativo": true
+  },
+  {
+    "id": "7898486880062",
+    "nome": "BOTINA INJET TRAB 39 CHOCO",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 2,
+    "codigoBarras": "7898486880062",
+    "ativo": true
+  },
+  {
+    "id": "7898486880079",
+    "nome": "BOTINA INJET TRAB 40 CHOCO",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 2,
+    "codigoBarras": "7898486880079",
+    "ativo": true
+  },
+  {
+    "id": "7898486880086",
+    "nome": "BOTINA INJET TRAB 41 CHOCO",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 1,
+    "codigoBarras": "7898486880086",
+    "ativo": true
+  },
+  {
+    "id": "7898486880093",
+    "nome": "BOTINA INJET TRAB 42 CHOCO",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 0,
+    "codigoBarras": "7898486880093",
+    "ativo": true
+  },
+  {
+    "id": "7898486882097",
+    "nome": "BOTINA INJET TRAB 42 MEL",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 1,
+    "codigoBarras": "7898486882097",
+    "ativo": true
+  },
+  {
+    "id": "7898415941963",
+    "nome": "BOTINA PRETO RASPA 40",
+    "categoria": "Outros",
+    "preco": 80,
+    "estoque": -1,
+    "codigoBarras": "7898415941963",
+    "ativo": true
+  },
+  {
+    "id": "7898415941970",
+    "nome": "BOTINA PRETO RASPA 41",
+    "categoria": "Outros",
+    "preco": 80,
+    "estoque": 0,
+    "codigoBarras": "7898415941970",
+    "ativo": true
+  },
+  {
+    "id": "7898415941987",
+    "nome": "BOTINA PRETO RASPA 42",
+    "categoria": "Outros",
+    "preco": 80,
+    "estoque": 0,
+    "codigoBarras": "7898415941987",
+    "ativo": true
+  },
+  {
+    "id": "7898486880840",
+    "nome": "BOTINA ZIPER 42 CARAMELO",
+    "categoria": "Outros",
+    "preco": 130,
+    "estoque": 2,
+    "codigoBarras": "7898486880840",
+    "ativo": true
+  },
+  {
+    "id": "7898639621306",
+    "nome": "BRAIN PLUS PQNO PORTE 15KG",
+    "categoria": "Outros",
+    "preco": 190,
+    "estoque": -1,
+    "codigoBarras": "7898639621306",
+    "ativo": true
+  },
+  {
+    "id": "7908405902840",
+    "nome": "BRINQUEDO ARCO TAM G",
+    "categoria": "Brinquedos",
+    "preco": 20,
+    "estoque": 1,
+    "codigoBarras": "7908405902840",
+    "ativo": true
+  },
+  {
+    "id": "7908405902727",
+    "nome": "BRINQUEDO ARCO TAM P",
+    "categoria": "Brinquedos",
+    "preco": 15,
+    "estoque": 1,
+    "codigoBarras": "7908405902727",
+    "ativo": true
+  },
+  {
+    "id": "7898490093267",
+    "nome": "Brinquedo Bola Furação Pet Macica de Colorida Mamoninha (Emb. contém 1un. de 45mm)",
+    "categoria": "Rações",
+    "preco": 12,
+    "estoque": 1,
+    "codigoBarras": "7898490093267",
+    "ativo": true
+  },
+  {
+    "id": "7908291135278",
+    "nome": "BRINQUEDO DE BORRACHA CACTO",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 0,
+    "codigoBarras": "7908291135278",
+    "ativo": true
+  },
+  {
+    "id": "7908291135308",
+    "nome": "BRINQUEDO DE BORRACHA CIRCULO",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "7908291135308",
+    "ativo": true
+  },
+  {
+    "id": "7908291135292",
+    "nome": "BRINQUEDO DE BORRACHA CORAÇAO",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "7908291135292",
+    "ativo": true
+  },
+  {
+    "id": "7908291135339",
+    "nome": "BRINQUEDO DE BORRACHA ESTRELA",
+    "categoria": "Passeio",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "7908291135339",
+    "ativo": true
+  },
+  {
+    "id": "2000000099965",
+    "nome": "BRINQUEDO DE BORRACHA FLOR",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "2000000099965",
+    "ativo": true
+  },
+  {
+    "id": "2000000099966",
+    "nome": "BRINQUEDO DE BORRACHA GALHO",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "2000000099966",
+    "ativo": true
+  },
+  {
+    "id": "7908291135353",
+    "nome": "BRINQUEDO DE BORRACHA MINI OSSO",
+    "categoria": "Alimentação",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "7908291135353",
+    "ativo": true
+  },
+  {
+    "id": "7908291135377",
+    "nome": "BRINQUEDO DE BORRACHA NUVEM",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 0,
+    "codigoBarras": "7908291135377",
+    "ativo": true
+  },
+  {
+    "id": "7908291135322",
+    "nome": "BRINQUEDO DE BORRACHA RETANGULO",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "7908291135322",
+    "ativo": true
+  },
+  {
+    "id": "7908291135346",
+    "nome": "BRINQUEDO DE BORRACHA SOL",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "7908291135346",
+    "ativo": true
+  },
+  {
+    "id": "7908291135315",
+    "nome": "BRINQUEDO DE BORRACHA TRIANGULO",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 0,
+    "codigoBarras": "7908291135315",
+    "ativo": true
+  },
+  {
+    "id": "7908291135285",
+    "nome": "BRINQUEDO DE BORRACHA TUNEL",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "7908291135285",
+    "ativo": true
+  },
+  {
+    "id": "7908405902031",
+    "nome": "BRINQUEDO PLAST OSSO CINTILANTE",
+    "categoria": "Alimentação",
+    "preco": 30,
+    "estoque": 1,
+    "codigoBarras": "7908405902031",
+    "ativo": true
+  },
+  {
+    "id": "7908291121608",
+    "nome": "CABO DE GUERRA ANEL TAM P",
+    "categoria": "Outros",
+    "preco": 48,
+    "estoque": 1,
+    "codigoBarras": "7908291121608",
+    "ativo": true
+  },
+  {
+    "id": "7898416701894",
+    "nome": "CALCILAN 100ML",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": 3,
+    "codigoBarras": "7898416701894",
+    "ativo": false
+  },
+  {
+    "id": "7898416700668",
+    "nome": "CALCIO FARM INJ. 500ML",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": 2,
+    "codigoBarras": "7898416700668",
+    "ativo": false
+  },
+  {
+    "id": "7898416701139",
+    "nome": "CALCIOFARM MIX PET 125ML",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 1,
+    "codigoBarras": "7898416701139",
+    "ativo": false
+  },
+  {
+    "id": "7898939116267",
+    "nome": "CALCIORAL 100ML",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 1,
+    "codigoBarras": "7898939116267",
+    "ativo": false
+  },
+  {
+    "id": "5420036971382",
+    "nome": "CALFON CALCIO BOVINOS 200ML",
+    "categoria": "Outros",
+    "preco": 60,
+    "estoque": 3,
+    "codigoBarras": "5420036971382",
+    "ativo": false
+  },
+  {
+    "id": "2000000000001",
+    "nome": "CAMA BERÇO TAM G",
+    "categoria": "Descanso",
+    "preco": 150,
+    "estoque": 2,
+    "codigoBarras": "2000000000001",
+    "ativo": true
+  },
+  {
+    "id": "7899852601199",
+    "nome": "CAMA EUROPA ROSA TAM G",
+    "categoria": "Descanso",
+    "preco": 90,
+    "estoque": 1,
+    "codigoBarras": "7899852601199",
+    "ativo": true
+  },
+  {
+    "id": "7899852601205",
+    "nome": "CAMA EUROPA ROSA TAM GG",
+    "categoria": "Descanso",
+    "preco": 130,
+    "estoque": 1,
+    "codigoBarras": "7899852601205",
+    "ativo": true
+  },
+  {
+    "id": "7899852601175",
+    "nome": "CAMA EUROPA ROSA TAM P",
+    "categoria": "Descanso",
+    "preco": 55,
+    "estoque": 1,
+    "codigoBarras": "7899852601175",
+    "ativo": true
+  },
+  {
+    "id": "2000000000003",
+    "nome": "CAMA G",
+    "categoria": "Descanso",
+    "preco": 125,
+    "estoque": 0,
+    "codigoBarras": "2000000000003",
+    "ativo": true
+  },
+  {
+    "id": "2000000000005",
+    "nome": "CAMA OCA",
+    "categoria": "Descanso",
+    "preco": 60,
+    "estoque": 0,
+    "codigoBarras": "2000000000005",
+    "ativo": true
+  },
+  {
+    "id": "2000000000002",
+    "nome": "CAMA P",
+    "categoria": "Descanso",
+    "preco": 48,
+    "estoque": 1,
+    "codigoBarras": "2000000000002",
+    "ativo": true
+  },
+  {
+    "id": "2000000000004",
+    "nome": "CAMA ROSA",
+    "categoria": "Descanso",
+    "preco": 150,
+    "estoque": 1,
+    "codigoBarras": "2000000000004",
+    "ativo": true
+  },
+  {
+    "id": "7899852600697",
+    "nome": "CAMA TOCA PET TAM M",
+    "categoria": "Descanso",
+    "preco": 100,
+    "estoque": 1,
+    "codigoBarras": "7899852600697",
+    "ativo": false
+  },
+  {
+    "id": "2000000000006",
+    "nome": "CAMA TOCA TAM GG",
+    "categoria": "Descanso",
+    "preco": 200,
+    "estoque": 2,
+    "codigoBarras": "2000000000006",
+    "ativo": true
+  },
+  {
+    "id": "7898043433922",
+    "nome": "CANEX ORIGINAL CX C/ 4 COMP",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 4,
+    "codigoBarras": "7898043433922",
+    "ativo": false
+  },
+  {
+    "id": "7899693501887",
+    "nome": "CANISTER 10KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 100,
+    "estoque": 1,
+    "codigoBarras": "7899693501887",
+    "ativo": true
+  },
+  {
+    "id": "7897265602758",
+    "nome": "CANNY DOG 10,1KG",
+    "categoria": "Outros",
+    "preco": 60,
+    "estoque": 8,
+    "codigoBarras": "7897265602758",
+    "ativo": true
+  },
+  {
+    "id": "7898113441628",
+    "nome": "CAPA GAIOLA TAM 1",
+    "categoria": "Outros",
+    "preco": 6,
+    "estoque": 3,
+    "codigoBarras": "7898113441628",
+    "ativo": true
+  },
+  {
+    "id": "7898322100644",
+    "nome": "CAPA GAIOLA TAM 2",
+    "categoria": "Outros",
+    "preco": 8,
+    "estoque": 2,
+    "codigoBarras": "7898322100644",
+    "ativo": true
+  },
+  {
+    "id": "7898322100651",
+    "nome": "CAPA GAIOLA TAM 3",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 3,
+    "codigoBarras": "7898322100651",
+    "ativo": true
+  },
+  {
+    "id": "7898322100668",
+    "nome": "CAPA GAIOLA TAM 4",
+    "categoria": "Outros",
+    "preco": 13,
+    "estoque": 3,
+    "codigoBarras": "7898322100668",
+    "ativo": true
+  },
+  {
+    "id": "7898322100675",
+    "nome": "CAPA GAIOLA TAM 5",
+    "categoria": "Outros",
+    "preco": 13,
+    "estoque": 2,
+    "codigoBarras": "7898322100675",
+    "ativo": true
+  },
+  {
+    "id": "7898322100682",
+    "nome": "CAPA GAIOLA TAM 6",
+    "categoria": "Outros",
+    "preco": 13,
+    "estoque": 1,
+    "codigoBarras": "7898322100682",
+    "ativo": true
+  },
+  {
+    "id": "5420036914839",
+    "nome": "CAPSTAR 11,4MG ATE 11KG",
+    "categoria": "Medicamentos",
+    "preco": 110,
+    "estoque": 2,
+    "codigoBarras": "5420036914839",
+    "ativo": false
+  },
+  {
+    "id": "7898416701955",
+    "nome": "CARBOVET BIOFARM 20 COMP",
+    "categoria": "Outros",
+    "preco": 55,
+    "estoque": 5,
+    "codigoBarras": "7898416701955",
+    "ativo": false
+  },
+  {
+    "id": "01438515175842",
+    "nome": "CARTELA BIODEX 20 COMP",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 30,
+    "codigoBarras": "01438515175842",
+    "ativo": false
+  },
+  {
+    "id": "7898568979790",
+    "nome": "CARTELA VERMICATS 3KG",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 8,
+    "codigoBarras": "7898568979790",
+    "ativo": true
+  },
+  {
+    "id": "2000000099993",
+    "nome": "CASA PLAS HOUSE PRETA N1",
+    "categoria": "Descanso",
+    "preco": 60,
+    "estoque": 3,
+    "codigoBarras": "2000000099993",
+    "ativo": true
+  },
+  {
+    "id": "2000000099992",
+    "nome": "CASA PLAS HOUSE ROSA N5",
+    "categoria": "Descanso",
+    "preco": 330,
+    "estoque": 2,
+    "codigoBarras": "2000000099992",
+    "ativo": true
+  },
+  {
+    "id": "609963874590",
+    "nome": "CASA PLASTICO TAM 1 ROSA",
+    "categoria": "Descanso",
+    "preco": 50,
+    "estoque": 0,
+    "codigoBarras": "609963874590",
+    "ativo": true
+  },
+  {
+    "id": "609963874651",
+    "nome": "CASA PLASTICO TAM 2 AZUL",
+    "categoria": "Descanso",
+    "preco": 55,
+    "estoque": 1,
+    "codigoBarras": "609963874651",
+    "ativo": true
+  },
+  {
+    "id": "609963873043",
+    "nome": "CASA PLASTICO TAM 3 AZUL",
+    "categoria": "Descanso",
+    "preco": 100,
+    "estoque": 1,
+    "codigoBarras": "609963873043",
+    "ativo": true
+  },
+  {
+    "id": "7898652690907",
+    "nome": "CASA PLASTICO TAM 4 PRETA",
+    "categoria": "Descanso",
+    "preco": 200,
+    "estoque": 1,
+    "codigoBarras": "7898652690907",
+    "ativo": true
+  },
+  {
+    "id": "609963880034",
+    "nome": "CASA PLASTICO TAM 4 ROSA",
+    "categoria": "Descanso",
+    "preco": 149,
+    "estoque": 1,
+    "codigoBarras": "609963880034",
+    "ativo": true
+  },
+  {
+    "id": "2000000099973",
+    "nome": "CASA PLASTICO TAM 5 PRETA",
+    "categoria": "Descanso",
+    "preco": 350,
+    "estoque": 1,
+    "codigoBarras": "2000000099973",
+    "ativo": true
+  },
+  {
+    "id": "609963880164",
+    "nome": "CASA PLASTICO TAM 6 PRETA",
+    "categoria": "Descanso",
+    "preco": 400,
+    "estoque": 0,
+    "codigoBarras": "609963880164",
+    "ativo": true
+  },
+  {
+    "id": "609963880225",
+    "nome": "CASA PLASTICO TAM 7 MARROM",
+    "categoria": "Descanso",
+    "preco": 450,
+    "estoque": 1,
+    "codigoBarras": "609963880225",
+    "ativo": true
+  },
+  {
+    "id": "2000000100001",
+    "nome": "CASA STONE HOUSE N4 AZUL",
+    "categoria": "Descanso",
+    "preco": 240,
+    "estoque": 1,
+    "codigoBarras": "2000000100001",
+    "ativo": true
+  },
+  {
+    "id": "2000000100002",
+    "nome": "CASA STONE HOUSE N5 AZUL",
+    "categoria": "Descanso",
+    "preco": 350,
+    "estoque": 1,
+    "codigoBarras": "2000000100002",
+    "ativo": true
+  },
+  {
+    "id": "2000000100003",
+    "nome": "CASA STONE HOUSE N6 TAUPE",
+    "categoria": "Descanso",
+    "preco": 470,
+    "estoque": 1,
+    "codigoBarras": "2000000100003",
+    "ativo": true
+  },
+  {
+    "id": "2000000100004",
+    "nome": "CASA STONE HOUSE N7 VERMELHA",
+    "categoria": "Descanso",
+    "preco": 550,
+    "estoque": 1,
+    "codigoBarras": "2000000100004",
+    "ativo": true
+  },
+  {
+    "id": "7898359845983",
+    "nome": "CASADINHO GENIAL PIPI PODE PIPI NAO PODE",
+    "categoria": "Descanso",
+    "preco": 35,
+    "estoque": 1,
+    "codigoBarras": "7898359845983",
+    "ativo": false
+  },
+  {
+    "id": "7891000248010",
+    "nome": "CAT CHOW ADULTO CARNE 10,1KG",
+    "categoria": "Rações",
+    "preco": 150,
+    "estoque": 2,
+    "codigoBarras": "7891000248010",
+    "ativo": true
+  },
+  {
+    "id": "7891000351024",
+    "nome": "CAT CHOW ADULTOS 2,7KG",
+    "categoria": "Rações",
+    "preco": 45,
+    "estoque": 4,
+    "codigoBarras": "7891000351024",
+    "ativo": true
+  },
+  {
+    "id": "7891000380352",
+    "nome": "CAT CHOW CASTRADOS FRNGO 1KG",
+    "categoria": "Rações",
+    "preco": 22,
+    "estoque": 6,
+    "codigoBarras": "7891000380352",
+    "ativo": true
+  },
+  {
+    "id": "7891000248027",
+    "nome": "CAT CHOW FILHOTES FRNG E LEITE 10,1KG",
+    "categoria": "Rações",
+    "preco": 160,
+    "estoque": 3,
+    "codigoBarras": "7891000248027",
+    "ativo": true
+  },
+  {
+    "id": "7891000248003",
+    "nome": "CATCHOW CASTRADOS 10,1KG",
+    "categoria": "Outros",
+    "preco": 165,
+    "estoque": 3,
+    "codigoBarras": "7891000248003",
+    "ativo": true
+  },
+  {
+    "id": "7898031810971",
+    "nome": "CETOCONAZOL SPRAY 2%",
+    "categoria": "Outros",
+    "preco": 55,
+    "estoque": -3,
+    "codigoBarras": "7898031810971",
+    "ativo": false
+  },
+  {
+    "id": "7897265602253",
+    "nome": "CHA ABACAXI HORTELA 10G",
+    "categoria": "Outros",
+    "preco": 6,
+    "estoque": 0,
+    "codigoBarras": "7897265602253",
+    "ativo": true
+  },
+  {
+    "id": "7898006193528",
+    "nome": "CHARMDOG CARRAPATICIDA/SARNICIDA 20ML",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 25,
+    "codigoBarras": "7898006193528",
+    "ativo": false
+  },
+  {
+    "id": "7898096852282",
+    "nome": "CHEMITAL 20ML",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 2,
+    "codigoBarras": "7898096852282",
+    "ativo": false
+  },
+  {
+    "id": "7898096852275",
+    "nome": "CHEMITAL CAES 4COMPS",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 6,
+    "codigoBarras": "7898096852275",
+    "ativo": false
+  },
+  {
+    "id": "7898096855160",
+    "nome": "CHEMITAL GATOS 4 COMP P/ 4KG",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 2,
+    "codigoBarras": "7898096855160",
+    "ativo": false
+  },
+  {
+    "id": "7898096853005",
+    "nome": "CHEMITAL GATOS P 4KG",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 9,
+    "codigoBarras": "7898096853005",
+    "ativo": false
+  },
+  {
+    "id": "7898096850486",
+    "nome": "CHEMITEC BALSAMEX 30G",
+    "categoria": "Outros",
+    "preco": 29,
+    "estoque": 4,
+    "codigoBarras": "7898096850486",
+    "ativo": false
+  },
+  {
+    "id": "7898096855023",
+    "nome": "CHEMITRIL 10% 50ML",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": 4,
+    "codigoBarras": "7898096855023",
+    "ativo": false
+  },
+  {
+    "id": "7898096855016",
+    "nome": "CHEMITRIL INJET 10% 10ML",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 4,
+    "codigoBarras": "7898096855016",
+    "ativo": false
+  },
+  {
+    "id": "7898096855047",
+    "nome": "CHEMITRIL INJET 2,5% 20ML",
+    "categoria": "Outros",
+    "preco": 35,
+    "estoque": 5,
+    "codigoBarras": "7898096855047",
+    "ativo": false
+  },
+  {
+    "id": "7898954970882",
+    "nome": "CINTO DE SEGURANÇA DUPLO PRETO",
+    "categoria": "Passeio",
+    "preco": 45,
+    "estoque": 6,
+    "codigoBarras": "7898954970882",
+    "ativo": true
+  },
+  {
+    "id": "7898950334572",
+    "nome": "CINTO DE SEGURANCA SIMPLES",
+    "categoria": "Passeio",
+    "preco": 35,
+    "estoque": 7,
+    "codigoBarras": "7898950334572",
+    "ativo": true
+  },
+  {
+    "id": "7898568979639",
+    "nome": "COLEIRA ANTIPARASITARIA DUGS",
+    "categoria": "Passeio",
+    "preco": 35,
+    "estoque": 4,
+    "codigoBarras": "7898568979639",
+    "ativo": false
+  },
+  {
+    "id": "7898568979882",
+    "nome": "COLEIRA ANTIPULGAS CONFRONT GRANDES",
+    "categoria": "Passeio",
+    "preco": 40,
+    "estoque": -6,
+    "codigoBarras": "7898568979882",
+    "ativo": false
+  },
+  {
+    "id": "7898568979875",
+    "nome": "COLEIRA ANTIPULGAS CONFRONT MEDIOS E PQNOS",
+    "categoria": "Passeio",
+    "preco": 32,
+    "estoque": -4,
+    "codigoBarras": "7898568979875",
+    "ativo": false
+  },
+  {
+    "id": "7891126001452",
+    "nome": "COLEIRA ANTIPULGAS P/ GATOS - BULLCAT",
+    "categoria": "Passeio",
+    "preco": 40,
+    "estoque": 3,
+    "codigoBarras": "7891126001452",
+    "ativo": false
+  },
+  {
+    "id": "7898434460391",
+    "nome": "COLEIRA DE NYLON",
+    "categoria": "Passeio",
+    "preco": 15,
+    "estoque": 3,
+    "codigoBarras": "7898434460391",
+    "ativo": true
+  },
+  {
+    "id": "7891126002329",
+    "nome": "COLEIRA VAPONEX 20G",
+    "categoria": "Passeio",
+    "preco": 40,
+    "estoque": 0,
+    "codigoBarras": "7891126002329",
+    "ativo": false
+  },
+  {
+    "id": "2000000099986",
+    "nome": "COLEIRAS MIX PET P/ GATOS",
+    "categoria": "Passeio",
+    "preco": 10,
+    "estoque": 3,
+    "codigoBarras": "2000000099986",
+    "ativo": true
+  },
+  {
+    "id": "7898416702167",
+    "nome": "COLIRIO BIOFARM 20ML",
+    "categoria": "Medicamentos",
+    "preco": 38,
+    "estoque": 3,
+    "codigoBarras": "7898416702167",
+    "ativo": false
+  },
+  {
+    "id": "7898949819196",
+    "nome": "COMEDOURO 1250ML",
+    "categoria": "Alimentação",
+    "preco": 15,
+    "estoque": 0,
+    "codigoBarras": "7898949819196",
+    "ativo": true
+  },
+  {
+    "id": "7898949019190",
+    "nome": "COMEDOURO 1250ML",
+    "categoria": "Alimentação",
+    "preco": 15,
+    "estoque": 3,
+    "codigoBarras": "7898949019190",
+    "ativo": true
+  },
+  {
+    "id": "7898949819202",
+    "nome": "COMEDOURO 1850ML",
+    "categoria": "Alimentação",
+    "preco": 20,
+    "estoque": 3,
+    "codigoBarras": "7898949819202",
+    "ativo": true
+  },
+  {
+    "id": "2000000099970",
+    "nome": "COMEDOURO 2 FUROS MEDIO",
+    "categoria": "Alimentação",
+    "preco": 8.5,
+    "estoque": 12,
+    "codigoBarras": "2000000099970",
+    "ativo": true
+  },
+  {
+    "id": "7898975534131",
+    "nome": "COMEDOURO 550ML AZUL",
+    "categoria": "Alimentação",
+    "preco": 18,
+    "estoque": 2,
+    "codigoBarras": "7898975534131",
+    "ativo": true
+  },
+  {
+    "id": "7898975534148",
+    "nome": "COMEDOURO 550ML MARROM",
+    "categoria": "Alimentação",
+    "preco": 18,
+    "estoque": 6,
+    "codigoBarras": "7898975534148",
+    "ativo": true
+  },
+  {
+    "id": "7898949819189",
+    "nome": "COMEDOURO 820ML",
+    "categoria": "Alimentação",
+    "preco": 10,
+    "estoque": -1,
+    "codigoBarras": "7898949819189",
+    "ativo": true
+  },
+  {
+    "id": "7908173500040",
+    "nome": "COMEDOURO ALUMINIO PESADO GRANDE",
+    "categoria": "Alimentação",
+    "preco": 50,
+    "estoque": 0,
+    "codigoBarras": "7908173500040",
+    "ativo": true
+  },
+  {
+    "id": "7908173500033",
+    "nome": "COMEDOURO ALUMINIO PESADO MEDIO",
+    "categoria": "Alimentação",
+    "preco": 45,
+    "estoque": 1,
+    "codigoBarras": "7908173500033",
+    "ativo": true
+  },
+  {
+    "id": "7908346300309",
+    "nome": "COMEDOURO AZUL 1L",
+    "categoria": "Alimentação",
+    "preco": 13,
+    "estoque": 2,
+    "codigoBarras": "7908346300309",
+    "ativo": true
+  },
+  {
+    "id": "7908346300200",
+    "nome": "COMEDOURO AZUL 350ML",
+    "categoria": "Alimentação",
+    "preco": 7,
+    "estoque": 3,
+    "codigoBarras": "7908346300200",
+    "ativo": true
+  },
+  {
+    "id": "7908346300255",
+    "nome": "COMEDOURO AZUL 650ML",
+    "categoria": "Alimentação",
+    "preco": 10,
+    "estoque": 2,
+    "codigoBarras": "7908346300255",
+    "ativo": true
+  },
+  {
+    "id": "7898652692062",
+    "nome": "COMEDOURO AZUL 700ML",
+    "categoria": "Alimentação",
+    "preco": 15,
+    "estoque": 3,
+    "codigoBarras": "7898652692062",
+    "ativo": true
+  },
+  {
+    "id": "7898494930889",
+    "nome": "COMEDOURO P GATO VERMELHO",
+    "categoria": "Alimentação",
+    "preco": 15,
+    "estoque": 1,
+    "codigoBarras": "7898494930889",
+    "ativo": true
+  },
+  {
+    "id": "7898334221566",
+    "nome": "COMEDOURO P/ FRANGO 12 FUROS",
+    "categoria": "Alimentação",
+    "preco": 25,
+    "estoque": 11,
+    "codigoBarras": "7898334221566",
+    "ativo": true
+  },
+  {
+    "id": "17897936913210",
+    "nome": "COMEDOURO PAPAGAIO COLORIDO",
+    "categoria": "Alimentação",
+    "preco": 5,
+    "estoque": 5,
+    "codigoBarras": "17897936913210",
+    "ativo": true
+  },
+  {
+    "id": "7898652692222",
+    "nome": "COMEDOURO ROSA 1000ML",
+    "categoria": "Alimentação",
+    "preco": 20,
+    "estoque": 3,
+    "codigoBarras": "7898652692222",
+    "ativo": true
+  },
+  {
+    "id": "7908346300316",
+    "nome": "COMEDOURO ROSA 1L",
+    "categoria": "Alimentação",
+    "preco": 13,
+    "estoque": -3,
+    "codigoBarras": "7908346300316",
+    "ativo": true
+  },
+  {
+    "id": "7908346300217",
+    "nome": "COMEDOURO ROSA 350ML",
+    "categoria": "Alimentação",
+    "preco": 7,
+    "estoque": 3,
+    "codigoBarras": "7908346300217",
+    "ativo": true
+  },
+  {
+    "id": "7908346300262",
+    "nome": "COMEDOURO ROSA 650ML",
+    "categoria": "Alimentação",
+    "preco": 10,
+    "estoque": 1,
+    "codigoBarras": "7908346300262",
+    "ativo": true
+  },
+  {
+    "id": "7908346300330",
+    "nome": "COMEDOURO VERDE 1L",
+    "categoria": "Alimentação",
+    "preco": 13,
+    "estoque": 1,
+    "codigoBarras": "7908346300330",
+    "ativo": true
+  },
+  {
+    "id": "7908346300323",
+    "nome": "COMEDOURO VERM 1L",
+    "categoria": "Alimentação",
+    "preco": 13,
+    "estoque": -3,
+    "codigoBarras": "7908346300323",
+    "ativo": true
+  },
+  {
+    "id": "5420036916383",
+    "nome": "COMFORTIS 140MG",
+    "categoria": "Medicamentos",
+    "preco": 60,
+    "estoque": 1,
+    "codigoBarras": "5420036916383",
+    "ativo": false
+  },
+  {
+    "id": "5420036916529",
+    "nome": "COMFORTIS 1620MG",
+    "categoria": "Medicamentos",
+    "preco": 90,
+    "estoque": 4,
+    "codigoBarras": "5420036916529",
+    "ativo": false
+  },
+  {
+    "id": "5420036916727",
+    "nome": "COMFORTIS 270MG",
+    "categoria": "Medicamentos",
+    "preco": 75,
+    "estoque": 2,
+    "codigoBarras": "5420036916727",
+    "ativo": false
+  },
+  {
+    "id": "5420036916925",
+    "nome": "COMFORTIS 560MG",
+    "categoria": "Medicamentos",
+    "preco": 90,
+    "estoque": 4,
+    "codigoBarras": "5420036916925",
+    "ativo": false
+  },
+  {
+    "id": "5420036917069",
+    "nome": "COMFORTIS 810MG",
+    "categoria": "Medicamentos",
+    "preco": 85,
+    "estoque": -1,
+    "codigoBarras": "5420036917069",
+    "ativo": false
+  },
+  {
+    "id": "7897265600303",
+    "nome": "COMPOSTO ERVA CAMOMILA 500G",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 2,
+    "codigoBarras": "7897265600303",
+    "ativo": true
+  },
+  {
+    "id": "7897265603182",
+    "nome": "COMPOSTO ERVA MANGA 500G",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 0,
+    "codigoBarras": "7897265603182",
+    "ativo": true
+  },
+  {
+    "id": "7898994300168",
+    "nome": "CONCENTRADO P GALINHA 5KG",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 3,
+    "codigoBarras": "7898994300168",
+    "ativo": true
+  },
+  {
+    "id": "7898416701368",
+    "nome": "CONDROFARM CARTELA",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 5,
+    "codigoBarras": "7898416701368",
+    "ativo": false
+  },
+  {
+    "id": "2000000099978",
+    "nome": "CONTRACEPTIVO INJETAVEL EXTROGIN",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 1,
+    "codigoBarras": "2000000099978",
+    "ativo": false
+  },
+  {
+    "id": "7891126001629",
+    "nome": "COPROVET",
+    "categoria": "Outros",
+    "preco": 58,
+    "estoque": 2,
+    "codigoBarras": "7891126001629",
+    "ativo": false
+  },
+  {
+    "id": "2000000099980",
+    "nome": "CORDA 10MM",
+    "categoria": "Brinquedos",
+    "preco": 60,
+    "estoque": 999999999,
+    "codigoBarras": "2000000099980",
+    "ativo": true
+  },
+  {
+    "id": "2000000099991",
+    "nome": "CORDA 12MM",
+    "categoria": "Brinquedos",
+    "preco": 35,
+    "estoque": 2,
+    "codigoBarras": "2000000099991",
+    "ativo": true
+  },
+  {
+    "id": "2000000099989",
+    "nome": "CORDA 2MM BRANCA",
+    "categoria": "Brinquedos",
+    "preco": 255,
+    "estoque": 1,
+    "codigoBarras": "2000000099989",
+    "ativo": true
+  },
+  {
+    "id": "2000000099990",
+    "nome": "CORDA 4MM",
+    "categoria": "Brinquedos",
+    "preco": 110,
+    "estoque": 6,
+    "codigoBarras": "2000000099990",
+    "ativo": true
+  },
+  {
+    "id": "7897019137529",
+    "nome": "CORDA COLORIDA 6MM 97M",
+    "categoria": "Brinquedos",
+    "preco": 1.5,
+    "estoque": 99999884,
+    "codigoBarras": "7897019137529",
+    "ativo": true
+  },
+  {
+    "id": "7898961193458",
+    "nome": "CRISTAIS DE SILICA MICRO",
+    "categoria": "Areias e Higiênico",
+    "preco": 40,
+    "estoque": 3,
+    "codigoBarras": "7898961193458",
+    "ativo": true
+  },
+  {
+    "id": "7896014902040",
+    "nome": "CRUZWALDINA 500ML",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 5,
+    "codigoBarras": "7896014902040",
+    "ativo": false
+  },
+  {
+    "id": "2000000099979",
+    "nome": "CX CHA DE ABACAXI E HORTELA",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 12,
+    "codigoBarras": "2000000099979",
+    "ativo": true
+  },
+  {
+    "id": "7897265602277",
+    "nome": "CX CHA DE CAMOMILA E LARANJA",
+    "categoria": "Outros",
+    "preco": 6,
+    "estoque": 3,
+    "codigoBarras": "7897265602277",
+    "ativo": true
+  },
+  {
+    "id": "7898049716609",
+    "nome": "DECTOMAX ANTIPARASIT.INJ.50ML",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": -2,
+    "codigoBarras": "7898049716609",
+    "ativo": false
+  },
+  {
+    "id": "7891000247495",
+    "nome": "DENTALIFE 40G",
+    "categoria": "Outros",
+    "preco": 9,
+    "estoque": 7,
+    "codigoBarras": "7891000247495",
+    "ativo": true
+  },
+  {
+    "id": "7898359841350",
+    "nome": "DEO COLONIA 110ML",
+    "categoria": "Banho e Tosa",
+    "preco": 25,
+    "estoque": 3,
+    "codigoBarras": "7898359841350",
+    "ativo": false
+  },
+  {
+    "id": "7899098010809",
+    "nome": "DESTORCEDOR",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 10,
+    "codigoBarras": "7899098010809",
+    "ativo": true
+  },
+  {
+    "id": "7898096852398",
+    "nome": "DEXIUM SOLUCAO INJET 50ML",
+    "categoria": "Outros",
+    "preco": 50,
+    "estoque": 4,
+    "codigoBarras": "7898096852398",
+    "ativo": false
+  },
+  {
+    "id": "7898941459741",
+    "nome": "DIGESTIV 20 TABL",
+    "categoria": "Outros",
+    "preco": 50,
+    "estoque": 5,
+    "codigoBarras": "7898941459741",
+    "ativo": false
+  },
+  {
+    "id": "2000000000010",
+    "nome": "DINOSSAURO PELUCIA",
+    "categoria": "Brinquedos",
+    "preco": 40,
+    "estoque": 0,
+    "codigoBarras": "2000000000010",
+    "ativo": true
+  },
+  {
+    "id": "7898279420185",
+    "nome": "DIPIRONA 25% PRADODOG",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 8,
+    "codigoBarras": "7898279420185",
+    "ativo": false
+  },
+  {
+    "id": "7898096852152",
+    "nome": "DIUZON SOLUCAO INJET 10ML",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": 6,
+    "codigoBarras": "7898096852152",
+    "ativo": false
+  },
+  {
+    "id": "7898940811052",
+    "nome": "DOCKY 7KG",
+    "categoria": "Outros",
+    "preco": 35,
+    "estoque": -3,
+    "codigoBarras": "7898940811052",
+    "ativo": true
+  },
+  {
+    "id": "7898639620736",
+    "nome": "DODI 5KG",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": -17,
+    "codigoBarras": "7898639620736",
+    "ativo": true
+  },
+  {
+    "id": "7898639620606",
+    "nome": "DODI CAES 20KG",
+    "categoria": "Outros",
+    "preco": 110,
+    "estoque": 0,
+    "codigoBarras": "7898639620606",
+    "ativo": true
+  },
+  {
+    "id": "7897265602338",
+    "nome": "DODOG 10,1KG",
+    "categoria": "Outros",
+    "preco": 65,
+    "estoque": 6,
+    "codigoBarras": "7897265602338",
+    "ativo": true
+  },
+  {
+    "id": "7891000115633",
+    "nome": "DOG CHOW 100G CARNE AO MOLHO",
+    "categoria": "Rações",
+    "preco": 3,
+    "estoque": 20,
+    "codigoBarras": "7891000115633",
+    "ativo": true
+  },
+  {
+    "id": "7891000115671",
+    "nome": "DOG CHOW 100G CORDEIRO TENRO AO MOLHO",
+    "categoria": "Rações",
+    "preco": 3,
+    "estoque": 5,
+    "codigoBarras": "7891000115671",
+    "ativo": true
+  },
+  {
+    "id": "7891000116494",
+    "nome": "DOG CHOW FILHOTES 3KG",
+    "categoria": "Rações",
+    "preco": 45,
+    "estoque": 6,
+    "codigoBarras": "7891000116494",
+    "ativo": true
+  },
+  {
+    "id": "7891000350621",
+    "nome": "DOG CHOW MEDIAS E GRNDS 10,1KG",
+    "categoria": "Rações",
+    "preco": 128,
+    "estoque": 2,
+    "codigoBarras": "7891000350621",
+    "ativo": true
+  },
+  {
+    "id": "7891000246832",
+    "nome": "DOG CHOW MEDIAS E GRNDS 1KG",
+    "categoria": "Rações",
+    "preco": 20,
+    "estoque": 3,
+    "codigoBarras": "7891000246832",
+    "ativo": true
+  },
+  {
+    "id": "7891000435106",
+    "nome": "DOG CHOW MEDIAS E GRNDS 2,5KG",
+    "categoria": "Rações",
+    "preco": 35,
+    "estoque": 12,
+    "codigoBarras": "7891000435106",
+    "ativo": true
+  },
+  {
+    "id": "7891000116487",
+    "nome": "DOG CHOW PQNAS RACAS 15KG",
+    "categoria": "Rações",
+    "preco": 185,
+    "estoque": 5,
+    "codigoBarras": "7891000116487",
+    "ativo": true
+  },
+  {
+    "id": "7891000435151",
+    "nome": "DOG CHOW RCAS PQNAS 2,5KG",
+    "categoria": "Rações",
+    "preco": 35,
+    "estoque": 9,
+    "codigoBarras": "7891000435151",
+    "ativo": true
+  },
+  {
+    "id": "7891000262023",
+    "nome": "DOG CHOW SAUDE ORAL",
+    "categoria": "Rações",
+    "preco": 12,
+    "estoque": 4,
+    "codigoBarras": "7891000262023",
+    "ativo": true
+  },
+  {
+    "id": "7898359846676",
+    "nome": "DOG SIM 20ML",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 1,
+    "codigoBarras": "7898359846676",
+    "ativo": false
+  },
+  {
+    "id": "736532880482",
+    "nome": "DON NICO 20KG",
+    "categoria": "Outros",
+    "preco": 155,
+    "estoque": -2,
+    "codigoBarras": "736532880482",
+    "ativo": true
+  },
+  {
+    "id": "042882460770",
+    "nome": "DON NICO ADULTOS 20KG",
+    "categoria": "Outros",
+    "preco": 120,
+    "estoque": 3,
+    "codigoBarras": "042882460770",
+    "ativo": true
+  },
+  {
+    "id": "736532880475",
+    "nome": "DON NICO CAES 10,1KG",
+    "categoria": "Outros",
+    "preco": 80,
+    "estoque": 5,
+    "codigoBarras": "736532880475",
+    "ativo": true
+  },
+  {
+    "id": "736532880505",
+    "nome": "DON NICO GATOS ADULTOS 10KG",
+    "categoria": "Outros",
+    "preco": 89,
+    "estoque": 3,
+    "codigoBarras": "736532880505",
+    "ativo": true
+  },
+  {
+    "id": "25405668",
+    "nome": "EMENDA  P CORRENTE C ROSCA",
+    "categoria": "Passeio",
+    "preco": 20,
+    "estoque": 3,
+    "codigoBarras": "25405668",
+    "ativo": true
+  },
+  {
+    "id": "7898416700828",
+    "nome": "ENTERO ANTIDIARREICO",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": -4,
+    "codigoBarras": "7898416700828",
+    "ativo": false
+  },
+  {
+    "id": "7896394600079",
+    "nome": "ERVA MATE MOAGEM GR 1KG TERTULIA",
+    "categoria": "Outros",
+    "preco": 15.5,
+    "estoque": 5,
+    "codigoBarras": "7896394600079",
+    "ativo": true
+  },
+  {
+    "id": "7897265600358",
+    "nome": "ERVA MATE SCHNEIDER GOLD 1KG",
+    "categoria": "Outros",
+    "preco": 16,
+    "estoque": 7,
+    "codigoBarras": "7897265600358",
+    "ativo": true
+  },
+  {
+    "id": "7897265602703",
+    "nome": "ERVA MATE SCHNEIDER LARANJA 500G",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 2,
+    "codigoBarras": "7897265602703",
+    "ativo": true
+  },
+  {
+    "id": "7897265600259",
+    "nome": "ERVA SCHNEIDER MOIDA GROSSA 1KG",
+    "categoria": "Outros",
+    "preco": 15.5,
+    "estoque": 1,
+    "codigoBarras": "7897265600259",
+    "ativo": true
+  },
+  {
+    "id": "7909782027805",
+    "nome": "ESCOVA RELAX DE CANTO",
+    "categoria": "Banho e Tosa",
+    "preco": 25,
+    "estoque": 1,
+    "codigoBarras": "7909782027805",
+    "ativo": true
+  },
+  {
+    "id": "7898963228554",
+    "nome": "EXPURGAN 25CE 30ML",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 4,
+    "codigoBarras": "7898963228554",
+    "ativo": false
+  },
+  {
+    "id": "7898639621085",
+    "nome": "FAMIL CACHORROS ADULTOS 10KG",
+    "categoria": "Outros",
+    "preco": 120,
+    "estoque": 6,
+    "codigoBarras": "7898639621085",
+    "ativo": true
+  },
+  {
+    "id": "7898639620972",
+    "nome": "FAMIL CAO FILHOTE 10KG",
+    "categoria": "Outros",
+    "preco": 115,
+    "estoque": -6,
+    "codigoBarras": "7898639620972",
+    "ativo": true
+  },
+  {
+    "id": "7898639620965",
+    "nome": "FAMIL CAO PQNO PORTE 10KG",
+    "categoria": "Outros",
+    "preco": 110,
+    "estoque": 4,
+    "codigoBarras": "7898639620965",
+    "ativo": true
+  },
+  {
+    "id": "7898639621009",
+    "nome": "FAMIL GATOS CASTRADOS 10,1KG",
+    "categoria": "Outros",
+    "preco": 135,
+    "estoque": 2,
+    "codigoBarras": "7898639621009",
+    "ativo": true
+  },
+  {
+    "id": "200000009990",
+    "nome": "FARDO AREIA PUTZ",
+    "categoria": "Areias e Higiênico",
+    "preco": 66,
+    "estoque": 0,
+    "codigoBarras": "200000009990",
+    "ativo": true
+  },
+  {
+    "id": "17896273800030",
+    "nome": "FARDO DE PIPI CAT 6x4KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 84,
+    "estoque": 17,
+    "codigoBarras": "17896273800030",
+    "ativo": true
+  },
+  {
+    "id": "7891000325322",
+    "nome": "FARDO DOG CHOW 1,3KG PQNAS RACS C/8",
+    "categoria": "Rações",
+    "preco": 80,
+    "estoque": 0,
+    "codigoBarras": "7891000325322",
+    "ativo": true
+  },
+  {
+    "id": "7898939116496",
+    "nome": "FARINHA DE CALCIO 200G",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 2,
+    "codigoBarras": "7898939116496",
+    "ativo": false
+  },
+  {
+    "id": "7898932559764",
+    "nome": "FEMUR DEFUMADO",
+    "categoria": "Outros",
+    "preco": 36,
+    "estoque": 0,
+    "codigoBarras": "7898932559764",
+    "ativo": true
+  },
+  {
+    "id": "792649632994",
+    "nome": "FENO PRENSADO 500G",
+    "categoria": "Outros",
+    "preco": 16,
+    "estoque": 5,
+    "codigoBarras": "792649632994",
+    "ativo": true
+  },
+  {
+    "id": "7898612671557",
+    "nome": "filezinho palito 80gr.5un.",
+    "categoria": "Outros",
+    "preco": 23,
+    "estoque": 3,
+    "codigoBarras": "7898612671557",
+    "ativo": true
+  },
+  {
+    "id": "7898674092161",
+    "nome": "FINOTRATO NATURE CAES PQNAS RCAS 15KG",
+    "categoria": "Rações",
+    "preco": 230,
+    "estoque": 5,
+    "codigoBarras": "7898674092161",
+    "ativo": true
+  },
+  {
+    "id": "7898674093328",
+    "nome": "FINOTRATO PRIME GATOS CAST 10,1KG",
+    "categoria": "Rações",
+    "preco": 145,
+    "estoque": 4,
+    "codigoBarras": "7898674093328",
+    "ativo": true
+  },
+  {
+    "id": "7896411449100",
+    "nome": "FIO NYLON 1.8MM",
+    "categoria": "Outros",
+    "preco": 300,
+    "estoque": 2,
+    "codigoBarras": "7896411449100",
+    "ativo": true
+  },
+  {
+    "id": "7896411449131",
+    "nome": "FIO NYLON 3.00MM",
+    "categoria": "Outros",
+    "preco": 200,
+    "estoque": 1,
+    "codigoBarras": "7896411449131",
+    "ativo": true
+  },
+  {
+    "id": "7891960832939",
+    "nome": "FITA ISOLANTE 19MM X 10M",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 1,
+    "codigoBarras": "7891960832939",
+    "ativo": true
+  },
+  {
+    "id": "7897265602000",
+    "nome": "FLOR DE MATE COMP DE ERVAS 500G",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 6,
+    "codigoBarras": "7897265602000",
+    "ativo": true
+  },
+  {
+    "id": "7898416703065",
+    "nome": "FLORAFARM PET 14G",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 4,
+    "codigoBarras": "7898416703065",
+    "ativo": false
+  },
+  {
+    "id": "7898416700781",
+    "nome": "FLOXICLIN - 10 ml - INJET",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 5,
+    "codigoBarras": "7898416700781",
+    "ativo": false
+  },
+  {
+    "id": "7898416702488",
+    "nome": "FLOXICLIN 150MG",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 8,
+    "codigoBarras": "7898416702488",
+    "ativo": false
+  },
+  {
+    "id": "7898416702471",
+    "nome": "FLOXICLIN 50MG",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 14,
+    "codigoBarras": "7898416702471",
+    "ativo": false
+  },
+  {
+    "id": "7898416700798",
+    "nome": "FLOXICLIN 50ML",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 4,
+    "codigoBarras": "7898416700798",
+    "ativo": false
+  },
+  {
+    "id": "7898322629978",
+    "nome": "FORRAGEM PRENSADA 800G",
+    "categoria": "Outros",
+    "preco": 8,
+    "estoque": 0,
+    "codigoBarras": "7898322629978",
+    "ativo": true
+  },
+  {
+    "id": "7891000119679",
+    "nome": "FRISKIES 40G CAMARAO",
+    "categoria": "Descanso",
+    "preco": 6.5,
+    "estoque": 9,
+    "codigoBarras": "7891000119679",
+    "ativo": true
+  },
+  {
+    "id": "7891000119624",
+    "nome": "FRISKIES 40G FRANGO",
+    "categoria": "Outros",
+    "preco": 6.5,
+    "estoque": 4,
+    "codigoBarras": "7891000119624",
+    "ativo": true
+  },
+  {
+    "id": "7891000118115",
+    "nome": "FRISKIES 85G ATUM AO MOLHO",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": 11,
+    "codigoBarras": "7891000118115",
+    "ativo": true
+  },
+  {
+    "id": "7891000115763",
+    "nome": "FRISKIES 85G CARNE AO MOLHO",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": 11,
+    "codigoBarras": "7891000115763",
+    "ativo": true
+  },
+  {
+    "id": "7891000115787",
+    "nome": "FRISKIES 85G CORDEIRO AO MOLHO",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": -29,
+    "codigoBarras": "7891000115787",
+    "ativo": true
+  },
+  {
+    "id": "7891000118085",
+    "nome": "FRISKIES 85G PEIXE BRANCO AO MOLHO",
+    "categoria": "Outros Animais",
+    "preco": 2.75,
+    "estoque": -10,
+    "codigoBarras": "7891000118085",
+    "ativo": true
+  },
+  {
+    "id": "7891000118108",
+    "nome": "FRISKIES 85G SALMAO AO MOLHO",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": -29,
+    "codigoBarras": "7891000118108",
+    "ativo": true
+  },
+  {
+    "id": "7891000077276",
+    "nome": "FRISKIES PACOTE GATINHOS FRANGO, CENOURA E LEITE FILHOTES",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 6,
+    "codigoBarras": "7891000077276",
+    "ativo": true
+  },
+  {
+    "id": "7898053772905",
+    "nome": "FRONTLINE PLUS ANTIPULGAS GATOS",
+    "categoria": "Medicamentos",
+    "preco": 45,
+    "estoque": -3,
+    "codigoBarras": "7898053772905",
+    "ativo": false
+  },
+  {
+    "id": "7898053770239",
+    "nome": "Frontline Plus Spray 100ML",
+    "categoria": "Medicamentos",
+    "preco": 120,
+    "estoque": -1,
+    "codigoBarras": "7898053770239",
+    "ativo": false
+  },
+  {
+    "id": "7898053772578",
+    "nome": "FRONTLINE TOPSPOT ANTIPULGAS GATOS",
+    "categoria": "Medicamentos",
+    "preco": 40,
+    "estoque": 2,
+    "codigoBarras": "7898053772578",
+    "ativo": false
+  },
+  {
+    "id": "7897164900252",
+    "nome": "GAIOLA CODORNA PEQ PRATA",
+    "categoria": "Outros",
+    "preco": 140,
+    "estoque": 1,
+    "codigoBarras": "7897164900252",
+    "ativo": true
+  },
+  {
+    "id": "7908405901614",
+    "nome": "GAIOLA VERDE PASSARINHO",
+    "categoria": "Outros",
+    "preco": 85,
+    "estoque": 2,
+    "codigoBarras": "7908405901614",
+    "ativo": true
+  },
+  {
+    "id": "2000000099985",
+    "nome": "GALINHA BRINQUEDO",
+    "categoria": "Brinquedos",
+    "preco": 20,
+    "estoque": 0,
+    "codigoBarras": "2000000099985",
+    "ativo": true
+  },
+  {
+    "id": "2000000099984",
+    "nome": "GALINHA BRINQUEDO PEQ",
+    "categoria": "Brinquedos",
+    "preco": 10,
+    "estoque": 0,
+    "codigoBarras": "2000000099984",
+    "ativo": true
+  },
+  {
+    "id": "619205829202",
+    "nome": "GDOG 25KG",
+    "categoria": "Outros",
+    "preco": 130,
+    "estoque": 3,
+    "codigoBarras": "619205829202",
+    "ativo": true
+  },
+  {
+    "id": "618341119536",
+    "nome": "GDOG 7KG",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 0,
+    "codigoBarras": "618341119536",
+    "ativo": true
+  },
+  {
+    "id": "2000000099958",
+    "nome": "GRANEL ASTRO SELECTION",
+    "categoria": "Outros",
+    "preco": 13.5,
+    "estoque": 999971,
+    "codigoBarras": "2000000099958",
+    "ativo": true
+  },
+  {
+    "id": "2000000099941",
+    "nome": "GRANEL BAH CAT",
+    "categoria": "Outros",
+    "preco": 9,
+    "estoque": 99907,
+    "codigoBarras": "2000000099941",
+    "ativo": true
+  },
+  {
+    "id": "2000000099960",
+    "nome": "GRANEL BAHDOG FILHOTE",
+    "categoria": "Rações",
+    "preco": 9,
+    "estoque": 9999923,
+    "codigoBarras": "2000000099960",
+    "ativo": true
+  },
+  {
+    "id": "2000000099951",
+    "nome": "GRANEL BAHDOG FILHOTE",
+    "categoria": "Rações",
+    "preco": 9,
+    "estoque": 99999970,
+    "codigoBarras": "2000000099951",
+    "ativo": true
+  },
+  {
+    "id": "2000000099945",
+    "nome": "GRANEL BAHDOG PERFORMANCE",
+    "categoria": "Rações",
+    "preco": 10,
+    "estoque": 99997917,
+    "codigoBarras": "2000000099945",
+    "ativo": true
+  },
+  {
+    "id": "2000000099940",
+    "nome": "GRANEL BILLY CAT FILHOTE",
+    "categoria": "Outros",
+    "preco": 13,
+    "estoque": 999976,
+    "codigoBarras": "2000000099940",
+    "ativo": true
+  },
+  {
+    "id": "2000000099956",
+    "nome": "GRANEL BILLY DOG",
+    "categoria": "Outros",
+    "preco": 7,
+    "estoque": 9999974,
+    "codigoBarras": "2000000099956",
+    "ativo": true
+  },
+  {
+    "id": "2000000099948",
+    "nome": "GRANEL BIOCARE",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 9999807,
+    "codigoBarras": "2000000099948",
+    "ativo": true
+  },
+  {
+    "id": "2000000099934",
+    "nome": "GRANEL BRAIN PLUS ADULTOS PQNAS RCAS",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 9999702,
+    "codigoBarras": "2000000099934",
+    "ativo": true
+  },
+  {
+    "id": "2000000099922",
+    "nome": "GRANEL BRAIN PLUS GATOS CASTRADOS",
+    "categoria": "Outros",
+    "preco": 19,
+    "estoque": 9999955,
+    "codigoBarras": "2000000099922",
+    "ativo": true
+  },
+  {
+    "id": "2000000099976",
+    "nome": "GRANEL CANISTER",
+    "categoria": "Areias e Higiênico",
+    "preco": 10,
+    "estoque": 99999707,
+    "codigoBarras": "2000000099976",
+    "ativo": true
+  },
+  {
+    "id": "2000000099918",
+    "nome": "GRANEL CAT CHOW ADULTO CARNE",
+    "categoria": "Rações",
+    "preco": 16.5,
+    "estoque": 99849,
+    "codigoBarras": "2000000099918",
+    "ativo": true
+  },
+  {
+    "id": "2000000099916",
+    "nome": "GRANEL CAT CHOW CASTRADO FRGO",
+    "categoria": "Rações",
+    "preco": 18,
+    "estoque": 99956,
+    "codigoBarras": "2000000099916",
+    "ativo": true
+  },
+  {
+    "id": "2000000099914",
+    "nome": "GRANEL CAT CHOW FRGO FILHOTE",
+    "categoria": "Rações",
+    "preco": 17,
+    "estoque": 99954,
+    "codigoBarras": "2000000099914",
+    "ativo": true
+  },
+  {
+    "id": "2000000099929",
+    "nome": "GRANEL DOG CHOW ADULTO PQNAS RAÇAS",
+    "categoria": "Rações",
+    "preco": 14,
+    "estoque": 999941,
+    "codigoBarras": "2000000099929",
+    "ativo": true
+  },
+  {
+    "id": "2000000099928",
+    "nome": "GRANEL DOG CHOW FILHOTE CRNE, FRGO ARROZ",
+    "categoria": "Rações",
+    "preco": 15,
+    "estoque": 99999939,
+    "codigoBarras": "2000000099928",
+    "ativo": true
+  },
+  {
+    "id": "2000000099943",
+    "nome": "GRANEL DOG CHOW SENIOR",
+    "categoria": "Rações",
+    "preco": 15,
+    "estoque": 99999962,
+    "codigoBarras": "2000000099943",
+    "ativo": true
+  },
+  {
+    "id": "2000000099962",
+    "nome": "GRANEL DON NICO CARNE E FRANGO",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 99999962,
+    "codigoBarras": "2000000099962",
+    "ativo": true
+  },
+  {
+    "id": "2000000099999",
+    "nome": "GRANEL DON NICO GATOS ADULTOS",
+    "categoria": "Outros",
+    "preco": 13,
+    "estoque": 999999,
+    "codigoBarras": "2000000099999",
+    "ativo": true
+  },
+  {
+    "id": "2000000099952",
+    "nome": "GRANEL FAMIL CAO PQNO PORTE",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 99999947,
+    "codigoBarras": "2000000099952",
+    "ativo": true
+  },
+  {
+    "id": "2000000099932",
+    "nome": "GRANEL FAMIL FILHOTES",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 99999957,
+    "codigoBarras": "2000000099932",
+    "ativo": true
+  },
+  {
+    "id": "2000000099915",
+    "nome": "GRANEL FAMIL GATOS CASTRADOS",
+    "categoria": "Outros",
+    "preco": 14,
+    "estoque": 99938,
+    "codigoBarras": "2000000099915",
+    "ativo": true
+  },
+  {
+    "id": "2000000100007",
+    "nome": "GRANEL FINOTRATO NATURE CAES RCAS PQNAS",
+    "categoria": "Rações",
+    "preco": 18,
+    "estoque": 999,
+    "codigoBarras": "2000000100007",
+    "ativo": true
+  },
+  {
+    "id": "2000000100008",
+    "nome": "GRANEL FINOTRATO PRIME CAES FILHOT",
+    "categoria": "Rações",
+    "preco": 12,
+    "estoque": 999,
+    "codigoBarras": "2000000100008",
+    "ativo": true
+  },
+  {
+    "id": "2000000100009",
+    "nome": "GRANEL FINOTRATO PRIME GATOS FILHOT",
+    "categoria": "Rações",
+    "preco": 15,
+    "estoque": 999,
+    "codigoBarras": "2000000100009",
+    "ativo": true
+  },
+  {
+    "id": "2000000099959",
+    "nome": "GRANEL FRISKIES MIX DE CARNES",
+    "categoria": "Outros",
+    "preco": 14,
+    "estoque": 99999973,
+    "codigoBarras": "2000000099959",
+    "ativo": true
+  },
+  {
+    "id": "2000000099953",
+    "nome": "GRANEL GATSY CARNE NESTLE",
+    "categoria": "Outros",
+    "preco": 14,
+    "estoque": 999999976,
+    "codigoBarras": "2000000099953",
+    "ativo": true
+  },
+  {
+    "id": "2000000099921",
+    "nome": "GRANEL KIARA PEIXE E FRGO",
+    "categoria": "Outros Animais",
+    "preco": 10,
+    "estoque": 995991,
+    "codigoBarras": "2000000099921",
+    "ativo": true
+  },
+  {
+    "id": "2000000099955",
+    "nome": "GRANEL LEROY",
+    "categoria": "Outros",
+    "preco": 14,
+    "estoque": 99999861,
+    "codigoBarras": "2000000099955",
+    "ativo": true
+  },
+  {
+    "id": "2000000099946",
+    "nome": "GRANEL MIKDOG",
+    "categoria": "Outros",
+    "preco": 14,
+    "estoque": 9999973,
+    "codigoBarras": "2000000099946",
+    "ativo": true
+  },
+  {
+    "id": "2000000099947",
+    "nome": "GRANEL MIKDOG NUGGETS",
+    "categoria": "Outros",
+    "preco": 16,
+    "estoque": 999974,
+    "codigoBarras": "2000000099947",
+    "ativo": true
+  },
+  {
+    "id": "2000000099920",
+    "nome": "GRANEL MIMOS CAT",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 999729,
+    "codigoBarras": "2000000099920",
+    "ativo": true
+  },
+  {
+    "id": "2000000099938",
+    "nome": "GRANEL MISTURÃO",
+    "categoria": "Outros",
+    "preco": 6,
+    "estoque": 9999883,
+    "codigoBarras": "2000000099938",
+    "ativo": true
+  },
+  {
+    "id": "2000000100010",
+    "nome": "GRANEL MIX PERIQUITO",
+    "categoria": "Outros",
+    "preco": 11,
+    "estoque": 99993,
+    "codigoBarras": "2000000100010",
+    "ativo": true
+  },
+  {
+    "id": "2000000099957",
+    "nome": "GRANEL MONELLO BOLA DE PELOS",
+    "categoria": "Brinquedos",
+    "preco": 18,
+    "estoque": 9999952,
+    "codigoBarras": "2000000099957",
+    "ativo": true
+  },
+  {
+    "id": "2000000099933",
+    "nome": "GRANEL MONELLO FILHOTES",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 999831,
+    "codigoBarras": "2000000099933",
+    "ativo": true
+  },
+  {
+    "id": "2000000099913",
+    "nome": "GRANEL MONELLO GATO FILHOTES",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 100001073,
+    "codigoBarras": "2000000099913",
+    "ativo": true
+  },
+  {
+    "id": "2000000099936",
+    "nome": "GRANEL MONELLO RCAS PQNAS",
+    "categoria": "Outros",
+    "preco": 17,
+    "estoque": 99881,
+    "codigoBarras": "2000000099936",
+    "ativo": true
+  },
+  {
+    "id": "2000000099996",
+    "nome": "GRANEL NUTRI CAES ADULTOS RAÇAS PQNAS",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 999999,
+    "codigoBarras": "2000000099996",
+    "ativo": true
+  },
+  {
+    "id": "2000000099995",
+    "nome": "GRANEL NUTRI CAES FILHOTES RAÇAS PQNAS",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 999999,
+    "codigoBarras": "2000000099995",
+    "ativo": true
+  },
+  {
+    "id": "2000000099998",
+    "nome": "GRANEL NUTRI GATOS ADULTOS",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 999999,
+    "codigoBarras": "2000000099998",
+    "ativo": true
+  },
+  {
+    "id": "2000000099997",
+    "nome": "GRANEL NUTRI GATOS CAST",
+    "categoria": "Outros",
+    "preco": 13,
+    "estoque": 999999,
+    "codigoBarras": "2000000099997",
+    "ativo": true
+  },
+  {
+    "id": "2000000099964",
+    "nome": "GRANEL NUTRI SABORE PREMIUM",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 999990,
+    "codigoBarras": "2000000099964",
+    "ativo": false
+  },
+  {
+    "id": "2000000099925",
+    "nome": "GRANEL OPTIMUM ADULTOS RAÇAS PQNAS",
+    "categoria": "Outros",
+    "preco": 16,
+    "estoque": 9999958,
+    "codigoBarras": "2000000099925",
+    "ativo": true
+  },
+  {
+    "id": "2000000099924",
+    "nome": "GRANEL OPTIMUM GATOS CASTRADOS",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 999965,
+    "codigoBarras": "2000000099924",
+    "ativo": true
+  },
+  {
+    "id": "2000000099927",
+    "nome": "GRANEL PEDIGREE ADULTOS PEQUENAS RAÇAS",
+    "categoria": "Rações",
+    "preco": 15,
+    "estoque": 9999967,
+    "codigoBarras": "2000000099927",
+    "ativo": true
+  },
+  {
+    "id": "2000000099926",
+    "nome": "GRANEL PEDIGREE EQUILIBRIO NATURAL",
+    "categoria": "Rações",
+    "preco": 16,
+    "estoque": 999982,
+    "codigoBarras": "2000000099926",
+    "ativo": true
+  },
+  {
+    "id": "2000000100000",
+    "nome": "GRANEL POWER TRAINING",
+    "categoria": "Outros",
+    "preco": 13,
+    "estoque": 999999,
+    "codigoBarras": "2000000100000",
+    "ativo": true
+  },
+  {
+    "id": "2000000099942",
+    "nome": "GRANEL PRIMOCAO JUNIOR",
+    "categoria": "Outros",
+    "preco": 17,
+    "estoque": 9999971,
+    "codigoBarras": "2000000099942",
+    "ativo": true
+  },
+  {
+    "id": "2000000099935",
+    "nome": "GRANEL PRIMOCAO PQNS RCAS",
+    "categoria": "Outros",
+    "preco": 13,
+    "estoque": 99803,
+    "codigoBarras": "2000000099935",
+    "ativo": true
+  },
+  {
+    "id": "2000000099919",
+    "nome": "GRANEL PRIMOGATO BLEND ADULTO",
+    "categoria": "Outros",
+    "preco": 17,
+    "estoque": 9999968,
+    "codigoBarras": "2000000099919",
+    "ativo": true
+  },
+  {
+    "id": "2000000099950",
+    "nome": "GRANEL PRIMOGATO FILHOTE",
+    "categoria": "Outros",
+    "preco": 16,
+    "estoque": 9999951,
+    "codigoBarras": "2000000099950",
+    "ativo": true
+  },
+  {
+    "id": "2000000099949",
+    "nome": "GRANEL PRIMOGATO ORIGINAL",
+    "categoria": "Outros",
+    "preco": 13.5,
+    "estoque": 9999906,
+    "codigoBarras": "2000000099949",
+    "ativo": true
+  },
+  {
+    "id": "2000000099954",
+    "nome": "GRANEL QUARTZ FRANGO",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 9999935,
+    "codigoBarras": "2000000099954",
+    "ativo": true
+  },
+  {
+    "id": "2000000099944",
+    "nome": "GRANEL SAPECA ADULTO",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 9998002,
+    "codigoBarras": "2000000099944",
+    "ativo": true
+  },
+  {
+    "id": "2000000099931",
+    "nome": "GRANEL SAPECA FILHOTES",
+    "categoria": "Outros",
+    "preco": 13,
+    "estoque": 9999918,
+    "codigoBarras": "2000000099931",
+    "ativo": true
+  },
+  {
+    "id": "2000000099963",
+    "nome": "GRANEL SENIOR",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 9999996,
+    "codigoBarras": "2000000099963",
+    "ativo": false
+  },
+  {
+    "id": "2000000099937",
+    "nome": "GRANEL THREE DOGS ADULTOS PQNS RCAS",
+    "categoria": "Outros",
+    "preco": 17,
+    "estoque": 999763,
+    "codigoBarras": "2000000099937",
+    "ativo": true
+  },
+  {
+    "id": "2000000099930",
+    "nome": "GRANEL THREE DOGS FILHOTE PQNS RCS",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 9999972,
+    "codigoBarras": "2000000099930",
+    "ativo": true
+  },
+  {
+    "id": "20000000099910",
+    "nome": "GRANEL WHISKAS ADULTO CARNE",
+    "categoria": "Rações",
+    "preco": 19,
+    "estoque": 10000974,
+    "codigoBarras": "20000000099910",
+    "ativo": true
+  },
+  {
+    "id": "2000000099923",
+    "nome": "GRANEL WHISKAS CARNE E LEITE FILHOTE",
+    "categoria": "Rações",
+    "preco": 19,
+    "estoque": 9999959,
+    "codigoBarras": "2000000099923",
+    "ativo": true
+  },
+  {
+    "id": "2000000099939",
+    "nome": "GRANEL WHISKAS CASTRADOS CARNE",
+    "categoria": "Rações",
+    "preco": 19,
+    "estoque": 99999969,
+    "codigoBarras": "2000000099939",
+    "ativo": true
+  },
+  {
+    "id": "7898964255160",
+    "nome": "GRANULADO MADEIRA 7KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 30,
+    "estoque": 15,
+    "codigoBarras": "7898964255160",
+    "ativo": true
+  },
+  {
+    "id": "7898695940007",
+    "nome": "GUARDA CHUVA PRETO GRANDE",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 1,
+    "codigoBarras": "7898695940007",
+    "ativo": true
+  },
+  {
+    "id": "7898950334282",
+    "nome": "GUIA AMERICANO DUPLO G",
+    "categoria": "Passeio",
+    "preco": 50,
+    "estoque": 6,
+    "codigoBarras": "7898950334282",
+    "ativo": true
+  },
+  {
+    "id": "7898950334275",
+    "nome": "GUIA AMERICANO DUPLO M",
+    "categoria": "Passeio",
+    "preco": 45,
+    "estoque": 5,
+    "codigoBarras": "7898950334275",
+    "ativo": true
+  },
+  {
+    "id": "7898950334268",
+    "nome": "GUIA AMERICANO DUPLO P",
+    "categoria": "Passeio",
+    "preco": 40,
+    "estoque": 5,
+    "codigoBarras": "7898950334268",
+    "ativo": true
+  },
+  {
+    "id": "2000000099975",
+    "nome": "GUIA PEITORAL GG",
+    "categoria": "Passeio",
+    "preco": 55,
+    "estoque": 3,
+    "codigoBarras": "2000000099975",
+    "ativo": true
+  },
+  {
+    "id": "7898683955754",
+    "nome": "GUIA PEITORAL NYLON COLORIDA",
+    "categoria": "Passeio",
+    "preco": 50,
+    "estoque": 2,
+    "codigoBarras": "7898683955754",
+    "ativo": true
+  },
+  {
+    "id": "7899948403027",
+    "nome": "GUIA PET TAM G",
+    "categoria": "Passeio",
+    "preco": 60,
+    "estoque": 1,
+    "codigoBarras": "7899948403027",
+    "ativo": true
+  },
+  {
+    "id": "7629186806409",
+    "nome": "HAMBURGUER BORRACHA",
+    "categoria": "Outros",
+    "preco": 14,
+    "estoque": -1,
+    "codigoBarras": "7629186806409",
+    "ativo": true
+  },
+  {
+    "id": "7898360462162",
+    "nome": "HAMSTER BALL",
+    "categoria": "Outros Animais",
+    "preco": 45,
+    "estoque": 1,
+    "codigoBarras": "7898360462162",
+    "ativo": true
+  },
+  {
+    "id": "7898947139159",
+    "nome": "HECTOPAR SPOT 0,4ML",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 1,
+    "codigoBarras": "7898947139159",
+    "ativo": false
+  },
+  {
+    "id": "7898947139128",
+    "nome": "HEMOSTAK 100ML",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 7,
+    "codigoBarras": "7898947139128",
+    "ativo": false
+  },
+  {
+    "id": "7898941459666",
+    "nome": "HEPATIC 20 TABL",
+    "categoria": "Outros",
+    "preco": 50,
+    "estoque": 2,
+    "codigoBarras": "7898941459666",
+    "ativo": false
+  },
+  {
+    "id": "7898031810193",
+    "nome": "IBATRIM ORAL 20ML",
+    "categoria": "Outros",
+    "preco": 49,
+    "estoque": 1,
+    "codigoBarras": "7898031810193",
+    "ativo": false
+  },
+  {
+    "id": "7898026080532",
+    "nome": "INSET.MATA PULGAS DIPIL 50G",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 9,
+    "codigoBarras": "7898026080532",
+    "ativo": false
+  },
+  {
+    "id": "7898567702467",
+    "nome": "INSETICIDA BUZZ",
+    "categoria": "Outros",
+    "preco": 14,
+    "estoque": 4,
+    "codigoBarras": "7898567702467",
+    "ativo": false
+  },
+  {
+    "id": "7898374660622",
+    "nome": "ISCANILL 50G",
+    "categoria": "Descanso",
+    "preco": 2,
+    "estoque": 34,
+    "codigoBarras": "7898374660622",
+    "ativo": false
+  },
+  {
+    "id": "7896027073010",
+    "nome": "JIMO DESENGRIPANTE AEROSOL",
+    "categoria": "Outros",
+    "preco": 35,
+    "estoque": 4,
+    "codigoBarras": "7896027073010",
+    "ativo": false
+  },
+  {
+    "id": "7896027080001",
+    "nome": "JIMO GAS CAIXA C/2UNIDADE TUBOS 35GR",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 3,
+    "codigoBarras": "7896027080001",
+    "ativo": true
+  },
+  {
+    "id": "7891108633503",
+    "nome": "K-7 CARRAPATICIDA",
+    "categoria": "Outros",
+    "preco": 39,
+    "estoque": 3,
+    "codigoBarras": "7891108633503",
+    "ativo": false
+  },
+  {
+    "id": "7898639621726",
+    "nome": "KIARA 10KG",
+    "categoria": "Outros",
+    "preco": 99,
+    "estoque": -1,
+    "codigoBarras": "7898639621726",
+    "ativo": true
+  },
+  {
+    "id": "7899852601212",
+    "nome": "KIT CAMA CÃES E GATOS",
+    "categoria": "Descanso",
+    "preco": 450,
+    "estoque": 1,
+    "codigoBarras": "7899852601212",
+    "ativo": false
+  },
+  {
+    "id": "7897265603014",
+    "nome": "KIT QUENTÃO",
+    "categoria": "Outros",
+    "preco": 9,
+    "estoque": 9,
+    "codigoBarras": "7897265603014",
+    "ativo": true
+  },
+  {
+    "id": "7898739340213",
+    "nome": "K-OTHRINE",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 6,
+    "codigoBarras": "7898739340213",
+    "ativo": false
+  },
+  {
+    "id": "7897940704098",
+    "nome": "LAVIZ PRO PRE PET 14G",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 4,
+    "codigoBarras": "7897940704098",
+    "ativo": false
+  },
+  {
+    "id": "2000000000011",
+    "nome": "LEAO PELUCIA",
+    "categoria": "Brinquedos",
+    "preco": 40,
+    "estoque": 0,
+    "codigoBarras": "2000000000011",
+    "ativo": true
+  },
+  {
+    "id": "7898406300625",
+    "nome": "LILIDOG 20KG",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 1,
+    "codigoBarras": "7898406300625",
+    "ativo": true
+  },
+  {
+    "id": "7898406304197",
+    "nome": "LILIDOG 5KG",
+    "categoria": "Outros",
+    "preco": 26,
+    "estoque": 0,
+    "codigoBarras": "7898406304197",
+    "ativo": true
+  },
+  {
+    "id": "7898949377887",
+    "nome": "LIMPADOR CONCENTRADO CRAVO E CANELA",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 24,
+    "codigoBarras": "7898949377887",
+    "ativo": true
+  },
+  {
+    "id": "7898949377436",
+    "nome": "LIMPADOR CONCENTRADO LAVANDA",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 21,
+    "codigoBarras": "7898949377436",
+    "ativo": true
+  },
+  {
+    "id": "7898949377443",
+    "nome": "LIMPADOR CONCENTRADO MARINE",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 23,
+    "codigoBarras": "7898949377443",
+    "ativo": true
+  },
+  {
+    "id": "7898905706430",
+    "nome": "LOGICAT 4KG",
+    "categoria": "Outros",
+    "preco": 7.5,
+    "estoque": 0,
+    "codigoBarras": "7898905706430",
+    "ativo": true
+  },
+  {
+    "id": "7898927870775",
+    "nome": "LONA 2X2 AZUL",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 1,
+    "codigoBarras": "7898927870775",
+    "ativo": true
+  },
+  {
+    "id": "7898968528192",
+    "nome": "LONA 4X4 VERMELHO",
+    "categoria": "Outros",
+    "preco": 80,
+    "estoque": 0,
+    "codigoBarras": "7898968528192",
+    "ativo": true
+  },
+  {
+    "id": "7898927870867",
+    "nome": "LONA 5X5 AZUL",
+    "categoria": "Outros",
+    "preco": 115,
+    "estoque": 1,
+    "codigoBarras": "7898927870867",
+    "ativo": true
+  },
+  {
+    "id": "7898474542019",
+    "nome": "MACACAO SOFT TAM G",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": 0,
+    "codigoBarras": "7898474542019",
+    "ativo": true
+  },
+  {
+    "id": "7898474542002",
+    "nome": "MACACAO SOFT TAM M",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 1,
+    "codigoBarras": "7898474542002",
+    "ativo": true
+  },
+  {
+    "id": "7890001005585",
+    "nome": "MACACO PELUCIA",
+    "categoria": "Brinquedos",
+    "preco": 40,
+    "estoque": 1,
+    "codigoBarras": "7890001005585",
+    "ativo": true
+  },
+  {
+    "id": "7908405900754",
+    "nome": "MAMADEIRA PARA FILHOTES",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 2,
+    "codigoBarras": "7908405900754",
+    "ativo": true
+  },
+  {
+    "id": "7897172502004",
+    "nome": "MANDALA 10KG",
+    "categoria": "Outros",
+    "preco": 85,
+    "estoque": -7,
+    "codigoBarras": "7897172502004",
+    "ativo": true
+  },
+  {
+    "id": "7897172502080",
+    "nome": "MANDALA 20KG",
+    "categoria": "Outros",
+    "preco": 135,
+    "estoque": 2,
+    "codigoBarras": "7897172502080",
+    "ativo": true
+  },
+  {
+    "id": "7898612672431",
+    "nome": "MASTIG FILEZINHO CHIPS 250G",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": 5,
+    "codigoBarras": "7898612672431",
+    "ativo": true
+  },
+  {
+    "id": "7898612672462",
+    "nome": "MASTIG PALITOS RIGIDOS 1KG",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 15,
+    "codigoBarras": "7898612672462",
+    "ativo": true
+  },
+  {
+    "id": "7898597993477",
+    "nome": "MATA BICHEIRA AZULÃO 500ML",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 3,
+    "codigoBarras": "7898597993477",
+    "ativo": false
+  },
+  {
+    "id": "7898934925208",
+    "nome": "MATA BICHEIRA PRATA 500ML",
+    "categoria": "Outros",
+    "preco": 26,
+    "estoque": 0,
+    "codigoBarras": "7898934925208",
+    "ativo": false
+  },
+  {
+    "id": "7897551900414",
+    "nome": "MEK DOG 10KG",
+    "categoria": "Outros",
+    "preco": 80,
+    "estoque": 2,
+    "codigoBarras": "7897551900414",
+    "ativo": true
+  },
+  {
+    "id": "7908291134219",
+    "nome": "MELANCIA DE BORRACHA",
+    "categoria": "Outros",
+    "preco": 23,
+    "estoque": 0,
+    "codigoBarras": "7908291134219",
+    "ativo": true
+  },
+  {
+    "id": "23901308",
+    "nome": "MISTURA AMARELA 500G",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 2,
+    "codigoBarras": "23901308",
+    "ativo": false
+  },
+  {
+    "id": "23901377",
+    "nome": "MISTURA VERMELHA 500G",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 1,
+    "codigoBarras": "23901377",
+    "ativo": false
+  },
+  {
+    "id": "7896273800026",
+    "nome": "MITZI GRANULADO SANITARIO P/GATOS 4KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 13,
+    "estoque": 10,
+    "codigoBarras": "7896273800026",
+    "ativo": true
+  },
+  {
+    "id": "23901193",
+    "nome": "MIX PERIQUITO",
+    "categoria": "Outros",
+    "preco": 48,
+    "estoque": 4,
+    "codigoBarras": "23901193",
+    "ativo": true
+  },
+  {
+    "id": "23907164",
+    "nome": "MIX PSITACÍDEO (CALOPSITA/PERIQUITO) 25KG",
+    "categoria": "Outros Animais",
+    "preco": 160,
+    "estoque": 2,
+    "codigoBarras": "23907164",
+    "ativo": false
+  },
+  {
+    "id": "0243284801028",
+    "nome": "MIX PSITACIDEOS 25KG",
+    "categoria": "Outros",
+    "preco": 170,
+    "estoque": 0,
+    "codigoBarras": "0243284801028",
+    "ativo": true
+  },
+  {
+    "id": "7899793801047",
+    "nome": "MOLHO PARA RAÇÃO 250G",
+    "categoria": "Rações",
+    "preco": 10,
+    "estoque": 2,
+    "codigoBarras": "7899793801047",
+    "ativo": true
+  },
+  {
+    "id": "7899793802860",
+    "nome": "MOLHO PARA RAÇÃO 250G",
+    "categoria": "Rações",
+    "preco": 10,
+    "estoque": 1,
+    "codigoBarras": "7899793802860",
+    "ativo": true
+  },
+  {
+    "id": "7898349703682",
+    "nome": "MONELLO BOLA DE PELOS 15KG",
+    "categoria": "Brinquedos",
+    "preco": 250,
+    "estoque": 4,
+    "codigoBarras": "7898349703682",
+    "ativo": true
+  },
+  {
+    "id": "7898349703361",
+    "nome": "MONELLO CAES FILHOTES 15KG",
+    "categoria": "Outros",
+    "preco": 185,
+    "estoque": 6,
+    "codigoBarras": "7898349703361",
+    "ativo": true
+  },
+  {
+    "id": "7898349703248",
+    "nome": "MONELLO CAES PQNO PORTE 15KG",
+    "categoria": "Outros",
+    "preco": 180,
+    "estoque": 2,
+    "codigoBarras": "7898349703248",
+    "ativo": true
+  },
+  {
+    "id": "7898349703637",
+    "nome": "MONELLO GATOS CAST. 10KG",
+    "categoria": "Outros",
+    "preco": 140,
+    "estoque": 2,
+    "codigoBarras": "7898349703637",
+    "ativo": true
+  },
+  {
+    "id": "7898349705686",
+    "nome": "MONELLO RACAS PQNAS 17KG",
+    "categoria": "Outros",
+    "preco": 165,
+    "estoque": 7,
+    "codigoBarras": "7898349705686",
+    "ativo": true
+  },
+  {
+    "id": "7898349703125",
+    "nome": "MONELLO TRADICIONAL GRNDE PRTE 15KG",
+    "categoria": "Outros",
+    "preco": 150,
+    "estoque": 6,
+    "codigoBarras": "7898349703125",
+    "ativo": true
+  },
+  {
+    "id": "7898941459727",
+    "nome": "MUSCULAR NUTRAFASES",
+    "categoria": "Outros",
+    "preco": 5,
+    "estoque": 15,
+    "codigoBarras": "7898941459727",
+    "ativo": false
+  },
+  {
+    "id": "7898254040155",
+    "nome": "NATU VERM 04 UND.",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 11,
+    "codigoBarras": "7898254040155",
+    "ativo": false
+  },
+  {
+    "id": "7898324771842",
+    "nome": "NECTAR BEIJA FLOR 250G",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 3,
+    "codigoBarras": "7898324771842",
+    "ativo": false
+  },
+  {
+    "id": "7891126001308",
+    "nome": "NEODEXA SPRAY 74 G  (COVELI)",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 1,
+    "codigoBarras": "7891126001308",
+    "ativo": false
+  },
+  {
+    "id": "7898019867225",
+    "nome": "NEOPET GATO 0,32ML",
+    "categoria": "Outros",
+    "preco": 38,
+    "estoque": 4,
+    "codigoBarras": "7898019867225",
+    "ativo": false
+  },
+  {
+    "id": "7898053774404",
+    "nome": "NEXGARD",
+    "categoria": "Medicamentos",
+    "preco": 85,
+    "estoque": -2,
+    "codigoBarras": "7898053774404",
+    "ativo": false
+  },
+  {
+    "id": "7898053774497",
+    "nome": "NEXGARD CX C/ 3 10-25KG",
+    "categoria": "Medicamentos",
+    "preco": 330,
+    "estoque": 0,
+    "codigoBarras": "7898053774497",
+    "ativo": false
+  },
+  {
+    "id": "7898053774312",
+    "nome": "NEXGARD CX C/ 3 2-4KG",
+    "categoria": "Medicamentos",
+    "preco": 210,
+    "estoque": 2,
+    "codigoBarras": "7898053774312",
+    "ativo": false
+  },
+  {
+    "id": "7898053774589",
+    "nome": "NEXGARD CX C/ 3 25-50KG",
+    "categoria": "Medicamentos",
+    "preco": 390,
+    "estoque": 2,
+    "codigoBarras": "7898053774589",
+    "ativo": false
+  },
+  {
+    "id": "7898659784845",
+    "nome": "NEXGARD SPECTRA 15 - 30KG",
+    "categoria": "Medicamentos",
+    "preco": 420,
+    "estoque": 1,
+    "codigoBarras": "7898659784845",
+    "ativo": false
+  },
+  {
+    "id": "2000000099983",
+    "nome": "NEXGARD SPECTRA 30 - 60KG",
+    "categoria": "Medicamentos",
+    "preco": 450,
+    "estoque": 1,
+    "codigoBarras": "2000000099983",
+    "ativo": false
+  },
+  {
+    "id": "2000000099982",
+    "nome": "NEXGARD SPECTRA 7,6 - 15KG",
+    "categoria": "Medicamentos",
+    "preco": 390,
+    "estoque": 2,
+    "codigoBarras": "2000000099982",
+    "ativo": false
+  },
+  {
+    "id": "2000000099971",
+    "nome": "NINHO CISAL COLEIRA",
+    "categoria": "Passeio",
+    "preco": 6,
+    "estoque": 12,
+    "codigoBarras": "2000000099971",
+    "ativo": true
+  },
+  {
+    "id": "7898494930520",
+    "nome": "NINHO PASSARO TRAD",
+    "categoria": "Outros Animais",
+    "preco": 8,
+    "estoque": 6,
+    "codigoBarras": "7898494930520",
+    "ativo": true
+  },
+  {
+    "id": "7898941459659",
+    "nome": "NUTRAFASES PROBIOTICO",
+    "categoria": "Outros",
+    "preco": 60,
+    "estoque": -3,
+    "codigoBarras": "7898941459659",
+    "ativo": false
+  },
+  {
+    "id": "2000000099994",
+    "nome": "NUTRI SABORE CAES ADULTOS 10KG",
+    "categoria": "Outros",
+    "preco": 85,
+    "estoque": 5,
+    "codigoBarras": "2000000099994",
+    "ativo": true
+  },
+  {
+    "id": "736532880543",
+    "nome": "NUTRI SABORE CAES ADULTOS 20KG",
+    "categoria": "Outros",
+    "preco": 160,
+    "estoque": 3,
+    "codigoBarras": "736532880543",
+    "ativo": true
+  },
+  {
+    "id": "736532880550",
+    "nome": "NUTRI SABORE FILHOTE 10KG",
+    "categoria": "Outros",
+    "preco": 99.99,
+    "estoque": 3,
+    "codigoBarras": "736532880550",
+    "ativo": true
+  },
+  {
+    "id": "736532880499",
+    "nome": "NUTRI SABORE GATOS 10KG",
+    "categoria": "Outros",
+    "preco": 110,
+    "estoque": 1,
+    "codigoBarras": "736532880499",
+    "ativo": true
+  },
+  {
+    "id": "2000000099974",
+    "nome": "NUTRI SABORE GATOS CAST",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 99999997,
+    "codigoBarras": "2000000099974",
+    "ativo": false
+  },
+  {
+    "id": "7890000012713",
+    "nome": "NUTRI SABORE GATOS CAST 10KG",
+    "categoria": "Outros",
+    "preco": 115,
+    "estoque": 1,
+    "codigoBarras": "7890000012713",
+    "ativo": true
+  },
+  {
+    "id": "042882460626",
+    "nome": "NUTRI SABORE MED E GRNDS 10,1KG",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 5,
+    "codigoBarras": "042882460626",
+    "ativo": true
+  },
+  {
+    "id": "042882460633",
+    "nome": "NUTRI SABORE MED E GRNDS 20KG",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 3,
+    "codigoBarras": "042882460633",
+    "ativo": true
+  },
+  {
+    "id": "7896029037263",
+    "nome": "OPTIMUM CAES 10,1KG",
+    "categoria": "Outros",
+    "preco": 160,
+    "estoque": 0,
+    "codigoBarras": "7896029037263",
+    "ativo": true
+  },
+  {
+    "id": "7896029037331",
+    "nome": "OPTIMUM GATO CASTRADO FRANGO 10,1KG",
+    "categoria": "Outros",
+    "preco": 180,
+    "estoque": 3,
+    "codigoBarras": "7896029037331",
+    "ativo": true
+  },
+  {
+    "id": "7896029038314",
+    "nome": "OPTIMUM GATOS ADULTO FRNGO",
+    "categoria": "Outros",
+    "preco": 165,
+    "estoque": 0,
+    "codigoBarras": "7896029038314",
+    "ativo": true
+  },
+  {
+    "id": "7896029037454",
+    "nome": "OPTIMUM GATOS CAST CARNE 10KG",
+    "categoria": "Outros",
+    "preco": 165,
+    "estoque": 1,
+    "codigoBarras": "7896029037454",
+    "ativo": true
+  },
+  {
+    "id": "7908291101518",
+    "nome": "OSSO DE BORRACHA",
+    "categoria": "Alimentação",
+    "preco": 40,
+    "estoque": 2,
+    "codigoBarras": "7908291101518",
+    "ativo": true
+  },
+  {
+    "id": "7908291122308",
+    "nome": "OSSO DE BORRACHA COLORIDO",
+    "categoria": "Alimentação",
+    "preco": 23,
+    "estoque": 1,
+    "codigoBarras": "7908291122308",
+    "ativo": true
+  },
+  {
+    "id": "0110735810163344",
+    "nome": "OSSO DE SIBA 2G",
+    "categoria": "Alimentação",
+    "preco": 5,
+    "estoque": 3,
+    "codigoBarras": "0110735810163344",
+    "ativo": true
+  },
+  {
+    "id": "7898612671663",
+    "nome": "OSSO SUINO",
+    "categoria": "Alimentação",
+    "preco": 15,
+    "estoque": 1,
+    "codigoBarras": "7898612671663",
+    "ativo": true
+  },
+  {
+    "id": "7898006194044",
+    "nome": "Otolin UCB   Antibiótico/Anti-inflamatório (Emb. contém 1un. de 15ml)",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 0,
+    "codigoBarras": "7898006194044",
+    "ativo": false
+  },
+  {
+    "id": "7898941459628",
+    "nome": "OTOTIX CAO E GATO 120ML",
+    "categoria": "Outros",
+    "preco": 65,
+    "estoque": 3,
+    "codigoBarras": "7898941459628",
+    "ativo": false
+  },
+  {
+    "id": "7898416702433",
+    "nome": "OTOVET BIOFARM 20ML",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 3,
+    "codigoBarras": "7898416702433",
+    "ativo": false
+  },
+  {
+    "id": "7896273809388",
+    "nome": "PALITO KELDOG MIX DE CEREAIS 500G",
+    "categoria": "Outros",
+    "preco": 46,
+    "estoque": 4,
+    "codigoBarras": "7896273809388",
+    "ativo": true
+  },
+  {
+    "id": "7896273809364",
+    "nome": "PALITO KELDOG MIX DE CEREAIS 55G",
+    "categoria": "Outros",
+    "preco": 6,
+    "estoque": 3,
+    "codigoBarras": "7896273809364",
+    "ativo": true
+  },
+  {
+    "id": "7899863606831",
+    "nome": "PALITO MENTA 1KG 5x6",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 4,
+    "codigoBarras": "7899863606831",
+    "ativo": true
+  },
+  {
+    "id": "7899863602055",
+    "nome": "PALITO NATURAL 1KG 5x10",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 1,
+    "codigoBarras": "7899863602055",
+    "ativo": true
+  },
+  {
+    "id": "7899948400347",
+    "nome": "PALITO NATURAL 5/6 1KG",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 4,
+    "codigoBarras": "7899948400347",
+    "ativo": true
+  },
+  {
+    "id": "7899948400354",
+    "nome": "PALITO NATURAL 5/8 1KG",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 5,
+    "codigoBarras": "7899948400354",
+    "ativo": true
+  },
+  {
+    "id": "7899863600273",
+    "nome": "PALITO NATURAL 5X6 1KG",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 3,
+    "codigoBarras": "7899863600273",
+    "ativo": true
+  },
+  {
+    "id": "7898964255863",
+    "nome": "PALITO NATURAL MORDIDINHAS 1KG 5x6",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 4,
+    "codigoBarras": "7898964255863",
+    "ativo": true
+  },
+  {
+    "id": "7898964255870",
+    "nome": "PALITO NATURAL MORDIDINHAS 1KG 5x8",
+    "categoria": "Outros",
+    "preco": 35,
+    "estoque": 4,
+    "codigoBarras": "7898964255870",
+    "ativo": true
+  },
+  {
+    "id": "23907096",
+    "nome": "PAPA DE OVO 300G",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 2,
+    "codigoBarras": "23907096",
+    "ativo": false
+  },
+  {
+    "id": "2000000099987",
+    "nome": "PEDIGREE ADULTO 900G",
+    "categoria": "Rações",
+    "preco": 16,
+    "estoque": 6,
+    "codigoBarras": "2000000099987",
+    "ativo": true
+  },
+  {
+    "id": "7896029022269",
+    "nome": "PEDIGREE ADULTO FRANGO AO MOLHO SACHÃŠ 0,1 KG",
+    "categoria": "Rações",
+    "preco": 3.5,
+    "estoque": 4,
+    "codigoBarras": "7896029022269",
+    "ativo": true
+  },
+  {
+    "id": "7896029087336",
+    "nome": "PEDIGREE ADULTOS 900G",
+    "categoria": "Rações",
+    "preco": 13,
+    "estoque": 4,
+    "codigoBarras": "7896029087336",
+    "ativo": true
+  },
+  {
+    "id": "7896029083482",
+    "nome": "PEDIGREE FILHOTE 900G",
+    "categoria": "Rações",
+    "preco": 17,
+    "estoque": 3,
+    "codigoBarras": "7896029083482",
+    "ativo": true
+  },
+  {
+    "id": "7896029082447",
+    "nome": "PEDIGREE RAÇAS PEQUENAS 900G",
+    "categoria": "Rações",
+    "preco": 17,
+    "estoque": 3,
+    "codigoBarras": "7896029082447",
+    "ativo": true
+  },
+  {
+    "id": "7898049710935",
+    "nome": "PENTABIOTICO VETERINARIO",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 5,
+    "codigoBarras": "7898049710935",
+    "ativo": false
+  },
+  {
+    "id": "7898683360145",
+    "nome": "PENTE ANTIPULGAS",
+    "categoria": "Medicamentos",
+    "preco": 16,
+    "estoque": 0,
+    "codigoBarras": "7898683360145",
+    "ativo": true
+  },
+  {
+    "id": "7898411605517",
+    "nome": "PENTE EMBORRACHADO",
+    "categoria": "Banho e Tosa",
+    "preco": 25,
+    "estoque": -1,
+    "codigoBarras": "7898411605517",
+    "ativo": true
+  },
+  {
+    "id": "7898947139593",
+    "nome": "PET OLATE 100ML",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 4,
+    "codigoBarras": "7898947139593",
+    "ativo": false
+  },
+  {
+    "id": "7896029021804",
+    "nome": "PETISCO ANTI B. DE PELO WHISKAS",
+    "categoria": "Rações",
+    "preco": 16,
+    "estoque": 7,
+    "codigoBarras": "7896029021804",
+    "ativo": true
+  },
+  {
+    "id": "8720256113850",
+    "nome": "PETISCO CREMOSO TULY",
+    "categoria": "Alimentação",
+    "preco": 7,
+    "estoque": 30,
+    "codigoBarras": "8720256113850",
+    "ativo": true
+  },
+  {
+    "id": "7891000407189",
+    "nome": "PETISCO FRISKIES PARTY MIX CARNE 40G",
+    "categoria": "Alimentação",
+    "preco": 8,
+    "estoque": 12,
+    "codigoBarras": "7891000407189",
+    "ativo": true
+  },
+  {
+    "id": "7891000407196",
+    "nome": "PETISCO FRISKIES PARTY MIX FRANGO 40G",
+    "categoria": "Alimentação",
+    "preco": 8,
+    "estoque": 10,
+    "codigoBarras": "7891000407196",
+    "ativo": true
+  },
+  {
+    "id": "7891000406960",
+    "nome": "PETISCO FRISKIES PARTY MIX SALMÃO 40G",
+    "categoria": "Alimentação",
+    "preco": 8,
+    "estoque": 16,
+    "codigoBarras": "7891000406960",
+    "ativo": true
+  },
+  {
+    "id": "7891000409930",
+    "nome": "PETISCO FRISKIES PARTY MIX SALMAO 80G",
+    "categoria": "Alimentação",
+    "preco": 13,
+    "estoque": 10,
+    "codigoBarras": "7891000409930",
+    "ativo": true
+  },
+  {
+    "id": "7896029046784",
+    "nome": "PETISCO SHEBA 2UN",
+    "categoria": "Alimentação",
+    "preco": 10,
+    "estoque": 4,
+    "codigoBarras": "7896029046784",
+    "ativo": true
+  },
+  {
+    "id": "7896273800033",
+    "nome": "PIPI CAT KELCO – CLASSIC 4.05 Kg",
+    "categoria": "Areias e Higiênico",
+    "preco": 16,
+    "estoque": 20,
+    "codigoBarras": "7896273800033",
+    "ativo": true
+  },
+  {
+    "id": "7896273807711",
+    "nome": "PIPI CAT MULTI CAT 12KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 45,
+    "estoque": 6,
+    "codigoBarras": "7896273807711",
+    "ativo": true
+  },
+  {
+    "id": "7898602021133",
+    "nome": "PIPI POSTE",
+    "categoria": "Outros",
+    "preco": 17,
+    "estoque": 1,
+    "codigoBarras": "7898602021133",
+    "ativo": true
+  },
+  {
+    "id": "7896720320022",
+    "nome": "POMADA SARALOGO",
+    "categoria": "Medicamentos",
+    "preco": 45,
+    "estoque": 5,
+    "codigoBarras": "7896720320022",
+    "ativo": false
+  },
+  {
+    "id": "7898939116847",
+    "nome": "POTEMIN B12",
+    "categoria": "Alimentação",
+    "preco": 15,
+    "estoque": 6,
+    "codigoBarras": "7898939116847",
+    "ativo": false
+  },
+  {
+    "id": "7898939116823",
+    "nome": "POTEMIN B12",
+    "categoria": "Alimentação",
+    "preco": 35,
+    "estoque": 1,
+    "codigoBarras": "7898939116823",
+    "ativo": false
+  },
+  {
+    "id": "619205829240",
+    "nome": "POWER TRAINING 15KG",
+    "categoria": "Outros",
+    "preco": 150,
+    "estoque": 4,
+    "codigoBarras": "619205829240",
+    "ativo": true
+  },
+  {
+    "id": "7891738028915",
+    "nome": "PREGO 12X12 1KG GERDAU",
+    "categoria": "Outros",
+    "preco": 21,
+    "estoque": 1,
+    "codigoBarras": "7891738028915",
+    "ativo": true
+  },
+  {
+    "id": "7891738018954",
+    "nome": "PREGO GERDAU 17X27 1KG",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 1,
+    "codigoBarras": "7891738018954",
+    "ativo": true
+  },
+  {
+    "id": "7891738019081",
+    "nome": "PREGOS GERDAU 19X36 RS",
+    "categoria": "Outros",
+    "preco": 16,
+    "estoque": 2,
+    "codigoBarras": "7891738019081",
+    "ativo": true
+  },
+  {
+    "id": "7898510458878",
+    "nome": "PRIMOCAO MEDIAS E GRANDES 20KG",
+    "categoria": "Outros",
+    "preco": 180,
+    "estoque": 1,
+    "codigoBarras": "7898510458878",
+    "ativo": true
+  },
+  {
+    "id": "7898510458946",
+    "nome": "PRIMOCAO PEQUENAS RAÇAS 10,1KG",
+    "categoria": "Outros",
+    "preco": 110,
+    "estoque": -2,
+    "codigoBarras": "7898510458946",
+    "ativo": true
+  },
+  {
+    "id": "7898510458953",
+    "nome": "PRIMOCAO PEQUENAS RAÇAS 15KG",
+    "categoria": "Outros",
+    "preco": 155,
+    "estoque": 1,
+    "codigoBarras": "7898510458953",
+    "ativo": true
+  },
+  {
+    "id": "7898510459110",
+    "nome": "PRIMOGATO BLEND 10,1KG",
+    "categoria": "Outros",
+    "preco": 160,
+    "estoque": 1,
+    "codigoBarras": "7898510459110",
+    "ativo": true
+  },
+  {
+    "id": "2000000099961",
+    "nome": "PRIMOGATO BLEND 20KG",
+    "categoria": "Outros",
+    "preco": 330,
+    "estoque": 1,
+    "codigoBarras": "2000000099961",
+    "ativo": true
+  },
+  {
+    "id": "7898510459172",
+    "nome": "PRIMOGATO FILHOTES 15KG",
+    "categoria": "Outros",
+    "preco": 225,
+    "estoque": -1,
+    "codigoBarras": "7898510459172",
+    "ativo": true
+  },
+  {
+    "id": "789510459035",
+    "nome": "PRIMOGATO ORIGINAL 10KG",
+    "categoria": "Outros",
+    "preco": 120,
+    "estoque": 4,
+    "codigoBarras": "789510459035",
+    "ativo": true
+  },
+  {
+    "id": "7898510459042",
+    "nome": "PRIMOGATO ORIGINAL 15KG",
+    "categoria": "Outros",
+    "preco": 185,
+    "estoque": -1,
+    "codigoBarras": "7898510459042",
+    "ativo": true
+  },
+  {
+    "id": "7896803071698",
+    "nome": "PROFRANGO 5KG",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 12,
+    "codigoBarras": "7896803071698",
+    "ativo": true
+  },
+  {
+    "id": "7898586870338",
+    "nome": "PROVERME 28G",
+    "categoria": "Outros",
+    "preco": 14,
+    "estoque": 23,
+    "codigoBarras": "7898586870338",
+    "ativo": false
+  },
+  {
+    "id": "7898567460862",
+    "nome": "PULGOL SABONETE 80G",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 14,
+    "codigoBarras": "7898567460862",
+    "ativo": false
+  },
+  {
+    "id": "7898019861766",
+    "nome": "PULVERIZAÇAO COLOSSO",
+    "categoria": "Alimentação",
+    "preco": 14,
+    "estoque": -2,
+    "codigoBarras": "7898019861766",
+    "ativo": false
+  },
+  {
+    "id": "7899948401818",
+    "nome": "PULVERIZADOR P GARRAFA PET",
+    "categoria": "Outros",
+    "preco": 16,
+    "estoque": 2,
+    "codigoBarras": "7899948401818",
+    "ativo": true
+  },
+  {
+    "id": "7899948403119",
+    "nome": "PUXADOR PNEU C CORDA",
+    "categoria": "Brinquedos",
+    "preco": 50,
+    "estoque": 0,
+    "codigoBarras": "7899948403119",
+    "ativo": true
+  },
+  {
+    "id": "7896029022245",
+    "nome": "RAÃ‡ÃƒO CANINA PEDIGREE ADULTO CARNE",
+    "categoria": "Rações",
+    "preco": 3.5,
+    "estoque": 12,
+    "codigoBarras": "7896029022245",
+    "ativo": true
+  },
+  {
+    "id": "7896029079485",
+    "nome": "RAÃ‡ÃƒO FELINA WHISKAS PEIXE",
+    "categoria": "Rações",
+    "preco": 13,
+    "estoque": 20,
+    "codigoBarras": "7896029079485",
+    "ativo": true
+  },
+  {
+    "id": "7891000069417",
+    "nome": "RAÃ‡ÃƒO FRISKIES MIX DE CARNES 3KG - NESTLÃ‰ PURINA",
+    "categoria": "Rações",
+    "preco": 50,
+    "estoque": 25,
+    "codigoBarras": "7891000069417",
+    "ativo": true
+  },
+  {
+    "id": "7896029079607",
+    "nome": "RAÃ‡ÃƒO PARA GATOS ATUM - WHISKAS",
+    "categoria": "Rações",
+    "preco": 13,
+    "estoque": 29,
+    "codigoBarras": "7896029079607",
+    "ativo": true
+  },
+  {
+    "id": "7896029079461",
+    "nome": "RAÃ‡ÃƒO PARA GATOS WHISKAS PATÃŠ SABOR FRANGO LATA",
+    "categoria": "Rações",
+    "preco": 13,
+    "estoque": -1,
+    "codigoBarras": "7896029079461",
+    "ativo": true
+  },
+  {
+    "id": "7898250780017",
+    "nome": "RACAO BILLY DOG 15KG",
+    "categoria": "Rações",
+    "preco": 95,
+    "estoque": -20,
+    "codigoBarras": "7898250780017",
+    "ativo": true
+  },
+  {
+    "id": "7898639620910",
+    "nome": "RACAO CACHORRO BRAIN PLUS 10,1KG",
+    "categoria": "Rações",
+    "preco": 135,
+    "estoque": 8,
+    "codigoBarras": "7898639620910",
+    "ativo": true
+  },
+  {
+    "id": "23901872",
+    "nome": "RACAO CALOPSITA 500G",
+    "categoria": "Rações",
+    "preco": 7,
+    "estoque": 4,
+    "codigoBarras": "23901872",
+    "ativo": true
+  },
+  {
+    "id": "23901278",
+    "nome": "RACAO CARDEAL 5KG",
+    "categoria": "Rações",
+    "preco": 65,
+    "estoque": 1,
+    "codigoBarras": "23901278",
+    "ativo": true
+  },
+  {
+    "id": "7896803052123",
+    "nome": "RACAO CRESCIMENTO 5KG",
+    "categoria": "Rações",
+    "preco": 22,
+    "estoque": 3,
+    "codigoBarras": "7896803052123",
+    "ativo": true
+  },
+  {
+    "id": "7891000116463",
+    "nome": "racao dog chow filhote peq. mini 15 k",
+    "categoria": "Rações",
+    "preco": 190,
+    "estoque": -3,
+    "codigoBarras": "7891000116463",
+    "ativo": true
+  },
+  {
+    "id": "7891000116715",
+    "nome": "RAÇÂO DOG CHOW MEDIAS E GRANDES 15KILOS",
+    "categoria": "Rações",
+    "preco": 180,
+    "estoque": -24,
+    "codigoBarras": "7891000116715",
+    "ativo": true
+  },
+  {
+    "id": "7891000247518",
+    "nome": "RACAO DOG CHOW SENIOR 15KG",
+    "categoria": "Rações",
+    "preco": 215,
+    "estoque": -2,
+    "codigoBarras": "7891000247518",
+    "ativo": true
+  },
+  {
+    "id": "7898639621238",
+    "nome": "RAÇÃO FAMIL CACHORRO ADULTO 10,1KG",
+    "categoria": "Rações",
+    "preco": 80,
+    "estoque": 9,
+    "codigoBarras": "7898639621238",
+    "ativo": true
+  },
+  {
+    "id": "7898639621016",
+    "nome": "RACAO FAMIL FILHOTE 1KG",
+    "categoria": "Rações",
+    "preco": 14,
+    "estoque": 2,
+    "codigoBarras": "7898639621016",
+    "ativo": true
+  },
+  {
+    "id": "7898674093892",
+    "nome": "RACAO FINOTRATO GOLD GATOS CAST",
+    "categoria": "Rações",
+    "preco": 50,
+    "estoque": 10,
+    "codigoBarras": "7898674093892",
+    "ativo": true
+  },
+  {
+    "id": "7891000118061",
+    "nome": "RACAO FRISKIES SACHE PERU AO MOLHO 85G",
+    "categoria": "Rações",
+    "preco": 2.75,
+    "estoque": 26,
+    "codigoBarras": "7891000118061",
+    "ativo": true
+  },
+  {
+    "id": "7891000118054",
+    "nome": "RACAO FRISKIES SACHET 85G FRANGO AO MOLHO",
+    "categoria": "Rações",
+    "preco": 2.75,
+    "estoque": 2,
+    "codigoBarras": "7891000118054",
+    "ativo": true
+  },
+  {
+    "id": "7896803071582",
+    "nome": "RACAO FUNNY/BUNNY DELICIAS DA HORTA",
+    "categoria": "Rações",
+    "preco": 14,
+    "estoque": 1,
+    "codigoBarras": "7896803071582",
+    "ativo": true
+  },
+  {
+    "id": "7898250781229",
+    "nome": "RACAO GATO CASTRADO QUARTZ 10,1KG",
+    "categoria": "Rações",
+    "preco": 150,
+    "estoque": 1,
+    "codigoBarras": "7898250781229",
+    "ativo": true
+  },
+  {
+    "id": "7898250781878",
+    "nome": "RACAO GATO FILHOTE BILLY CAT 15KG",
+    "categoria": "Rações",
+    "preco": 195,
+    "estoque": -1,
+    "codigoBarras": "7898250781878",
+    "ativo": true
+  },
+  {
+    "id": "7898639620880",
+    "nome": "RACAO GATO KIARA PEIXE E FRANGO 20KG",
+    "categoria": "Rações",
+    "preco": 150,
+    "estoque": 2,
+    "codigoBarras": "7898639620880",
+    "ativo": true
+  },
+  {
+    "id": "7898639620798",
+    "nome": "RACAO GATO SALMÃO BRAIN PLUS 1KG",
+    "categoria": "Rações",
+    "preco": 18,
+    "estoque": -2,
+    "codigoBarras": "7898639620798",
+    "ativo": true
+  },
+  {
+    "id": "7896029007464",
+    "nome": "RACAO GATOS WHISKAS CAR/LE. FILHOTE",
+    "categoria": "Rações",
+    "preco": 200,
+    "estoque": 2,
+    "codigoBarras": "7896029007464",
+    "ativo": true
+  },
+  {
+    "id": "7891000325506",
+    "nome": "RACAO GATSY NESTLE GRANEL",
+    "categoria": "Rações",
+    "preco": 14,
+    "estoque": 9999995,
+    "codigoBarras": "7891000325506",
+    "ativo": true
+  },
+  {
+    "id": "0618341119536",
+    "nome": "RACÃO GDOG ADULTO 7KG",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 28,
+    "codigoBarras": "0618341119536",
+    "ativo": false
+  },
+  {
+    "id": "2000000100005",
+    "nome": "RACAO GRANEL FINOTRATO GOLD GATOS CAST",
+    "categoria": "Rações",
+    "preco": 32,
+    "estoque": 999999,
+    "codigoBarras": "2000000100005",
+    "ativo": true
+  },
+  {
+    "id": "2000000100006",
+    "nome": "RACAO GRANEL FINOTRATO LIFE SENSITIVE CAES ADULT",
+    "categoria": "Rações",
+    "preco": 16,
+    "estoque": 999,
+    "codigoBarras": "2000000100006",
+    "ativo": true
+  },
+  {
+    "id": "23901070",
+    "nome": "RACAO HAMSTER 500G",
+    "categoria": "Rações",
+    "preco": 9,
+    "estoque": -1,
+    "codigoBarras": "23901070",
+    "ativo": true
+  },
+  {
+    "id": "7896803010147",
+    "nome": "RACAO INICIAL 5KG",
+    "categoria": "Rações",
+    "preco": 25,
+    "estoque": 0,
+    "codigoBarras": "7896803010147",
+    "ativo": true
+  },
+  {
+    "id": "7898639621122",
+    "nome": "RACAO KIARA 7KG",
+    "categoria": "Rações",
+    "preco": 69,
+    "estoque": 4,
+    "codigoBarras": "7898639621122",
+    "ativo": true
+  },
+  {
+    "id": "7898406303244",
+    "nome": "RACAO MIKDOG GRANEL",
+    "categoria": "Rações",
+    "preco": 11,
+    "estoque": 9999997,
+    "codigoBarras": "7898406303244",
+    "ativo": true
+  },
+  {
+    "id": "7896029052358",
+    "nome": "RACAO PEDIGREE DENTASTIX RACAS MEDIAS",
+    "categoria": "Rações",
+    "preco": 28,
+    "estoque": 8,
+    "codigoBarras": "7896029052358",
+    "ativo": true
+  },
+  {
+    "id": "7898639620583",
+    "nome": "RACAO PEIXE FORTFISH 20KG 22%",
+    "categoria": "Rações",
+    "preco": 65,
+    "estoque": -47,
+    "codigoBarras": "7898639620583",
+    "ativo": true
+  },
+  {
+    "id": "7898324771163",
+    "nome": "RACAO PORCO INDIA 700G",
+    "categoria": "Rações",
+    "preco": 30,
+    "estoque": 5,
+    "codigoBarras": "7898324771163",
+    "ativo": true
+  },
+  {
+    "id": "7896803052130",
+    "nome": "RACAO POSTURA FRANGO",
+    "categoria": "Rações",
+    "preco": 18,
+    "estoque": 4,
+    "codigoBarras": "7896803052130",
+    "ativo": false
+  },
+  {
+    "id": "7898510459134",
+    "nome": "RACAO PRIMOGATO BLEND",
+    "categoria": "Rações",
+    "preco": 17,
+    "estoque": 1,
+    "codigoBarras": "7898510459134",
+    "ativo": false
+  },
+  {
+    "id": "7896803030015",
+    "nome": "RACAO SUPRA CODORNA POSTURA 5KG",
+    "categoria": "Rações",
+    "preco": 24,
+    "estoque": 6,
+    "codigoBarras": "7896803030015",
+    "ativo": true
+  },
+  {
+    "id": "7896803010123",
+    "nome": "RACAO SUPRA COELHO AGRO 5KG",
+    "categoria": "Rações",
+    "preco": 21,
+    "estoque": 3,
+    "codigoBarras": "7896803010123",
+    "ativo": true
+  },
+  {
+    "id": "23901049",
+    "nome": "RACAO TRINCA FERRO FRUTAS 500G",
+    "categoria": "Rações",
+    "preco": 9,
+    "estoque": 6,
+    "codigoBarras": "23901049",
+    "ativo": true
+  },
+  {
+    "id": "7891126002336",
+    "nome": "RANIVET 80MG",
+    "categoria": "Outros",
+    "preco": 50,
+    "estoque": 5,
+    "codigoBarras": "7891126002336",
+    "ativo": false
+  },
+  {
+    "id": "7908405900303",
+    "nome": "RASQUEADEIRA N2",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": 2,
+    "codigoBarras": "7908405900303",
+    "ativo": true
+  },
+  {
+    "id": "7908405900310",
+    "nome": "RASQUEADEIRA N3",
+    "categoria": "Outros",
+    "preco": 17,
+    "estoque": -1,
+    "codigoBarras": "7908405900310",
+    "ativo": true
+  },
+  {
+    "id": "7908405900327",
+    "nome": "RASQUEADEIRA N4",
+    "categoria": "Outros",
+    "preco": 22,
+    "estoque": 0,
+    "codigoBarras": "7908405900327",
+    "ativo": true
+  },
+  {
+    "id": "7898374661384",
+    "nome": "RATICIDA SEMENTES E CEREAIS 25G",
+    "categoria": "Outros",
+    "preco": 2.5,
+    "estoque": 21,
+    "codigoBarras": "7898374661384",
+    "ativo": false
+  },
+  {
+    "id": "7899800305407",
+    "nome": "RATO DE BRINQUEDO",
+    "categoria": "Brinquedos",
+    "preco": 5,
+    "estoque": 6,
+    "codigoBarras": "7899800305407",
+    "ativo": true
+  },
+  {
+    "id": "2000000000008",
+    "nome": "RATOEIRA",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 0,
+    "codigoBarras": "2000000000008",
+    "ativo": true
+  },
+  {
+    "id": "7898512302247",
+    "nome": "RATOKILL 200G",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 43,
+    "codigoBarras": "7898512302247",
+    "ativo": true
+  },
+  {
+    "id": "7898512300984",
+    "nome": "RATOKILL 25G",
+    "categoria": "Outros",
+    "preco": 2,
+    "estoque": 40,
+    "codigoBarras": "7898512300984",
+    "ativo": false
+  },
+  {
+    "id": "7898641571217",
+    "nome": "RATONIL 25G",
+    "categoria": "Outros",
+    "preco": 2,
+    "estoque": 27,
+    "codigoBarras": "7898641571217",
+    "ativo": false
+  },
+  {
+    "id": "7898963228691",
+    "nome": "RATOX 200G",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 23,
+    "codigoBarras": "7898963228691",
+    "ativo": false
+  },
+  {
+    "id": "99999999999999999999",
+    "nome": "RECOVERY 20 TABL",
+    "categoria": "Outros",
+    "preco": 48,
+    "estoque": -1,
+    "codigoBarras": "99999999999999999999",
+    "ativo": false
+  },
+  {
+    "id": "7898521413972",
+    "nome": "REFIL XIXI GARDEN",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 1,
+    "codigoBarras": "7898521413972",
+    "ativo": true
+  },
+  {
+    "id": "7898941459796",
+    "nome": "RELAX NUTRAFASES 20 TABL",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": 0,
+    "codigoBarras": "7898941459796",
+    "ativo": false
+  },
+  {
+    "id": "7898567702610",
+    "nome": "REPELENTE AEROSOL",
+    "categoria": "Outros",
+    "preco": 16,
+    "estoque": 3,
+    "codigoBarras": "7898567702610",
+    "ativo": false
+  },
+  {
+    "id": "7896108814303",
+    "nome": "REPTOLIFE BABY 25G",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 2,
+    "codigoBarras": "7896108814303",
+    "ativo": true
+  },
+  {
+    "id": "7896108806520",
+    "nome": "RODENT DESGASTE DENTES",
+    "categoria": "Outros",
+    "preco": 19,
+    "estoque": 2,
+    "codigoBarras": "7896108806520",
+    "ativo": false
+  },
+  {
+    "id": "7898474520864",
+    "nome": "ROUPA CIRURGICA TAM 3",
+    "categoria": "Outros",
+    "preco": 50,
+    "estoque": 2,
+    "codigoBarras": "7898474520864",
+    "ativo": true
+  },
+  {
+    "id": "7898474523407",
+    "nome": "ROUPA CIRURGICA TAM 5",
+    "categoria": "Outros",
+    "preco": 60,
+    "estoque": 2,
+    "codigoBarras": "7898474523407",
+    "ativo": true
+  },
+  {
+    "id": "7898474523452",
+    "nome": "ROUPA CIRURGICA TAM 7",
+    "categoria": "Outros",
+    "preco": 70,
+    "estoque": 3,
+    "codigoBarras": "7898474523452",
+    "ativo": true
+  },
+  {
+    "id": "7898474563519",
+    "nome": "ROUPA SAPO TAM M",
+    "categoria": "Outros",
+    "preco": 48,
+    "estoque": 1,
+    "codigoBarras": "7898474563519",
+    "ativo": true
+  },
+  {
+    "id": "7898031810056",
+    "nome": "SABONETE ANTIPULGAS 80G",
+    "categoria": "Medicamentos",
+    "preco": 20,
+    "estoque": 4,
+    "codigoBarras": "7898031810056",
+    "ativo": false
+  },
+  {
+    "id": "7896720320015",
+    "nome": "SABONETE MATACURA",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 12,
+    "codigoBarras": "7896720320015",
+    "ativo": false
+  },
+  {
+    "id": "7891000244135",
+    "nome": "SACHE CARNE DOG CHOW",
+    "categoria": "Rações",
+    "preco": 3,
+    "estoque": 21,
+    "codigoBarras": "7891000244135",
+    "ativo": true
+  },
+  {
+    "id": "7898510459240",
+    "nome": "SACHE CARNE THREE DOGS 100G",
+    "categoria": "Outros",
+    "preco": 3,
+    "estoque": 14,
+    "codigoBarras": "7898510459240",
+    "ativo": true
+  },
+  {
+    "id": "7891000244074",
+    "nome": "SACHE CAT CHOW ADULTO FRANGO 85G",
+    "categoria": "Rações",
+    "preco": 3,
+    "estoque": 8,
+    "codigoBarras": "7891000244074",
+    "ativo": true
+  },
+  {
+    "id": "7891000244012",
+    "nome": "SACHE CAT CHOW FILHOTES FRANGO 85G",
+    "categoria": "Rações",
+    "preco": 3,
+    "estoque": 26,
+    "codigoBarras": "7891000244012",
+    "ativo": true
+  },
+  {
+    "id": "7891000240205",
+    "nome": "SACHE CAT CHOW GATO CASTRADOS CARNE 85G",
+    "categoria": "Rações",
+    "preco": 3,
+    "estoque": 29,
+    "codigoBarras": "7891000240205",
+    "ativo": true
+  },
+  {
+    "id": "7896029056394",
+    "nome": "SACHE CHAMP CARNE",
+    "categoria": "Outros",
+    "preco": 2.5,
+    "estoque": -73,
+    "codigoBarras": "7896029056394",
+    "ativo": true
+  },
+  {
+    "id": "7896029056400",
+    "nome": "SACHE CHAMP FRANGO",
+    "categoria": "Outros",
+    "preco": 2.5,
+    "estoque": -17,
+    "codigoBarras": "7896029056400",
+    "ativo": true
+  },
+  {
+    "id": "7891000244111",
+    "nome": "SACHE DOG CHOW 85G AD PEQ RCAS",
+    "categoria": "Rações",
+    "preco": 3,
+    "estoque": -34,
+    "codigoBarras": "7891000244111",
+    "ativo": true
+  },
+  {
+    "id": "7891000311455",
+    "nome": "SACHE FELIX 85G",
+    "categoria": "Outros",
+    "preco": 3,
+    "estoque": -2,
+    "codigoBarras": "7891000311455",
+    "ativo": true
+  },
+  {
+    "id": "7891000115800",
+    "nome": "SACHE FILHOTES CARNE 85G",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": 3,
+    "codigoBarras": "7891000115800",
+    "ativo": true
+  },
+  {
+    "id": "7891000244746",
+    "nome": "SACHE FILHOTES TODOS TAM DOG CHOW",
+    "categoria": "Rações",
+    "preco": 3,
+    "estoque": 19,
+    "codigoBarras": "7891000244746",
+    "ativo": true
+  },
+  {
+    "id": "7891000115695",
+    "nome": "SACHE FRANGO DOG CHOW",
+    "categoria": "Rações",
+    "preco": 3,
+    "estoque": 23,
+    "codigoBarras": "7891000115695",
+    "ativo": true
+  },
+  {
+    "id": "7891000434352",
+    "nome": "SACHE FRISKIES MAR DE SABORES 80G",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": 32,
+    "codigoBarras": "7891000434352",
+    "ativo": true
+  },
+  {
+    "id": "7891000434611",
+    "nome": "SACHE FRISKIES MEGA MIX 80G",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": 31,
+    "codigoBarras": "7891000434611",
+    "ativo": true
+  },
+  {
+    "id": "7891000434345",
+    "nome": "SACHE FRISKIES MIX DE CARNES 80G",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": 25,
+    "codigoBarras": "7891000434345",
+    "ativo": true
+  },
+  {
+    "id": "7896048915986",
+    "nome": "SACHE GRAN PLUS CARNE",
+    "categoria": "Outros",
+    "preco": 3.5,
+    "estoque": 31,
+    "codigoBarras": "7896048915986",
+    "ativo": true
+  },
+  {
+    "id": "7896273808817",
+    "nome": "SACHE KELCAT 85G",
+    "categoria": "Outros",
+    "preco": 2.5,
+    "estoque": 20,
+    "codigoBarras": "7896273808817",
+    "ativo": true
+  },
+  {
+    "id": "7896273809159",
+    "nome": "SACHE KELCAT 85G",
+    "categoria": "Outros",
+    "preco": 2.5,
+    "estoque": 4,
+    "codigoBarras": "7896273809159",
+    "ativo": true
+  },
+  {
+    "id": "7896273808787",
+    "nome": "SACHE KELDOG CARNEIRO 100G",
+    "categoria": "Outros",
+    "preco": 2.5,
+    "estoque": 260,
+    "codigoBarras": "7896273808787",
+    "ativo": true
+  },
+  {
+    "id": "7896029018057",
+    "nome": "SACHE KIT E KAT 70G CARNE",
+    "categoria": "Outros",
+    "preco": 2.5,
+    "estoque": 77,
+    "codigoBarras": "7896029018057",
+    "ativo": true
+  },
+  {
+    "id": "7896029018064",
+    "nome": "SACHE KIT E KAT 70G FRNGO",
+    "categoria": "Outros",
+    "preco": 2.5,
+    "estoque": 363,
+    "codigoBarras": "7896029018064",
+    "ativo": true
+  },
+  {
+    "id": "7896029018101",
+    "nome": "SACHE KITEKAT PEIXE 70G",
+    "categoria": "Outros Animais",
+    "preco": 2.5,
+    "estoque": 28,
+    "codigoBarras": "7896029018101",
+    "ativo": true
+  },
+  {
+    "id": "7896029046210",
+    "nome": "SACHE OPTIMUM CAST SALMAO",
+    "categoria": "Outros",
+    "preco": 3,
+    "estoque": 35,
+    "codigoBarras": "7896029046210",
+    "ativo": true
+  },
+  {
+    "id": "7896029018231",
+    "nome": "SACHE OPTIMUM GATO CAST",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": 21,
+    "codigoBarras": "7896029018231",
+    "ativo": true
+  },
+  {
+    "id": "7896029046333",
+    "nome": "SACHE OPTIMUM GATOS CAST",
+    "categoria": "Outros",
+    "preco": 2.75,
+    "estoque": -3,
+    "codigoBarras": "7896029046333",
+    "ativo": true
+  },
+  {
+    "id": "7898510459202",
+    "nome": "SACHE THREE CATS CAST FRNG",
+    "categoria": "Outros",
+    "preco": 3.5,
+    "estoque": 24,
+    "codigoBarras": "7898510459202",
+    "ativo": true
+  },
+  {
+    "id": "7896029046609",
+    "nome": "SACHE WHISKAS",
+    "categoria": "Rações",
+    "preco": 3.5,
+    "estoque": -2,
+    "codigoBarras": "7896029046609",
+    "ativo": true
+  },
+  {
+    "id": "7896029046173",
+    "nome": "SACHE WHISKAS FRANGO 85G",
+    "categoria": "Rações",
+    "preco": 3.5,
+    "estoque": 16,
+    "codigoBarras": "7896029046173",
+    "ativo": true
+  },
+  {
+    "id": "2000000099969",
+    "nome": "SAL PROTEINADO CORTE 25K",
+    "categoria": "Outros",
+    "preco": 105,
+    "estoque": 0,
+    "codigoBarras": "2000000099969",
+    "ativo": true
+  },
+  {
+    "id": "7896183311391",
+    "nome": "Sanol Dog Sabonete Antipulgas Filhotes (Emb. contém 1un. de 80g)",
+    "categoria": "Medicamentos",
+    "preco": 11,
+    "estoque": 12,
+    "codigoBarras": "7896183311391",
+    "ativo": false
+  },
+  {
+    "id": "7896803077522",
+    "nome": "SAPECA ADULTO 10KG",
+    "categoria": "Outros",
+    "preco": 89,
+    "estoque": 0,
+    "codigoBarras": "7896803077522",
+    "ativo": true
+  },
+  {
+    "id": "7896803075801",
+    "nome": "SAPECA ADULTO 20KG",
+    "categoria": "Outros",
+    "preco": 180,
+    "estoque": 1,
+    "codigoBarras": "7896803075801",
+    "ativo": true
+  },
+  {
+    "id": "7896803077478",
+    "nome": "SAPECA FILHOTE 10KG",
+    "categoria": "Outros",
+    "preco": 100,
+    "estoque": -3,
+    "codigoBarras": "7896803077478",
+    "ativo": true
+  },
+  {
+    "id": "7896803075764",
+    "nome": "SAPECA FILHOTE 20KG",
+    "categoria": "Outros",
+    "preco": 200,
+    "estoque": 4,
+    "codigoBarras": "7896803075764",
+    "ativo": true
+  },
+  {
+    "id": "7896210500620",
+    "nome": "SARNAVET LIQUIDO 30 ML",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 2,
+    "codigoBarras": "7896210500620",
+    "ativo": false
+  },
+  {
+    "id": "7897265600471",
+    "nome": "SCHNEIDER MOIDA GROSSA",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": -7,
+    "codigoBarras": "7897265600471",
+    "ativo": true
+  },
+  {
+    "id": "7898275011479",
+    "nome": "SHAMPO P/CAES GATOS SENHINA FILHOTES 500ML",
+    "categoria": "Outros",
+    "preco": 22,
+    "estoque": 4,
+    "codigoBarras": "7898275011479",
+    "ativo": false
+  },
+  {
+    "id": "7898051392372",
+    "nome": "SHAMPOO 2x1 GATOS",
+    "categoria": "Banho e Tosa",
+    "preco": 25,
+    "estoque": 1,
+    "codigoBarras": "7898051392372",
+    "ativo": false
+  },
+  {
+    "id": "7898275012919",
+    "nome": "SHAMPOO 3em1 ANTIPULGAS",
+    "categoria": "Medicamentos",
+    "preco": 28,
+    "estoque": 10,
+    "codigoBarras": "7898275012919",
+    "ativo": false
+  },
+  {
+    "id": "7898359841060",
+    "nome": "SHAMPOO ANTIPULGAS 5 EM 1",
+    "categoria": "Medicamentos",
+    "preco": 24,
+    "estoque": 3,
+    "codigoBarras": "7898359841060",
+    "ativo": false
+  },
+  {
+    "id": "17210694935650",
+    "nome": "SHAMPOO ANTIPULGAS 500ML",
+    "categoria": "Medicamentos",
+    "preco": 20,
+    "estoque": 6,
+    "codigoBarras": "17210694935650",
+    "ativo": false
+  },
+  {
+    "id": "7898359841176",
+    "nome": "SHAMPOO BRANQUEADOR 500ML",
+    "categoria": "Banho e Tosa",
+    "preco": 20,
+    "estoque": 6,
+    "codigoBarras": "7898359841176",
+    "ativo": false
+  },
+  {
+    "id": "05995769644402",
+    "nome": "SHAMPOO CEREJA E AVELÃ 500ML",
+    "categoria": "Banho e Tosa",
+    "preco": 22,
+    "estoque": 6,
+    "codigoBarras": "05995769644402",
+    "ativo": false
+  },
+  {
+    "id": "7898374663746",
+    "nome": "SHAMPOO E COND 6x1",
+    "categoria": "Banho e Tosa",
+    "preco": 20,
+    "estoque": 12,
+    "codigoBarras": "7898374663746",
+    "ativo": false
+  },
+  {
+    "id": "7898964255597",
+    "nome": "SHAMPOO E COND. CITRONELA 700ML",
+    "categoria": "Banho e Tosa",
+    "preco": 25,
+    "estoque": 2,
+    "codigoBarras": "7898964255597",
+    "ativo": false
+  },
+  {
+    "id": "7898359841046",
+    "nome": "SHAMPOO FILHOTES 500ML",
+    "categoria": "Banho e Tosa",
+    "preco": 20,
+    "estoque": 7,
+    "codigoBarras": "7898359841046",
+    "ativo": false
+  },
+  {
+    "id": "7898275015996",
+    "nome": "SHAMPOO FORTIFICANTE GATOS 500ML",
+    "categoria": "Banho e Tosa",
+    "preco": 25,
+    "estoque": 6,
+    "codigoBarras": "7898275015996",
+    "ativo": false
+  },
+  {
+    "id": "7898738320001",
+    "nome": "SHAMPOO NEUTR. 750ML",
+    "categoria": "Banho e Tosa",
+    "preco": 25,
+    "estoque": 2,
+    "codigoBarras": "7898738320001",
+    "ativo": false
+  },
+  {
+    "id": "7898275011516",
+    "nome": "SHAMPOO PETBRILL C/CONDICIONADOR 2X1",
+    "categoria": "Banho e Tosa",
+    "preco": 23,
+    "estoque": 2,
+    "codigoBarras": "7898275011516",
+    "ativo": false
+  },
+  {
+    "id": "7898738320094",
+    "nome": "SHAMPOO UP CLEAN 750ML",
+    "categoria": "Banho e Tosa",
+    "preco": 20,
+    "estoque": 6,
+    "codigoBarras": "7898738320094",
+    "ativo": false
+  },
+  {
+    "id": "7896029046807",
+    "nome": "SHEBA ATUM",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 3,
+    "codigoBarras": "7896029046807",
+    "ativo": true
+  },
+  {
+    "id": "7896029046869",
+    "nome": "SHEBA ATUM E SALMAO FRNGO E CAMARAO",
+    "categoria": "Descanso",
+    "preco": 18,
+    "estoque": 4,
+    "codigoBarras": "7896029046869",
+    "ativo": true
+  },
+  {
+    "id": "7896029046821",
+    "nome": "SHEBA ATUM FRUTOS DO MAR",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 4,
+    "codigoBarras": "7896029046821",
+    "ativo": true
+  },
+  {
+    "id": "7896029046845",
+    "nome": "SHEBA FRANGO E ATUM FRANGO E PEIXE BRANCO",
+    "categoria": "Outros Animais",
+    "preco": 20,
+    "estoque": 3,
+    "codigoBarras": "7896029046845",
+    "ativo": true
+  },
+  {
+    "id": "7898049719501",
+    "nome": "SIMPARIC 120MG 40-60KG",
+    "categoria": "Outros",
+    "preco": 130,
+    "estoque": 1,
+    "codigoBarras": "7898049719501",
+    "ativo": false
+  },
+  {
+    "id": "7898049719471",
+    "nome": "SIMPARIC 20MG 5-10KG",
+    "categoria": "Outros",
+    "preco": 100,
+    "estoque": 2,
+    "codigoBarras": "7898049719471",
+    "ativo": false
+  },
+  {
+    "id": "7898964255061",
+    "nome": "SNACK TIRAS DE FRANGO 60G",
+    "categoria": "Alimentação",
+    "preco": 15,
+    "estoque": 5,
+    "codigoBarras": "7898964255061",
+    "ativo": true
+  },
+  {
+    "id": "7898695930114",
+    "nome": "SOMBRINHA BRANCA",
+    "categoria": "Outros",
+    "preco": 50,
+    "estoque": 1,
+    "codigoBarras": "7898695930114",
+    "ativo": true
+  },
+  {
+    "id": "7898324772917",
+    "nome": "SPIRULINA FLOCOS 12G",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 2,
+    "codigoBarras": "7898324772917",
+    "ativo": true
+  },
+  {
+    "id": "7898275014784",
+    "nome": "SPRAY ANTIPULGAS 150ML",
+    "categoria": "Medicamentos",
+    "preco": 30,
+    "estoque": 0,
+    "codigoBarras": "7898275014784",
+    "ativo": false
+  },
+  {
+    "id": "7898121841175",
+    "nome": "SPRAY PRATA 200ML",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 11,
+    "codigoBarras": "7898121841175",
+    "ativo": false
+  },
+  {
+    "id": "7898121841267",
+    "nome": "SPRAY PRATA 500ML",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": 3,
+    "codigoBarras": "7898121841267",
+    "ativo": false
+  },
+  {
+    "id": "7898180570160",
+    "nome": "STRAIK VENENO RATO",
+    "categoria": "Outros",
+    "preco": 2.5,
+    "estoque": 37,
+    "codigoBarras": "7898180570160",
+    "ativo": false
+  },
+  {
+    "id": "7898121840840",
+    "nome": "STRONDAL VERM ORAL",
+    "categoria": "Outros",
+    "preco": 15,
+    "estoque": -19,
+    "codigoBarras": "7898121840840",
+    "ativo": false
+  },
+  {
+    "id": "7898417650733",
+    "nome": "SUPRESSOR DE CIO ORAL",
+    "categoria": "Outros",
+    "preco": 70,
+    "estoque": 3,
+    "codigoBarras": "7898417650733",
+    "ativo": false
+  },
+  {
+    "id": "7896637512121",
+    "nome": "TALCO ANTIPÚLGAS TOY CAES",
+    "categoria": "Brinquedos",
+    "preco": 25,
+    "estoque": 0,
+    "codigoBarras": "7896637512121",
+    "ativo": false
+  },
+  {
+    "id": "7898359846478",
+    "nome": "TALCO BANHO SECO 100G",
+    "categoria": "Banho e Tosa",
+    "preco": 20,
+    "estoque": 1,
+    "codigoBarras": "7898359846478",
+    "ativo": false
+  },
+  {
+    "id": "7898121840147",
+    "nome": "TALFONTOP ANTIPULGAS 100G",
+    "categoria": "Medicamentos",
+    "preco": 7,
+    "estoque": 11,
+    "codigoBarras": "7898121840147",
+    "ativo": false
+  },
+  {
+    "id": "7898121840161",
+    "nome": "TALFONTOP ANTIPULGAS 1KG",
+    "categoria": "Medicamentos",
+    "preco": 34,
+    "estoque": 0,
+    "codigoBarras": "7898121840161",
+    "ativo": false
+  },
+  {
+    "id": "7908173501795",
+    "nome": "TAPETE COLETOR DE AREIA GATOS",
+    "categoria": "Areias e Higiênico",
+    "preco": 80,
+    "estoque": 1,
+    "codigoBarras": "7908173501795",
+    "ativo": true
+  },
+  {
+    "id": "7898590073183",
+    "nome": "TAPETE HGIENICO 30 UNIDADES",
+    "categoria": "Outros",
+    "preco": 85,
+    "estoque": 2,
+    "codigoBarras": "7898590073183",
+    "ativo": true
+  },
+  {
+    "id": "7896273808428",
+    "nome": "TAPETE HIGIENICO ANTIODOR KELDOG",
+    "categoria": "Areias e Higiênico",
+    "preco": 19,
+    "estoque": 9,
+    "codigoBarras": "7896273808428",
+    "ativo": true
+  },
+  {
+    "id": "7898590071844",
+    "nome": "TAPETE HIGIENICO CARVAO ATIVADO ULTRA PADS",
+    "categoria": "Areias e Higiênico",
+    "preco": 80,
+    "estoque": 1,
+    "codigoBarras": "7898590071844",
+    "ativo": true
+  },
+  {
+    "id": "7898590070809",
+    "nome": "TAPETE HIGIENICO GOOD PAD",
+    "categoria": "Areias e Higiênico",
+    "preco": 3,
+    "estoque": 49,
+    "codigoBarras": "7898590070809",
+    "ativo": true
+  },
+  {
+    "id": "7898590070977",
+    "nome": "TAPETE HIGIENICO GOODPAD",
+    "categoria": "Areias e Higiênico",
+    "preco": 20,
+    "estoque": 4,
+    "codigoBarras": "7898590070977",
+    "ativo": true
+  },
+  {
+    "id": "7898726375068",
+    "nome": "TAPETE HIGIENICO MEC PUMP 8UNI",
+    "categoria": "Areias e Higiênico",
+    "preco": 20,
+    "estoque": 5,
+    "codigoBarras": "7898726375068",
+    "ativo": true
+  },
+  {
+    "id": "7896273808404",
+    "nome": "TAPETES HIGIENICOS PERFUMADO KELDOG 7UN MD",
+    "categoria": "Areias e Higiênico",
+    "preco": 19,
+    "estoque": 8,
+    "codigoBarras": "7896273808404",
+    "ativo": true
+  },
+  {
+    "id": "7896029046159",
+    "nome": "TASTY BITES 130G",
+    "categoria": "Outros",
+    "preco": 18,
+    "estoque": 5,
+    "codigoBarras": "7896029046159",
+    "ativo": true
+  },
+  {
+    "id": "7897265600808",
+    "nome": "TERERE 250G",
+    "categoria": "Outros",
+    "preco": 9,
+    "estoque": 3,
+    "codigoBarras": "7897265600808",
+    "ativo": true
+  },
+  {
+    "id": "7898180570573",
+    "nome": "TERMIFIN GEL MATA FORMIGAS",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 4,
+    "codigoBarras": "7898180570573",
+    "ativo": false
+  },
+  {
+    "id": "7898180570788",
+    "nome": "TERMIFIN PACOTE 25G",
+    "categoria": "Outros",
+    "preco": 2,
+    "estoque": 12,
+    "codigoBarras": "7898180570788",
+    "ativo": false
+  },
+  {
+    "id": "7898180571235",
+    "nome": "TERMIFIN SPRAY",
+    "categoria": "Outros",
+    "preco": 34,
+    "estoque": 4,
+    "codigoBarras": "7898180571235",
+    "ativo": false
+  },
+  {
+    "id": "751320077073",
+    "nome": "TERNERON",
+    "categoria": "Outros",
+    "preco": 90,
+    "estoque": 2,
+    "codigoBarras": "751320077073",
+    "ativo": false
+  },
+  {
+    "id": "7898049718566",
+    "nome": "Terramicina mais injetável 20ML",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 2,
+    "codigoBarras": "7898049718566",
+    "ativo": false
+  },
+  {
+    "id": "7898049718573",
+    "nome": "Terramicina Mais Injetavel 50ml - Pfizer",
+    "categoria": "Outros",
+    "preco": 55,
+    "estoque": 2,
+    "codigoBarras": "7898049718573",
+    "ativo": false
+  },
+  {
+    "id": "7898597993729",
+    "nome": "TERRAMICINA PÓ SOLÚVEL 100G",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 2,
+    "codigoBarras": "7898597993729",
+    "ativo": false
+  },
+  {
+    "id": "2000000099917",
+    "nome": "THREE CATS CASTRADOS",
+    "categoria": "Outros",
+    "preco": 24,
+    "estoque": 99955,
+    "codigoBarras": "2000000099917",
+    "ativo": true
+  },
+  {
+    "id": "7898510458182",
+    "nome": "THREE CATS CASTRADOS 15KG",
+    "categoria": "Outros",
+    "preco": 334,
+    "estoque": 0,
+    "codigoBarras": "7898510458182",
+    "ativo": true
+  },
+  {
+    "id": "7898510457765",
+    "nome": "THREE CATS CASTRADOS CARNE 1KG",
+    "categoria": "Outros",
+    "preco": 26.9,
+    "estoque": -4,
+    "codigoBarras": "7898510457765",
+    "ativo": true
+  },
+  {
+    "id": "7898510457734",
+    "nome": "THREE CATS FILHOTE CARNE 1KG",
+    "categoria": "Outros",
+    "preco": 28,
+    "estoque": 3,
+    "codigoBarras": "7898510457734",
+    "ativo": true
+  },
+  {
+    "id": "7898510458137",
+    "nome": "THREE DOGS ADLT PQN RCAS FRNGO 15KG",
+    "categoria": "Outros",
+    "preco": 245,
+    "estoque": 2,
+    "codigoBarras": "7898510458137",
+    "ativo": true
+  },
+  {
+    "id": "7898510457567",
+    "nome": "THREE DOGS ADULTOS 10KG",
+    "categoria": "Outros",
+    "preco": 120,
+    "estoque": 0,
+    "codigoBarras": "7898510457567",
+    "ativo": true
+  },
+  {
+    "id": "7898510458038",
+    "nome": "THREE DOGS FILHOTES SP 10,1KG",
+    "categoria": "Outros",
+    "preco": 170,
+    "estoque": 1,
+    "codigoBarras": "7898510458038",
+    "ativo": true
+  },
+  {
+    "id": "7898510457581",
+    "nome": "THREE DOGS ORIGINAL ADULTOS 20KG",
+    "categoria": "Outros",
+    "preco": 210,
+    "estoque": 3,
+    "codigoBarras": "7898510457581",
+    "ativo": true
+  },
+  {
+    "id": "7797600000211",
+    "nome": "TIPER C ANTI PULGAS ATÉ 15KG",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": 3,
+    "codigoBarras": "7797600000211",
+    "ativo": false
+  },
+  {
+    "id": "7797600000112",
+    "nome": "TIPER C PIPETA AZUL",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 0,
+    "codigoBarras": "7797600000112",
+    "ativo": false
+  },
+  {
+    "id": "7890000012737",
+    "nome": "TUCÃO 5KG",
+    "categoria": "Outros",
+    "preco": 27,
+    "estoque": 13,
+    "codigoBarras": "7890000012737",
+    "ativo": true
+  },
+  {
+    "id": "7898416701924",
+    "nome": "TUSSEDAN 100ML",
+    "categoria": "Outros",
+    "preco": 48,
+    "estoque": 3,
+    "codigoBarras": "7898416701924",
+    "ativo": false
+  },
+  {
+    "id": "7898026081454",
+    "nome": "V.MATA MOSCA DIPIL 25G",
+    "categoria": "Outros",
+    "preco": 6,
+    "estoque": 30,
+    "codigoBarras": "7898026081454",
+    "ativo": false
+  },
+  {
+    "id": "7898259440448",
+    "nome": "VACINA CIO INIBIDEX",
+    "categoria": "Outros",
+    "preco": 5,
+    "estoque": 11,
+    "codigoBarras": "7898259440448",
+    "ativo": false
+  },
+  {
+    "id": "7898053775166",
+    "nome": "VACINA IMPORTADA RECOMBITEC",
+    "categoria": "Outros",
+    "preco": 60,
+    "estoque": 20,
+    "codigoBarras": "7898053775166",
+    "ativo": false
+  },
+  {
+    "id": "7898053775524",
+    "nome": "VACINA RABISIN 1ML",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 10,
+    "codigoBarras": "7898053775524",
+    "ativo": false
+  },
+  {
+    "id": "7898344751589",
+    "nome": "VACINA VENCOMAX",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 50,
+    "codigoBarras": "7898344751589",
+    "ativo": false
+  },
+  {
+    "id": "7897936920464",
+    "nome": "VARINHA COM BOLA",
+    "categoria": "Brinquedos",
+    "preco": 20,
+    "estoque": 1,
+    "codigoBarras": "7897936920464",
+    "ativo": true
+  },
+  {
+    "id": "7897936920501",
+    "nome": "VARINHA COM PENA",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 1,
+    "codigoBarras": "7897936920501",
+    "ativo": true
+  },
+  {
+    "id": "7897936920488",
+    "nome": "VARINHA E PENA",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 0,
+    "codigoBarras": "7897936920488",
+    "ativo": true
+  },
+  {
+    "id": "2000000099977",
+    "nome": "VASSOURA DE PALHA",
+    "categoria": "Outros",
+    "preco": 45,
+    "estoque": 1,
+    "codigoBarras": "2000000099977",
+    "ativo": true
+  },
+  {
+    "id": "7898121840550",
+    "nome": "VERMEX PLUS 20ML",
+    "categoria": "Outros",
+    "preco": 30,
+    "estoque": -5,
+    "codigoBarras": "7898121840550",
+    "ativo": false
+  },
+  {
+    "id": "7898568973187",
+    "nome": "VERMICANIS 2,4G (30KG) CARTELA COM 2",
+    "categoria": "Outros",
+    "preco": 22,
+    "estoque": 6,
+    "codigoBarras": "7898568973187",
+    "ativo": false
+  },
+  {
+    "id": "7898568979813",
+    "nome": "VERMICANIS PLUS 10KG",
+    "categoria": "Outros",
+    "preco": 12,
+    "estoque": 7,
+    "codigoBarras": "7898568979813",
+    "ativo": false
+  },
+  {
+    "id": "7898568979820",
+    "nome": "VERMICANIS PLUS 30KG",
+    "categoria": "Outros",
+    "preco": 22,
+    "estoque": 3,
+    "codigoBarras": "7898568979820",
+    "ativo": false
+  },
+  {
+    "id": "7898043430785",
+    "nome": "VERMIFUGO CANEX COMPOSTO C/4COMP.",
+    "categoria": "Medicamentos",
+    "preco": 12,
+    "estoque": 11,
+    "codigoBarras": "7898043430785",
+    "ativo": false
+  },
+  {
+    "id": "7898567461586",
+    "nome": "VERMINEX COMPRIMIDOS",
+    "categoria": "Outros",
+    "preco": 10,
+    "estoque": 2,
+    "codigoBarras": "7898567461586",
+    "ativo": false
+  },
+  {
+    "id": "2000000099988",
+    "nome": "VERMITRIL MAX ATE 50KG",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": -1,
+    "codigoBarras": "2000000099988",
+    "ativo": false
+  },
+  {
+    "id": "7898416702228",
+    "nome": "VETIOLATE 30ML",
+    "categoria": "Outros",
+    "preco": 40,
+    "estoque": 3,
+    "codigoBarras": "7898416702228",
+    "ativo": false
+  },
+  {
+    "id": "7898259440622",
+    "nome": "VETOL ORAL ANTIEMÉTICO 20ML",
+    "categoria": "Outros",
+    "preco": 35,
+    "estoque": 5,
+    "codigoBarras": "7898259440622",
+    "ativo": false
+  },
+  {
+    "id": "7898586870406",
+    "nome": "Vita Gold Oral Potenciado 20ml - Tortuga",
+    "categoria": "Alimentação",
+    "preco": 40,
+    "estoque": -2,
+    "codigoBarras": "7898586870406",
+    "ativo": false
+  },
+  {
+    "id": "7898079240334",
+    "nome": "Vitaka Injetável 20ml - SM",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 2,
+    "codigoBarras": "7898079240334",
+    "ativo": false
+  },
+  {
+    "id": "7898941459703",
+    "nome": "VITAMINAS 20 TABLETES",
+    "categoria": "Outros",
+    "preco": 50,
+    "estoque": 4,
+    "codigoBarras": "7898941459703",
+    "ativo": false
+  },
+  {
+    "id": "7896029091906",
+    "nome": "WHISKAS 900G CARNE",
+    "categoria": "Rações",
+    "preco": 20,
+    "estoque": 11,
+    "codigoBarras": "7896029091906",
+    "ativo": true
+  },
+  {
+    "id": "7896029092439",
+    "nome": "WHISKAS 900G CARNE CAST",
+    "categoria": "Rações",
+    "preco": 20,
+    "estoque": 10,
+    "codigoBarras": "7896029092439",
+    "ativo": true
+  },
+  {
+    "id": "7896029092415",
+    "nome": "WHISKAS 900G CARNE FILHOTES",
+    "categoria": "Rações",
+    "preco": 20,
+    "estoque": 12,
+    "codigoBarras": "7896029092415",
+    "ativo": true
+  },
+  {
+    "id": "7896029092347",
+    "nome": "WHISKAS 900G PEIXE",
+    "categoria": "Rações",
+    "preco": 20,
+    "estoque": -5,
+    "codigoBarras": "7896029092347",
+    "ativo": true
+  },
+  {
+    "id": "7896029079447",
+    "nome": "WHISKAS LATA FRANGO ADULTOS",
+    "categoria": "Rações",
+    "preco": 13,
+    "estoque": 1,
+    "codigoBarras": "7896029079447",
+    "ativo": true
+  },
+  {
+    "id": "7896029092224",
+    "nome": "WHSIKAS 900G FRANGO",
+    "categoria": "Outros",
+    "preco": 20,
+    "estoque": 6,
+    "codigoBarras": "7896029092224",
+    "ativo": true
+  },
+  {
+    "id": "7896029092460",
+    "nome": "WHSIKAS CAST 900G PEIXE",
+    "categoria": "Outros Animais",
+    "preco": 20,
+    "estoque": -5,
+    "codigoBarras": "7896029092460",
+    "ativo": true
+  },
+  {
+    "id": "7898675440084",
+    "nome": "WICAT AREIA 2.1KG",
+    "categoria": "Areias e Higiênico",
+    "preco": 36,
+    "estoque": 2,
+    "codigoBarras": "7898675440084",
+    "ativo": true
+  },
+  {
+    "id": "7898521412432",
+    "nome": "XIXI GARDEN",
+    "categoria": "Outros",
+    "preco": 60,
+    "estoque": 1,
+    "codigoBarras": "7898521412432",
+    "ativo": false
+  },
+  {
+    "id": "7898949377634",
+    "nome": "XIXI NÃO PODE 250ML",
+    "categoria": "Outros",
+    "preco": 25,
+    "estoque": 2,
+    "codigoBarras": "7898949377634",
+    "ativo": false
+  }
+]

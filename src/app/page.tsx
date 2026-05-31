@@ -1,0 +1,223 @@
+import Link from "next/link";
+import Image from "next/image";
+import { ArrowRight, Compass, MessageCircle, Radar, Sparkles, Zap } from "lucide-react";
+import { getConfig, getProducts } from "@/lib/store";
+import { getAllCategories } from "@/lib/categorize";
+import { buildGeneralWhatsAppLink, formatPrice, formatWhatsAppLabel } from "@/lib/utils";
+
+export default function HomePage() {
+  const config = getConfig();
+  const allProducts = getProducts().filter((p) => p.ativo);
+  const featured = allProducts.slice(0, 6);
+  const totalProducts = allProducts.length;
+  const whatsappGeneralLinks = config.whatsappNumbers.map((phone) => buildGeneralWhatsAppLink(phone));
+
+  const categories = getAllCategories()
+    .map((cat) => ({
+      name: cat,
+      count: allProducts.filter((p) => p.categoria === cat).length,
+    }))
+    .filter((cat) => cat.count > 0)
+    .slice(0, 8);
+
+  return (
+    <>
+      <section className="relative overflow-hidden bg-[#050505]">
+        <div className="absolute inset-0 bpc-grid opacity-60" />
+        <div className="absolute inset-0 bpc-noise opacity-40" />
+        <div className="absolute left-1/2 top-0 h-px w-[80vw] -translate-x-1/2 bg-gradient-to-r from-transparent via-orange-300/70 to-transparent" />
+        <div className="absolute -right-24 top-24 h-80 w-80 rounded-full bg-orange-500/14 blur-3xl bpc-orbit" />
+
+        <div className="relative mx-auto grid max-w-7xl items-center gap-10 px-4 py-14 sm:px-6 md:py-20 lg:grid-cols-[minmax(0,1fr)_460px] lg:px-8">
+          <div>
+            <div className="mb-6 inline-flex items-center gap-2 rounded-md border border-orange-300/20 bg-orange-500/10 px-3 py-2 text-sm font-bold text-orange-200 shadow-[0_0_28px_rgba(249,115,22,0.12)]">
+              <Radar className="h-4 w-4" />
+              {totalProducts > 0 ? `${totalProducts} produtos mapeados` : "Catálogo ativo"}
+            </div>
+
+            <h1 className="max-w-4xl font-display text-4xl font-extrabold leading-[1.04] text-orange-50 sm:text-5xl md:text-7xl">
+              O pet shop do interior com experiência de produto premium.
+            </h1>
+
+            <p className="mt-6 max-w-2xl text-lg leading-relaxed text-orange-50/62 md:text-xl">
+              Um catálogo rápido, direto e diferente do varejo comum: você encontra o produto, escolhe com quem falar e resolve pelo WhatsApp da loja.
+            </p>
+
+            <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+              <Link
+                href="/produtos"
+                className="group inline-flex items-center justify-center gap-2 rounded-md bg-orange-500 px-7 py-3.5 font-display text-base font-extrabold text-[#120804] shadow-[0_20px_70px_rgba(249,115,22,0.28)] transition-all hover:bg-orange-300 hover:-translate-y-0.5"
+              >
+                Abrir catálogo
+                <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+              </Link>
+              {whatsappGeneralLinks.map((link, index) => (
+                <a
+                  key={link}
+                  href={link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center gap-2 rounded-md border border-orange-300/18 bg-white/[0.04] px-7 py-3.5 font-display text-base font-bold text-orange-50 backdrop-blur transition-all hover:border-orange-300/45 hover:bg-orange-500/12"
+                >
+                  <MessageCircle className="h-4 w-4 text-orange-300" />
+                  {formatWhatsAppLabel(config.whatsappNumbers[index], index)}
+                </a>
+              ))}
+            </div>
+          </div>
+
+          <div className="relative mx-auto w-full max-w-[460px]">
+            <div className="absolute -inset-5 rounded-[2rem] border border-orange-300/10 bg-orange-500/5 blur-sm" />
+            <div className="relative overflow-hidden rounded-lg border border-orange-300/18 bg-[#130d09] shadow-[0_32px_120px_rgba(0,0,0,0.55)]">
+              <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-orange-300/80 to-transparent" />
+              <div className="relative aspect-square">
+                <Image
+                  src="/logo-bpc.jpeg"
+                  alt="Bom Pra Cachorro Pet Shop"
+                  fill
+                  sizes="460px"
+                  className="object-cover"
+                  priority
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/45 via-transparent to-black/10" />
+                <div className="absolute bottom-4 left-4 right-4 overflow-hidden rounded-md border border-white/10 bg-black/45 p-4 backdrop-blur-md">
+                  <div className="absolute inset-y-0 left-0 w-1/2 bg-gradient-to-r from-transparent via-orange-300/18 to-transparent bpc-scan" />
+                  <div className="relative flex items-center justify-between gap-3">
+                    <div>
+                      <p className="text-xs font-bold uppercase tracking-wide text-orange-300">
+                        Bom Pra Cachorro
+                      </p>
+                      <p className="mt-1 text-sm font-semibold text-orange-50/78">
+                        Catálogo local, atendimento humano.
+                      </p>
+                    </div>
+                    <Sparkles className="h-5 w-5 text-orange-300" />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="absolute -bottom-5 -left-3 rounded-md border border-orange-300/18 bg-[#0a0705]/90 px-4 py-3 shadow-2xl backdrop-blur bpc-float">
+              <div className="flex items-center gap-2 text-sm font-bold text-orange-50">
+                <Zap className="h-4 w-4 text-orange-300" />
+                Consulta sem checkout
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {categories.length > 0 && (
+        <section className="relative bg-[#090604] py-14">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div className="mb-7 flex items-end justify-between gap-4">
+              <div>
+                <p className="mb-2 font-display text-sm font-bold uppercase tracking-wide text-orange-300">
+                  Comandos rápidos
+                </p>
+                <h2 className="font-display text-2xl font-extrabold text-orange-50 md:text-3xl">
+                  Encontre por categoria
+                </h2>
+              </div>
+              <Link
+                href="/produtos"
+                className="hidden items-center gap-1 text-sm font-bold text-orange-300 hover:text-orange-100 sm:inline-flex"
+              >
+                Ver todos <ArrowRight className="h-4 w-4" />
+              </Link>
+            </div>
+
+            <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+              {categories.map((cat, index) => (
+                <Link
+                  key={cat.name}
+                  href={`/produtos?categoria=${encodeURIComponent(cat.name)}`}
+                  className="group relative overflow-hidden rounded-lg border border-orange-300/12 bg-white/[0.035] p-4 transition-all hover:-translate-y-1 hover:border-orange-300/35 hover:bg-orange-500/10"
+                >
+                  <div className="absolute right-3 top-3 font-display text-5xl font-extrabold text-white/[0.025]">
+                    {String(index + 1).padStart(2, "0")}
+                  </div>
+                  <div className="mb-5 flex h-10 w-10 items-center justify-center rounded-md bg-orange-500 text-sm font-display font-extrabold text-[#120804] shadow-[0_0_30px_rgba(249,115,22,0.18)]">
+                    {cat.name.slice(0, 1).toUpperCase()}
+                  </div>
+                  <div className="font-display text-sm font-bold text-orange-50 transition-colors group-hover:text-orange-200">
+                    {cat.name}
+                  </div>
+                  <div className="mt-1 text-xs text-orange-50/42">
+                    {cat.count} produto{cat.count !== 1 ? "s" : ""}
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {featured.length > 0 && (
+        <section className="relative overflow-hidden bg-[#050505] py-14">
+          <div className="absolute inset-0 bpc-grid opacity-30" />
+          <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div className="mb-7 flex items-end justify-between gap-4">
+              <div>
+                <p className="mb-2 flex items-center gap-2 font-display text-sm font-bold uppercase tracking-wide text-orange-300">
+                  <Compass className="h-4 w-4" />
+                  Radar da loja
+                </p>
+                <h2 className="font-display text-2xl font-extrabold text-orange-50 md:text-3xl">
+                  Produtos em destaque
+                </h2>
+              </div>
+              <Link
+                href="/produtos"
+                className="inline-flex items-center gap-1 text-sm font-bold text-orange-300 hover:text-orange-100"
+              >
+                Ver catálogo <ArrowRight className="h-4 w-4" />
+              </Link>
+            </div>
+
+            <div className="grid grid-cols-2 gap-3 sm:gap-5 lg:grid-cols-3">
+              {featured.map((product) => (
+                <Link
+                  key={product.id}
+                  href={`/produtos?search=${encodeURIComponent(product.nome)}`}
+                  className="group overflow-hidden rounded-lg border border-orange-300/12 bg-[#120c08] transition-all duration-300 hover:-translate-y-1 hover:border-orange-300/35 hover:shadow-[0_24px_90px_rgba(0,0,0,0.45)]"
+                >
+                  <div className="relative h-32 overflow-hidden bg-[#d96b2b] sm:h-44">
+                    {product.imagem ? (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img
+                        src={product.imagem}
+                        alt={product.nome}
+                        className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                      />
+                    ) : (
+                      <Image
+                        src="/logo-bpc.jpeg"
+                        alt=""
+                        fill
+                        sizes="360px"
+                        className="object-cover opacity-80 transition-transform duration-500 group-hover:scale-105"
+                      />
+                    )}
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
+                  </div>
+                  <div className="p-4">
+                    <div className="mb-1 truncate text-[11px] font-bold uppercase tracking-wide text-orange-300">
+                      {product.categoria}
+                    </div>
+                    <h3 className="mb-3 line-clamp-2 font-display text-sm font-bold leading-snug text-orange-50">
+                      {product.nome}
+                    </h3>
+                    <span className="font-display text-lg font-extrabold text-orange-100">
+                      {formatPrice(product.preco)}
+                    </span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+    </>
+  );
+}

@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import type { Product, CatalogConfig } from "@/types";
+import { defaultStoreLocation } from "@/lib/location";
 
 // ============================================================
 // Caminhos de dados (armazenados em /data no projeto)
@@ -27,6 +28,7 @@ const DEFAULT_CONFIG: CatalogConfig = {
   whatsappNumber: "5553991566695",
   whatsappNumbers: ["5553991566695", "53984170695"],
   storeName: "Bom Pra Cachorro Pet Shop",
+  location: defaultStoreLocation,
 };
 
 // ============================================================
@@ -73,11 +75,16 @@ export function getConfig(): CatalogConfig {
     const whatsappNumbers = Array.isArray(parsed.whatsappNumbers)
       ? parsed.whatsappNumbers
       : [parsed.whatsappNumber || DEFAULT_CONFIG.whatsappNumber];
+    const location = {
+      ...DEFAULT_CONFIG.location,
+      ...(parsed.location && typeof parsed.location === "object" ? parsed.location : {}),
+    };
     const data = {
       ...DEFAULT_CONFIG,
       ...parsed,
       whatsappNumber: whatsappNumbers[0] || DEFAULT_CONFIG.whatsappNumber,
       whatsappNumbers,
+      location,
     };
     configCache = { mtimeMs: stat.mtimeMs, data };
     return data;

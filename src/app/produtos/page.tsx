@@ -50,7 +50,7 @@ export default async function ProductsPage({ searchParams }: Props) {
             Catálogo em modo radar
           </h1>
           <p className="max-w-2xl text-orange-50/58">
-            Busque, filtre e mande a consulta direto para Henrique ou Sergio. Sem checkout, sem carrinho, sem ruído.
+            Busque, filtre e escolha o atendimento no WhatsApp. Sem checkout, sem carrinho, sem ruído.
             <span className="mt-2 block text-sm text-orange-300/74">
               {products.length} produto{products.length !== 1 ? "s" : ""} encontrado{products.length !== 1 ? "s" : ""}
             </span>

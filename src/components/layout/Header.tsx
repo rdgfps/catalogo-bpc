@@ -1,16 +1,13 @@
 import Link from "next/link";
 import Image from "next/image";
-import { MessageCircle } from "lucide-react";
+import { WhatsAppSelector } from "@/components/common/WhatsAppSelector";
 import { MobileMenu } from "./MobileMenu";
-import { buildGeneralWhatsAppLink, formatWhatsAppLabel } from "@/lib/utils";
 
 interface Props {
   whatsapps: string[];
 }
 
 export function Header({ whatsapps }: Props) {
-  const whatsappLinks = whatsapps.map((phone) => buildGeneralWhatsAppLink(phone));
-
   return (
     <header className="sticky top-0 z-50 border-b border-orange-300/10 bg-[#050505]/78 backdrop-blur-xl">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -47,23 +44,10 @@ export function Header({ whatsapps }: Props) {
             >
               Catálogo
             </Link>
-            <div className="flex items-center gap-2">
-              {whatsappLinks.map((link, index) => (
-                <a
-                  key={link}
-                  href={link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2 rounded-md border border-orange-300/20 bg-orange-500/10 px-3 py-2 text-sm font-bold text-orange-50 transition-all hover:border-orange-300/45 hover:bg-orange-500/20 hover:shadow-[0_0_24px_rgba(249,115,22,0.16)]"
-                >
-                  <MessageCircle className="w-4 h-4 text-orange-300" />
-                  {formatWhatsAppLabel(whatsapps[index], index)}
-                </a>
-              ))}
-            </div>
+            <WhatsAppSelector phones={whatsapps} iconOnly />
           </nav>
 
-          <MobileMenu whatsappLinks={whatsappLinks} whatsapps={whatsapps} />
+          <MobileMenu whatsapps={whatsapps} />
         </div>
       </div>
     </header>

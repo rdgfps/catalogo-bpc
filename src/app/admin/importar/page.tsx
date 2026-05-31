@@ -60,7 +60,7 @@ export default async function AdminImportPage() {
           </div>
         </div>
 
-        <ImportClient whatsappNumbers={config.whatsappNumbers} />
+        <ImportClient whatsappNumbers={config.whatsappNumbers} location={config.location} />
       </div>
     </div>
   );

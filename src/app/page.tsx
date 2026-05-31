@@ -2,9 +2,9 @@ import Link from "next/link";
 import Image from "next/image";
 import { ArrowRight, Compass, MapPin, Navigation, Radar, Sparkles, Zap } from "lucide-react";
 import { WhatsAppSelector } from "@/components/common/WhatsAppSelector";
+import { CategoryCover } from "@/components/catalog/CategoryCover";
 import { getConfig, getProducts } from "@/lib/store";
 import { getAllCategories } from "@/lib/categorize";
-import { storeLocation } from "@/lib/location";
 import { formatPrice } from "@/lib/utils";
 
 export default function HomePage() {
@@ -12,6 +12,7 @@ export default function HomePage() {
   const allProducts = getProducts().filter((p) => p.ativo);
   const featured = allProducts.slice(0, 6);
   const totalProducts = allProducts.length;
+  const location = config.location;
 
   const categories = getAllCategories()
     .map((cat) => ({
@@ -124,9 +125,9 @@ export default function HomePage() {
                   Região
                 </p>
                 <p className="mt-2 font-display text-xl font-extrabold text-orange-50">
-                  {storeLocation.label}
+                  {location.label}
                 </p>
-                <p className="mt-1 text-sm text-orange-50/44">{storeLocation.address}</p>
+                <p className="mt-1 text-sm text-orange-50/44">{location.address}</p>
               </div>
               <div className="rounded-lg border border-orange-300/12 bg-white/[0.035] p-4">
                 <p className="text-xs font-bold uppercase tracking-wide text-orange-300">
@@ -140,7 +141,7 @@ export default function HomePage() {
 
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
               <a
-                href={storeLocation.mapsUrl}
+                href={location.mapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center justify-center gap-2 rounded-md bg-orange-500 px-6 py-3 font-display text-sm font-extrabold text-[#120804] shadow-[0_20px_70px_rgba(249,115,22,0.22)] transition-all hover:-translate-y-0.5 hover:bg-orange-300"
@@ -178,7 +179,7 @@ export default function HomePage() {
               rota ativa
             </div>
             <div className="absolute bottom-10 left-8 rounded-md border border-orange-300/16 bg-black/50 px-3 py-2 text-xs font-bold text-orange-50/70 backdrop-blur">
-              {storeLocation.label}
+              {location.label}
             </div>
           </div>
         </div>
@@ -268,13 +269,7 @@ export default function HomePage() {
                         className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                       />
                     ) : (
-                      <Image
-                        src="/logo-bpc.jpeg"
-                        alt=""
-                        fill
-                        sizes="360px"
-                        className="object-cover opacity-80 transition-transform duration-500 group-hover:scale-105"
-                      />
+                      <CategoryCover category={product.categoria} name={product.nome} />
                     )}
                     <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
                   </div>

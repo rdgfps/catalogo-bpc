@@ -4,5 +4,10 @@
     "5553991566695",
     "53984170695"
   ],
-  "storeName": "Bom Pra Cachorro Pet Shop"
+  "storeName": "Bom Pra Cachorro Pet Shop",
+  "location": {
+    "label": "Canguçu, RS",
+    "address": "Rua Firmina de Mattos Moreira, 803",
+    "mapsUrl": "https://maps.app.goo.gl/JKMeT8QNhqhpnqhg8"
+  }
 }

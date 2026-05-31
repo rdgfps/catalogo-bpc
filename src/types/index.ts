@@ -19,6 +19,13 @@ export interface CatalogConfig {
   whatsappNumber: string;
   whatsappNumbers: string[];
   storeName: string;
+  location: StoreLocation;
+}
+
+export interface StoreLocation {
+  label: string;
+  address: string;
+  mapsUrl: string;
 }
 
 // ============================================================

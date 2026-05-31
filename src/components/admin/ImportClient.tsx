@@ -1,10 +1,12 @@
 "use client";
 
 import { useState, useRef } from "react";
-import { Upload, FileText, CheckCircle, XCircle, AlertTriangle, Settings } from "lucide-react";
+import { Upload, FileText, CheckCircle, XCircle, AlertTriangle, Settings, MapPin } from "lucide-react";
+import type { StoreLocation } from "@/types";
 
 interface Props {
   whatsappNumbers: string[];
+  location: StoreLocation;
 }
 
 interface ImportResult {
@@ -14,7 +16,7 @@ interface ImportResult {
   errors: string[];
 }
 
-export function ImportClient({ whatsappNumbers }: Props) {
+export function ImportClient({ whatsappNumbers, location }: Props) {
   const [isDragging, setIsDragging] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [result, setResult] = useState<ImportResult | null>(null);
@@ -23,6 +25,9 @@ export function ImportClient({ whatsappNumbers }: Props) {
 
   const [whatsapp1, setWhatsapp1] = useState(whatsappNumbers[0] ?? "");
   const [whatsapp2, setWhatsapp2] = useState(whatsappNumbers[1] ?? "");
+  const [locationLabel, setLocationLabel] = useState(location.label);
+  const [locationAddress, setLocationAddress] = useState(location.address);
+  const [locationMapsUrl, setLocationMapsUrl] = useState(location.mapsUrl);
   const [configSaved, setConfigSaved] = useState(false);
 
   async function handleFile(file: File) {
@@ -62,7 +67,14 @@ export function ImportClient({ whatsappNumbers }: Props) {
     const res = await fetch("/api/admin/config", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ whatsappNumbers: [whatsapp1, whatsapp2].filter(Boolean) }),
+      body: JSON.stringify({
+        whatsappNumbers: [whatsapp1, whatsapp2].filter(Boolean),
+        location: {
+          label: locationLabel,
+          address: locationAddress,
+          mapsUrl: locationMapsUrl,
+        },
+      }),
     });
     if (res.status === 401) {
       window.location.href = "/admin/login";
@@ -186,6 +198,53 @@ export function ImportClient({ whatsappNumbers }: Props) {
               className="w-full bg-gray-800 border border-gray-700 rounded-lg px-3 py-2.5 text-sm text-white focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent"
               placeholder="53984170695"
             />
+          </div>
+
+          <div className="border-t border-gray-800 pt-4">
+            <h3 className="font-display font-bold text-sm text-white mb-3 flex items-center gap-2">
+              <MapPin className="w-4 h-4 text-orange-500" />
+              Localização
+            </h3>
+            <div className="space-y-4">
+              <div>
+                <label className="block text-sm font-medium text-gray-300 mb-1.5">
+                  Região
+                </label>
+                <input
+                  type="text"
+                  value={locationLabel}
+                  onChange={(e) => setLocationLabel(e.target.value)}
+                  className="w-full bg-gray-800 border border-gray-700 rounded-lg px-3 py-2.5 text-sm text-white focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent"
+                  placeholder="Canguçu, RS"
+                />
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-300 mb-1.5">
+                  Endereço
+                </label>
+                <input
+                  type="text"
+                  value={locationAddress}
+                  onChange={(e) => setLocationAddress(e.target.value)}
+                  className="w-full bg-gray-800 border border-gray-700 rounded-lg px-3 py-2.5 text-sm text-white focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent"
+                  placeholder="Rua, número"
+                />
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-300 mb-1.5">
+                  Link do Google Maps
+                </label>
+                <input
+                  type="url"
+                  value={locationMapsUrl}
+                  onChange={(e) => setLocationMapsUrl(e.target.value)}
+                  className="w-full bg-gray-800 border border-gray-700 rounded-lg px-3 py-2.5 text-sm text-white focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent"
+                  placeholder="https://maps.app.goo.gl/..."
+                />
+              </div>
+            </div>
           </div>
 
           <button

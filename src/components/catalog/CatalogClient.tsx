@@ -1,8 +1,8 @@
 "use client";
 
-import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
-import { MessageCircle, Package, Search, SlidersHorizontal, X } from "lucide-react";
+import { Command, MessageCircle, Package, Search, SlidersHorizontal, X } from "lucide-react";
+import { CategoryCover } from "@/components/catalog/CategoryCover";
 import type { Product } from "@/types";
 import { buildWhatsAppLink, formatPrice, formatWhatsAppLabel } from "@/lib/utils";
 
@@ -35,6 +35,8 @@ export function CatalogClient({
   const [sort, setSort] = useState(initialSort);
   const [contactProduct, setContactProduct] = useState<Product | null>(null);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const [commandOpen, setCommandOpen] = useState(false);
+  const [commandSearch, setCommandSearch] = useState("");
 
   const filteredProducts = useMemo(() => {
     let products = [...initialProducts];
@@ -73,6 +75,30 @@ export function CatalogClient({
     setVisibleCount(PAGE_SIZE);
   }, [search, categoria, sort]);
 
+  useEffect(() => {
+    function onKeyDown(event: KeyboardEvent) {
+      const target = event.target as HTMLElement | null;
+      const isTyping =
+        target?.tagName === "INPUT" ||
+        target?.tagName === "TEXTAREA" ||
+        target?.isContentEditable;
+
+      if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "k") {
+        event.preventDefault();
+        setCommandOpen(true);
+        return;
+      }
+
+      if (event.key === "/" && !isTyping) {
+        event.preventDefault();
+        setCommandOpen(true);
+      }
+    }
+
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, []);
+
   const clearFilters = () => {
     setSearch("");
     setCategoria("");
@@ -82,6 +108,25 @@ export function CatalogClient({
   const hasActiveFilters = search || categoria || sort !== "az";
   const visibleProducts = filteredProducts.slice(0, visibleCount);
   const hasMoreProducts = visibleProducts.length < filteredProducts.length;
+  const commandProducts = useMemo(() => {
+    const q = commandSearch.toLowerCase().trim();
+    const source = q
+      ? initialProducts.filter(
+          (p) =>
+            p.nome.toLowerCase().includes(q) ||
+            p.categoria.toLowerCase().includes(q) ||
+            (p.codigoBarras && p.codigoBarras.includes(q))
+        )
+      : initialProducts;
+    return source.slice(0, 8);
+  }, [commandSearch, initialProducts]);
+
+  const commandCategories = useMemo(() => {
+    const q = commandSearch.toLowerCase().trim();
+    return categories
+      .filter((c) => !q || c.name.toLowerCase().includes(q))
+      .slice(0, 5);
+  }, [categories, commandSearch]);
 
   return (
     <div>
@@ -119,6 +164,20 @@ export function CatalogClient({
             <option value="preco_desc">Maior preço</option>
           </select>
         </div>
+
+        <button
+          type="button"
+          onClick={() => setCommandOpen(true)}
+          className="mt-3 flex w-full items-center justify-between rounded-md border border-orange-300/12 bg-black/20 px-3 py-2.5 text-left text-sm text-orange-50/60 transition-colors hover:border-orange-300/30 hover:bg-orange-500/10"
+        >
+          <span className="inline-flex items-center gap-2">
+            <Command className="h-4 w-4 text-orange-300" />
+            Abrir busca rápida
+          </span>
+          <span className="rounded border border-orange-300/20 px-1.5 py-0.5 font-mono text-[11px] text-orange-50/40">
+            Ctrl K
+          </span>
+        </button>
 
         <div className="mt-4 flex gap-2 overflow-x-auto pb-1">
           <button
@@ -210,6 +269,32 @@ export function CatalogClient({
         whatsappNumbers={whatsappNumbers}
         onClose={() => setContactProduct(null)}
       />
+
+      <CommandPalette
+        open={commandOpen}
+        query={commandSearch}
+        products={commandProducts}
+        categories={commandCategories}
+        onQueryChange={setCommandSearch}
+        onClose={() => setCommandOpen(false)}
+        onPickProduct={(product) => {
+          setSearch(product.nome);
+          setCategoria("");
+          setCommandOpen(false);
+          setCommandSearch("");
+        }}
+        onPickCategory={(category) => {
+          setCategoria(category);
+          setSearch("");
+          setCommandOpen(false);
+          setCommandSearch("");
+        }}
+        onClear={() => {
+          clearFilters();
+          setCommandOpen(false);
+          setCommandSearch("");
+        }}
+      />
     </div>
   );
 }
@@ -217,6 +302,143 @@ export function CatalogClient({
 interface ProductCardProps {
   product: Product;
   onContact: () => void;
+}
+
+interface CommandPaletteProps {
+  open: boolean;
+  query: string;
+  products: Product[];
+  categories: CategoryItem[];
+  onQueryChange: (value: string) => void;
+  onClose: () => void;
+  onPickProduct: (product: Product) => void;
+  onPickCategory: (category: string) => void;
+  onClear: () => void;
+}
+
+function CommandPalette({
+  open,
+  query,
+  products,
+  categories,
+  onQueryChange,
+  onClose,
+  onPickProduct,
+  onPickCategory,
+  onClear,
+}: CommandPaletteProps) {
+  useEffect(() => {
+    if (!open) return;
+
+    function onKeyDown(event: KeyboardEvent) {
+      if (event.key === "Escape") onClose();
+    }
+
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [open, onClose]);
+
+  if (!open) return null;
+
+  return (
+    <div className="fixed inset-0 z-[85] flex items-start justify-center bg-black/72 px-4 py-20 backdrop-blur-md">
+      <button
+        type="button"
+        className="absolute inset-0 cursor-default"
+        onClick={onClose}
+        aria-label="Fechar busca rápida"
+      />
+
+      <div className="relative w-full max-w-2xl overflow-hidden rounded-lg border border-orange-300/18 bg-[#090604] shadow-[0_32px_140px_rgba(0,0,0,0.7)]">
+        <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-orange-300/70 to-transparent" />
+        <div className="flex items-center gap-3 border-b border-orange-300/12 px-4 py-3">
+          <Command className="h-5 w-5 text-orange-300" />
+          <input
+            autoFocus
+            value={query}
+            onChange={(event) => onQueryChange(event.target.value)}
+            placeholder="Digite produto, categoria ou código..."
+            className="min-w-0 flex-1 bg-transparent text-base font-semibold text-orange-50 placeholder:text-orange-50/34 focus:outline-none"
+          />
+          <button
+            type="button"
+            onClick={onClose}
+            className="text-orange-50/42 transition-colors hover:text-orange-100"
+            aria-label="Fechar"
+          >
+            <X className="h-5 w-5" />
+          </button>
+        </div>
+
+        <div className="max-h-[65vh] overflow-y-auto p-3">
+          <div className="mb-3 flex flex-wrap gap-2">
+            <button
+              type="button"
+              onClick={onClear}
+              className="rounded-md border border-orange-300/14 bg-white/[0.035] px-3 py-2 text-xs font-bold text-orange-50/64 transition-colors hover:bg-orange-500/12 hover:text-orange-100"
+            >
+              Ver tudo
+            </button>
+            {categories.map((category) => (
+              <button
+                key={category.name}
+                type="button"
+                onClick={() => onPickCategory(category.name)}
+                className="rounded-md border border-orange-300/14 bg-white/[0.035] px-3 py-2 text-xs font-bold text-orange-50/64 transition-colors hover:bg-orange-500/12 hover:text-orange-100"
+              >
+                {category.name}
+              </button>
+            ))}
+          </div>
+
+          <div className="space-y-1">
+            {products.length === 0 ? (
+              <div className="rounded-md border border-orange-300/12 bg-white/[0.025] px-4 py-8 text-center text-sm text-orange-50/44">
+                Nenhum item encontrado.
+              </div>
+            ) : (
+              products.map((product) => (
+                <button
+                  key={product.id}
+                  type="button"
+                  onClick={() => onPickProduct(product)}
+                  className="group flex w-full items-center gap-3 rounded-md px-3 py-3 text-left transition-colors hover:bg-orange-500/10"
+                >
+                  <div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-md bg-[#d96b2b]">
+                    {product.imagem ? (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img src={product.imagem} alt="" className="h-full w-full object-cover" />
+                    ) : (
+                      <CategoryCover category={product.categoria} compact />
+                    )}
+                  </div>
+                  <div className="min-w-0 flex-1">
+                    <div className="truncate font-display text-sm font-bold text-orange-50 group-hover:text-orange-200">
+                      {product.nome}
+                    </div>
+                    <div className="mt-1 flex items-center gap-2 text-xs text-orange-50/42">
+                      <span>{product.categoria}</span>
+                      <span>/</span>
+                      <span>{formatPrice(product.preco)}</span>
+                    </div>
+                  </div>
+                  <OpenGlyph />
+                </button>
+              ))
+            )}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function OpenGlyph() {
+  return (
+    <span className="flex h-7 w-12 flex-shrink-0 items-center justify-center rounded border border-orange-300/12 text-[10px] font-bold text-orange-300/60 transition-colors group-hover:border-orange-300/35 group-hover:text-orange-200">
+      Abrir
+    </span>
+  );
 }
 
 function ProductCard({ product, onContact }: ProductCardProps) {
@@ -232,13 +454,7 @@ function ProductCard({ product, onContact }: ProductCardProps) {
             className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
         ) : (
-          <Image
-            src="/logo-bpc.jpeg"
-            alt=""
-            fill
-            sizes="280px"
-            className="object-cover opacity-[0.78] transition-transform duration-500 group-hover:scale-105"
-          />
+          <CategoryCover category={product.categoria} name={product.nome} />
         )}
         <div className="absolute inset-0 bg-gradient-to-t from-black/72 via-black/5 to-transparent" />
       </div>

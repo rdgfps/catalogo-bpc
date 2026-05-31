@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { FloatingWhatsApp } from "@/components/common/FloatingWhatsApp";
 import { getConfig } from "@/lib/store";
 
 export const metadata: Metadata = {
@@ -67,7 +68,8 @@ export default function RootLayout({
       <body className="bg-[#050505] text-orange-50 antialiased">
         <Header whatsapps={config.whatsappNumbers} />
         <main className="min-h-screen">{children}</main>
-        <Footer whatsapps={config.whatsappNumbers} />
+        <FloatingWhatsApp phones={config.whatsappNumbers} />
+        <Footer whatsapps={config.whatsappNumbers} location={config.location} />
       </body>
     </html>
   );

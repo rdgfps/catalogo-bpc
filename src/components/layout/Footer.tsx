@@ -2,13 +2,14 @@ import Link from "next/link";
 import Image from "next/image";
 import { Clock, MapPin, Navigation } from "lucide-react";
 import { WhatsAppSelector } from "@/components/common/WhatsAppSelector";
-import { storeLocation } from "@/lib/location";
+import type { StoreLocation } from "@/types";
 
 interface Props {
   whatsapps: string[];
+  location: StoreLocation;
 }
 
-export function Footer({ whatsapps }: Props) {
+export function Footer({ whatsapps, location }: Props) {
   const year = new Date().getFullYear();
 
   return (
@@ -74,11 +75,11 @@ export function Footer({ whatsapps }: Props) {
             <div className="rounded-lg border border-orange-300/12 bg-white/[0.035] p-3">
               <div className="mb-2 flex items-center gap-2 text-sm font-bold text-orange-200">
                 <MapPin className="h-4 w-4" />
-                {storeLocation.label}
+                {location.label}
               </div>
-              <p className="text-sm text-orange-50/42">{storeLocation.address}</p>
+              <p className="text-sm text-orange-50/42">{location.address}</p>
               <a
-                href={storeLocation.mapsUrl}
+                href={location.mapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-3 inline-flex items-center gap-2 text-sm font-bold text-orange-300 transition-colors hover:text-orange-100"

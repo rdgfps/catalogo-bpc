@@ -1,17 +1,17 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, Compass, MapPin, MessageCircle, Navigation, Radar, Sparkles, Zap } from "lucide-react";
+import { ArrowRight, Compass, MapPin, Navigation, Radar, Sparkles, Zap } from "lucide-react";
+import { WhatsAppSelector } from "@/components/common/WhatsAppSelector";
 import { getConfig, getProducts } from "@/lib/store";
 import { getAllCategories } from "@/lib/categorize";
 import { storeLocation } from "@/lib/location";
-import { buildGeneralWhatsAppLink, formatPrice, formatWhatsAppLabel } from "@/lib/utils";
+import { formatPrice } from "@/lib/utils";
 
 export default function HomePage() {
   const config = getConfig();
   const allProducts = getProducts().filter((p) => p.ativo);
   const featured = allProducts.slice(0, 6);
   const totalProducts = allProducts.length;
-  const whatsappGeneralLinks = config.whatsappNumbers.map((phone) => buildGeneralWhatsAppLink(phone));
 
   const categories = getAllCategories()
     .map((cat) => ({
@@ -52,18 +52,11 @@ export default function HomePage() {
                 Abrir catálogo
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
               </Link>
-              {whatsappGeneralLinks.map((link, index) => (
-                <a
-                  key={link}
-                  href={link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center gap-2 rounded-md border border-orange-300/18 bg-white/[0.04] px-7 py-3.5 font-display text-base font-bold text-orange-50 backdrop-blur transition-all hover:border-orange-300/45 hover:bg-orange-500/12"
-                >
-                  <MessageCircle className="h-4 w-4 text-orange-300" />
-                  {formatWhatsAppLabel(config.whatsappNumbers[index], index)}
-                </a>
-              ))}
+              <WhatsAppSelector
+                phones={config.whatsappNumbers}
+                label="Chamar no WhatsApp"
+                align="left"
+              />
             </div>
           </div>
 
@@ -155,15 +148,11 @@ export default function HomePage() {
                 Abrir rota
                 <Navigation className="h-4 w-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
               </a>
-              <a
-                href={whatsappGeneralLinks[0]}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 rounded-md border border-orange-300/18 bg-white/[0.04] px-6 py-3 font-display text-sm font-bold text-orange-50 transition-all hover:border-orange-300/45 hover:bg-orange-500/12"
-              >
-                <MessageCircle className="h-4 w-4 text-orange-300" />
-                Confirmar atendimento
-              </a>
+              <WhatsAppSelector
+                phones={config.whatsappNumbers}
+                label="Confirmar atendimento"
+                align="left"
+              />
             </div>
           </div>
 

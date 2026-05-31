@@ -1,15 +1,14 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Clock, MapPin, MessageCircle, Navigation } from "lucide-react";
+import { Clock, MapPin, Navigation } from "lucide-react";
+import { WhatsAppSelector } from "@/components/common/WhatsAppSelector";
 import { storeLocation } from "@/lib/location";
-import { buildGeneralWhatsAppLink, formatWhatsAppLabel } from "@/lib/utils";
 
 interface Props {
   whatsapps: string[];
 }
 
 export function Footer({ whatsapps }: Props) {
-  const whatsappLinks = whatsapps.map((phone) => buildGeneralWhatsAppLink(phone));
   const year = new Date().getFullYear();
 
   return (
@@ -58,18 +57,11 @@ export function Footer({ whatsapps }: Props) {
           <div>
             <h3 className="font-display font-bold text-white text-sm mb-3">Contato</h3>
             <div className="space-y-2">
-              {whatsappLinks.map((link, index) => (
-                <a
-                  key={link}
-                  href={link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2 text-orange-300 hover:text-orange-100 text-sm transition-colors"
-                >
-                  <MessageCircle className="w-4 h-4" />
-                  {formatWhatsAppLabel(whatsapps[index], index)}
-                </a>
-              ))}
+              <WhatsAppSelector
+                phones={whatsapps}
+                label="Chamar no WhatsApp"
+                align="left"
+              />
               <div className="flex items-center gap-2 text-orange-50/42 text-sm">
                 <Clock className="w-4 h-4" />
                 Seg-Sex: 9h-12:30h / 13:30h-18:30h | Sáb: 9h-13h

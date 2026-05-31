@@ -2,15 +2,14 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Menu, X, MessageCircle } from "lucide-react";
-import { formatWhatsAppLabel } from "@/lib/utils";
+import { Menu, X } from "lucide-react";
+import { WhatsAppSelector } from "@/components/common/WhatsAppSelector";
 
 interface Props {
-  whatsappLinks: string[];
   whatsapps: string[];
 }
 
-export function MobileMenu({ whatsappLinks, whatsapps }: Props) {
+export function MobileMenu({ whatsapps }: Props) {
   const [open, setOpen] = useState(false);
 
   return (
@@ -39,19 +38,13 @@ export function MobileMenu({ whatsappLinks, whatsapps }: Props) {
           >
             Catálogo
           </Link>
-          {whatsappLinks.map((link, index) => (
-            <a
-              key={link}
-              href={link}
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={() => setOpen(false)}
-              className="flex w-full items-center justify-center gap-2 rounded-md border border-orange-300/20 bg-orange-500/12 px-4 py-2.5 text-sm font-bold text-orange-50 transition-colors hover:bg-orange-500/22"
-            >
-              <MessageCircle className="w-4 h-4 text-orange-300" />
-              {formatWhatsAppLabel(whatsapps[index], index)}
-            </a>
-          ))}
+          <WhatsAppSelector
+            phones={whatsapps}
+            label="Chamar no WhatsApp"
+            align="left"
+            fullWidth
+            className="w-full"
+          />
         </div>
       )}
     </div>

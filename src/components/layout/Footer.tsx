@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Clock, MessageCircle } from "lucide-react";
+import { Clock, MapPin, MessageCircle, Navigation } from "lucide-react";
+import { storeLocation } from "@/lib/location";
 import { buildGeneralWhatsAppLink, formatWhatsAppLabel } from "@/lib/utils";
 
 interface Props {
@@ -16,7 +17,7 @@ export function Footer({ whatsapps }: Props) {
       <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-orange-400/70 to-transparent" />
       <div className="absolute -left-32 bottom-0 h-72 w-72 rounded-full bg-orange-600/10 blur-3xl" />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+        <div className="grid grid-cols-1 gap-8 mb-8 md:grid-cols-[1.1fr_0.8fr_1fr_1fr]">
           <div>
             <div className="flex items-center gap-3 mb-3">
               <div className="relative w-11 h-11 rounded-md overflow-hidden bg-orange-500 ring-1 ring-orange-300/30">
@@ -73,6 +74,25 @@ export function Footer({ whatsapps }: Props) {
                 <Clock className="w-4 h-4" />
                 Seg-Sex: 9h-12:30h / 13:30h-18:30h | Sáb: 9h-13h
               </div>
+            </div>
+          </div>
+
+          <div>
+            <h3 className="font-display font-bold text-white text-sm mb-3">Localização</h3>
+            <div className="rounded-lg border border-orange-300/12 bg-white/[0.035] p-3">
+              <div className="mb-2 flex items-center gap-2 text-sm font-bold text-orange-200">
+                <MapPin className="h-4 w-4" />
+                {storeLocation.label}
+              </div>
+              <p className="text-sm text-orange-50/42">{storeLocation.address}</p>
+              <a
+                href={storeLocation.mapsUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-3 inline-flex items-center gap-2 text-sm font-bold text-orange-300 transition-colors hover:text-orange-100"
+              >
+                Abrir rota <Navigation className="h-4 w-4" />
+              </a>
             </div>
           </div>
         </div>

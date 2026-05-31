@@ -1,8 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, Compass, MessageCircle, Radar, Sparkles, Zap } from "lucide-react";
+import { ArrowRight, Compass, MapPin, MessageCircle, Navigation, Radar, Sparkles, Zap } from "lucide-react";
 import { getConfig, getProducts } from "@/lib/store";
 import { getAllCategories } from "@/lib/categorize";
+import { storeLocation } from "@/lib/location";
 import { buildGeneralWhatsAppLink, formatPrice, formatWhatsAppLabel } from "@/lib/utils";
 
 export default function HomePage() {
@@ -102,6 +103,93 @@ export default function HomePage() {
                 <Zap className="h-4 w-4 text-orange-300" />
                 Consulta sem checkout
               </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="relative overflow-hidden border-y border-orange-300/10 bg-[#0a0604] py-14">
+        <div className="absolute inset-0 bpc-grid opacity-25" />
+        <div className="absolute left-1/2 top-0 h-px w-[68vw] -translate-x-1/2 bg-gradient-to-r from-transparent via-orange-300/55 to-transparent" />
+
+        <div className="relative mx-auto grid max-w-7xl gap-8 px-4 sm:px-6 lg:grid-cols-[minmax(0,1fr)_420px] lg:px-8">
+          <div className="flex flex-col justify-center">
+            <div className="mb-5 inline-flex w-fit items-center gap-2 rounded-md border border-orange-300/18 bg-white/[0.035] px-3 py-2 text-sm font-bold text-orange-200">
+              <MapPin className="h-4 w-4" />
+              Localização
+            </div>
+            <h2 className="max-w-3xl font-display text-3xl font-extrabold leading-tight text-orange-50 md:text-5xl">
+              Um ponto local, encontrado como interface.
+            </h2>
+            <p className="mt-5 max-w-2xl text-lg leading-relaxed text-orange-50/58">
+              Em vez de jogar um mapa comum no site, a loja aparece como um radar: simples, direto e com a rota a um toque.
+            </p>
+
+            <div className="mt-7 grid gap-3 sm:grid-cols-2">
+              <div className="rounded-lg border border-orange-300/12 bg-white/[0.035] p-4">
+                <p className="text-xs font-bold uppercase tracking-wide text-orange-300">
+                  Região
+                </p>
+                <p className="mt-2 font-display text-xl font-extrabold text-orange-50">
+                  {storeLocation.label}
+                </p>
+                <p className="mt-1 text-sm text-orange-50/44">{storeLocation.address}</p>
+              </div>
+              <div className="rounded-lg border border-orange-300/12 bg-white/[0.035] p-4">
+                <p className="text-xs font-bold uppercase tracking-wide text-orange-300">
+                  Ação rápida
+                </p>
+                <p className="mt-2 text-sm leading-relaxed text-orange-50/58">
+                  Abra a rota ou confirme o atendimento direto pelo WhatsApp.
+                </p>
+              </div>
+            </div>
+
+            <div className="mt-7 flex flex-col gap-3 sm:flex-row">
+              <a
+                href={storeLocation.mapsUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group inline-flex items-center justify-center gap-2 rounded-md bg-orange-500 px-6 py-3 font-display text-sm font-extrabold text-[#120804] shadow-[0_20px_70px_rgba(249,115,22,0.22)] transition-all hover:-translate-y-0.5 hover:bg-orange-300"
+              >
+                Abrir rota
+                <Navigation className="h-4 w-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+              </a>
+              <a
+                href={whatsappGeneralLinks[0]}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-2 rounded-md border border-orange-300/18 bg-white/[0.04] px-6 py-3 font-display text-sm font-bold text-orange-50 transition-all hover:border-orange-300/45 hover:bg-orange-500/12"
+              >
+                <MessageCircle className="h-4 w-4 text-orange-300" />
+                Confirmar atendimento
+              </a>
+            </div>
+          </div>
+
+          <div className="relative mx-auto flex aspect-square w-full max-w-[420px] items-center justify-center rounded-lg border border-orange-300/14 bg-[#050505] shadow-[0_32px_120px_rgba(0,0,0,0.45)]">
+            <div className="absolute inset-6 rounded-full border border-orange-300/10" />
+            <div className="absolute inset-14 rounded-full border border-orange-300/12" />
+            <div className="absolute inset-24 rounded-full border border-orange-300/14" />
+            <div className="absolute left-1/2 top-8 h-[calc(50%-2rem)] w-px origin-bottom -translate-x-1/2 bg-gradient-to-t from-orange-300/65 to-transparent bpc-radar-sweep" />
+            <div className="absolute h-28 w-28 rounded-full border border-orange-300/20 bpc-radar-pulse" />
+            <div className="absolute h-44 w-44 rounded-full border border-orange-300/10 bpc-radar-pulse [animation-delay:900ms]" />
+
+            <div className="relative z-10 flex h-24 w-24 items-center justify-center rounded-lg border border-orange-300/25 bg-orange-500/12 shadow-[0_0_55px_rgba(249,115,22,0.28)] backdrop-blur">
+              <Image
+                src="/logo-bpc.jpeg"
+                alt="Bom Pra Cachorro Pet Shop"
+                width={68}
+                height={68}
+                className="rounded-md object-cover"
+              />
+            </div>
+
+            <div className="absolute right-8 top-16 rounded-md border border-orange-300/16 bg-black/50 px-3 py-2 text-xs font-bold text-orange-200 backdrop-blur">
+              rota ativa
+            </div>
+            <div className="absolute bottom-10 left-8 rounded-md border border-orange-300/16 bg-black/50 px-3 py-2 text-xs font-bold text-orange-50/70 backdrop-blur">
+              {storeLocation.label}
             </div>
           </div>
         </div>

@@ -72,6 +72,15 @@
   .bpc-scan {
     animation: bpcScan 4.5s ease-in-out infinite;
   }
+
+  .bpc-radar-sweep {
+    animation: bpcRadarSweep 4.8s linear infinite;
+    transform-origin: 50% 100%;
+  }
+
+  .bpc-radar-pulse {
+    animation: bpcRadarPulse 2.6s ease-out infinite;
+  }
 }
 
 @keyframes bpcOrbit {
@@ -87,6 +96,17 @@
 @keyframes bpcScan {
   0%, 100% { transform: translateX(-40%); opacity: 0.25; }
   50% { transform: translateX(40%); opacity: 0.8; }
+}
+
+@keyframes bpcRadarSweep {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes bpcRadarPulse {
+  0% { transform: scale(0.75); opacity: 0.8; }
+  70% { opacity: 0.08; }
+  100% { transform: scale(1.35); opacity: 0; }
 }
 
 ::-webkit-scrollbar { width: 6px; }

@@ -38,7 +38,7 @@ export default function HomePage() {
             </div>
 
             <h1 className="max-w-4xl font-display text-4xl font-extrabold leading-[1.04] text-orange-50 sm:text-5xl md:text-7xl">
-              O pet shop do interior com experiência de produto premium.
+              Tudo para o seu pet com atendimento próximo e catálogo inteligente.
             </h1>
 
             <p className="mt-6 max-w-2xl text-lg leading-relaxed text-orange-50/62 md:text-xl">
@@ -113,10 +113,10 @@ export default function HomePage() {
               Localização
             </div>
             <h2 className="max-w-3xl font-display text-3xl font-extrabold leading-tight text-orange-50 md:text-5xl">
-              Um ponto local, encontrado como interface.
+              Estamos em Canguçu para atender você e seu pet.
             </h2>
             <p className="mt-5 max-w-2xl text-lg leading-relaxed text-orange-50/58">
-              Em vez de jogar um mapa comum no site, a loja aparece como um radar: simples, direto e com a rota a um toque.
+              Passe na loja para conferir produtos, tirar dúvidas e encontrar o cuidado certo para o seu pet.
             </p>
 
             <div className="mt-7 grid gap-3 sm:grid-cols-2">
@@ -131,10 +131,10 @@ export default function HomePage() {
               </div>
               <div className="rounded-lg border border-orange-300/12 bg-white/[0.035] p-4">
                 <p className="text-xs font-bold uppercase tracking-wide text-orange-300">
-                  Ação rápida
+                  Antes de sair
                 </p>
                 <p className="mt-2 text-sm leading-relaxed text-orange-50/58">
-                  Abra a rota ou confirme o atendimento direto pelo WhatsApp.
+                  Chame no WhatsApp para confirmar produto, preço ou melhor horário de atendimento.
                 </p>
               </div>
             </div>

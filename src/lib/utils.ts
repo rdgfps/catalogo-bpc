@@ -27,3 +27,40 @@ export function formatPrice(price: number): string {
     currency: "BRL",
   });
 }
+
+export function normalizeSearchText(value: string): string {
+  const normalized = value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim()
+    .replace(/\s+/g, " ");
+
+  const aliases: string[] = [];
+
+  if (/\bracao\b|\bracoes\b/.test(normalized)) {
+    aliases.push("racao", "racoes");
+  }
+
+  if (/\bacessorio\b|\bacessorios\b/.test(normalized)) {
+    aliases.push("acessorio", "acessorios");
+  }
+
+  if (/\bhigiene\b|\bhigienico\b|\bhigienicos\b/.test(normalized)) {
+    aliases.push("higiene", "higienico", "higienicos");
+  }
+
+  return [normalized, ...aliases].join(" ").trim();
+}
+
+export function matchesSearch(value: string, query: string): boolean {
+  const normalizedValue = normalizeSearchText(value);
+  const normalizedQuery = normalizeSearchText(query);
+  if (!normalizedQuery) return true;
+
+  return normalizedQuery
+    .split(" ")
+    .filter(Boolean)
+    .every((term) => normalizedValue.includes(term));
+}

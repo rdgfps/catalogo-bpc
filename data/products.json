@@ -29,7 +29,7 @@
   {
     "id": "7908405900501",
     "nome": "ALICATE UNHA PET",
-    "categoria": "Outros",
+    "categoria": "Banho e Tosa",
     "preco": 30,
     "estoque": 2,
     "codigoBarras": "7908405900501",
@@ -38,7 +38,7 @@
   {
     "id": "7891000623107",
     "nome": "ALIM CAES DOGUITOS FRANGO",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 6,
     "estoque": 1,
     "codigoBarras": "7891000623107",
@@ -65,7 +65,7 @@
   {
     "id": "7898416700514",
     "nome": "ANTITOXICO BIOFARM",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 25,
     "estoque": 5,
     "codigoBarras": "7898416700514",
@@ -101,7 +101,7 @@
   {
     "id": "7898674092116",
     "nome": "AREIA FINOTRATO 4KG",
-    "categoria": "Rações",
+    "categoria": "Areias e Higiênico",
     "preco": 40,
     "estoque": 14,
     "codigoBarras": "7898674092116",
@@ -191,7 +191,7 @@
   {
     "id": "7891126001094",
     "nome": "Avitrin Antibiótico 10ml - Coveli",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 30,
     "estoque": 2,
     "codigoBarras": "7891126001094",
@@ -200,7 +200,7 @@
   {
     "id": "7891126001063",
     "nome": "AVITRIN COMPLEXO VITAMÃNICO PARA AVES GOTAS USO VETERINÃRIO",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 30,
     "estoque": 7,
     "codigoBarras": "7891126001063",
@@ -218,7 +218,7 @@
   {
     "id": "7898416701504",
     "nome": "BABECID CÃES 10ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 30,
     "estoque": 1,
     "codigoBarras": "7898416701504",
@@ -227,7 +227,7 @@
   {
     "id": "7898416701498",
     "nome": "BABECID GRANDE PORTE 20ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 38,
     "estoque": 2,
     "codigoBarras": "7898416701498",
@@ -236,7 +236,7 @@
   {
     "id": "7898950369536",
     "nome": "BAGUAL DOG 7KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 30,
     "estoque": 0,
     "codigoBarras": "7898950369536",
@@ -245,7 +245,7 @@
   {
     "id": "7898908110944",
     "nome": "BAH CAT 7KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 65,
     "estoque": 5,
     "codigoBarras": "7898908110944",
@@ -299,7 +299,7 @@
   {
     "id": "7898908110609",
     "nome": "BAITACÃO 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 60,
     "estoque": 4,
     "codigoBarras": "7898908110609",
@@ -308,7 +308,7 @@
   {
     "id": "7898949819233",
     "nome": "BANDEJA HIGIENICA P GATOS",
-    "categoria": "Outros",
+    "categoria": "Areias e Higiênico",
     "preco": 18,
     "estoque": 2,
     "codigoBarras": "7898949819233",
@@ -317,7 +317,7 @@
   {
     "id": "7898726370230",
     "nome": "BANHEIRO AZUL GATO",
-    "categoria": "Outros",
+    "categoria": "Areias e Higiênico",
     "preco": 100,
     "estoque": 1,
     "codigoBarras": "7898726370230",
@@ -326,7 +326,7 @@
   {
     "id": "7898726370247",
     "nome": "BANHEIRO ROSA GATO",
-    "categoria": "Outros",
+    "categoria": "Areias e Higiênico",
     "preco": 100,
     "estoque": 0,
     "codigoBarras": "7898726370247",
@@ -353,7 +353,7 @@
   {
     "id": "7898019861278",
     "nome": "BANNI VERMICIDA 5KG",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 70,
     "estoque": 1,
     "codigoBarras": "7898019861278",
@@ -362,7 +362,7 @@
   {
     "id": "7898555411029",
     "nome": "BASTAO RACAO CALOPSITA 90G",
-    "categoria": "Rações",
+    "categoria": "Outros Animais",
     "preco": 13,
     "estoque": 2,
     "codigoBarras": "7898555411029",
@@ -470,7 +470,7 @@
   {
     "id": "7898250782844",
     "nome": "BILLY CAT FRANGO 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 90,
     "estoque": 1,
     "codigoBarras": "7898250782844",
@@ -479,7 +479,7 @@
   {
     "id": "7898250782875",
     "nome": "BILLY CAT SALMÃO 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 90,
     "estoque": -6,
     "codigoBarras": "7898250782875",
@@ -488,7 +488,7 @@
   {
     "id": "7908244100667",
     "nome": "BIOCARE 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 130,
     "estoque": 9,
     "codigoBarras": "7908244100667",
@@ -497,7 +497,7 @@
   {
     "id": "7908244100476",
     "nome": "BIOCARE START 21% 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 115,
     "estoque": 5,
     "codigoBarras": "7908244100476",
@@ -569,7 +569,7 @@
   {
     "id": "2000000000009",
     "nome": "BOLINHA EMOJI",
-    "categoria": "Outros",
+    "categoria": "Brinquedos",
     "preco": 15,
     "estoque": 4,
     "codigoBarras": "2000000000009",
@@ -578,7 +578,7 @@
   {
     "id": "2000000099968",
     "nome": "BOLINHA SINOS",
-    "categoria": "Outros",
+    "categoria": "Brinquedos",
     "preco": 5,
     "estoque": 2,
     "codigoBarras": "2000000099968",
@@ -587,7 +587,7 @@
   {
     "id": "7898608632258",
     "nome": "BOLINHAS BICOLOR",
-    "categoria": "Outros",
+    "categoria": "Brinquedos",
     "preco": 5,
     "estoque": 11,
     "codigoBarras": "7898608632258",
@@ -596,7 +596,7 @@
   {
     "id": "2000000000012",
     "nome": "BONECO DE BORRACHA",
-    "categoria": "Outros",
+    "categoria": "Brinquedos",
     "preco": 30,
     "estoque": 0,
     "codigoBarras": "2000000000012",
@@ -848,7 +848,7 @@
   {
     "id": "7898639621306",
     "nome": "BRAIN PLUS PQNO PORTE 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 190,
     "estoque": -1,
     "codigoBarras": "7898639621306",
@@ -875,7 +875,7 @@
   {
     "id": "7898490093267",
     "nome": "Brinquedo Bola Furação Pet Macica de Colorida Mamoninha (Emb. contém 1un. de 45mm)",
-    "categoria": "Rações",
+    "categoria": "Brinquedos",
     "preco": 12,
     "estoque": 1,
     "codigoBarras": "7898490093267",
@@ -911,7 +911,7 @@
   {
     "id": "7908291135339",
     "nome": "BRINQUEDO DE BORRACHA ESTRELA",
-    "categoria": "Passeio",
+    "categoria": "Brinquedos",
     "preco": 18,
     "estoque": 1,
     "codigoBarras": "7908291135339",
@@ -938,7 +938,7 @@
   {
     "id": "7908291135353",
     "nome": "BRINQUEDO DE BORRACHA MINI OSSO",
-    "categoria": "Alimentação",
+    "categoria": "Brinquedos",
     "preco": 18,
     "estoque": 1,
     "codigoBarras": "7908291135353",
@@ -992,7 +992,7 @@
   {
     "id": "7908405902031",
     "nome": "BRINQUEDO PLAST OSSO CINTILANTE",
-    "categoria": "Alimentação",
+    "categoria": "Brinquedos",
     "preco": 30,
     "estoque": 1,
     "codigoBarras": "7908405902031",
@@ -1001,7 +1001,7 @@
   {
     "id": "7908291121608",
     "nome": "CABO DE GUERRA ANEL TAM P",
-    "categoria": "Outros",
+    "categoria": "Brinquedos",
     "preco": 48,
     "estoque": 1,
     "codigoBarras": "7908291121608",
@@ -1019,7 +1019,7 @@
   {
     "id": "7898416700668",
     "nome": "CALCIO FARM INJ. 500ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 45,
     "estoque": 2,
     "codigoBarras": "7898416700668",
@@ -1028,7 +1028,7 @@
   {
     "id": "7898416701139",
     "nome": "CALCIOFARM MIX PET 125ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 40,
     "estoque": 1,
     "codigoBarras": "7898416701139",
@@ -1037,7 +1037,7 @@
   {
     "id": "7898939116267",
     "nome": "CALCIORAL 100ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 28,
     "estoque": 1,
     "codigoBarras": "7898939116267",
@@ -1046,7 +1046,7 @@
   {
     "id": "5420036971382",
     "nome": "CALFON CALCIO BOVINOS 200ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 60,
     "estoque": 3,
     "codigoBarras": "5420036971382",
@@ -1145,7 +1145,7 @@
   {
     "id": "7898043433922",
     "nome": "CANEX ORIGINAL CX C/ 4 COMP",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 10,
     "estoque": 4,
     "codigoBarras": "7898043433922",
@@ -1163,7 +1163,7 @@
   {
     "id": "7897265602758",
     "nome": "CANNY DOG 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 60,
     "estoque": 8,
     "codigoBarras": "7897265602758",
@@ -1172,7 +1172,7 @@
   {
     "id": "7898113441628",
     "nome": "CAPA GAIOLA TAM 1",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 6,
     "estoque": 3,
     "codigoBarras": "7898113441628",
@@ -1181,7 +1181,7 @@
   {
     "id": "7898322100644",
     "nome": "CAPA GAIOLA TAM 2",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 8,
     "estoque": 2,
     "codigoBarras": "7898322100644",
@@ -1190,7 +1190,7 @@
   {
     "id": "7898322100651",
     "nome": "CAPA GAIOLA TAM 3",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 10,
     "estoque": 3,
     "codigoBarras": "7898322100651",
@@ -1199,7 +1199,7 @@
   {
     "id": "7898322100668",
     "nome": "CAPA GAIOLA TAM 4",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 13,
     "estoque": 3,
     "codigoBarras": "7898322100668",
@@ -1208,7 +1208,7 @@
   {
     "id": "7898322100675",
     "nome": "CAPA GAIOLA TAM 5",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 13,
     "estoque": 2,
     "codigoBarras": "7898322100675",
@@ -1217,7 +1217,7 @@
   {
     "id": "7898322100682",
     "nome": "CAPA GAIOLA TAM 6",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 13,
     "estoque": 1,
     "codigoBarras": "7898322100682",
@@ -1244,7 +1244,7 @@
   {
     "id": "01438515175842",
     "nome": "CARTELA BIODEX 20 COMP",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 18,
     "estoque": 30,
     "codigoBarras": "01438515175842",
@@ -1253,7 +1253,7 @@
   {
     "id": "7898568979790",
     "nome": "CARTELA VERMICATS 3KG",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 15,
     "estoque": 8,
     "codigoBarras": "7898568979790",
@@ -1433,7 +1433,7 @@
   {
     "id": "7891000248003",
     "nome": "CATCHOW CASTRADOS 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 165,
     "estoque": 3,
     "codigoBarras": "7891000248003",
@@ -1442,7 +1442,7 @@
   {
     "id": "7898031810971",
     "nome": "CETOCONAZOL SPRAY 2%",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 55,
     "estoque": -3,
     "codigoBarras": "7898031810971",
@@ -1460,7 +1460,7 @@
   {
     "id": "7898006193528",
     "nome": "CHARMDOG CARRAPATICIDA/SARNICIDA 20ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 15,
     "estoque": 25,
     "codigoBarras": "7898006193528",
@@ -1469,7 +1469,7 @@
   {
     "id": "7898096852282",
     "nome": "CHEMITAL 20ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 30,
     "estoque": 2,
     "codigoBarras": "7898096852282",
@@ -1478,7 +1478,7 @@
   {
     "id": "7898096852275",
     "nome": "CHEMITAL CAES 4COMPS",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 15,
     "estoque": 6,
     "codigoBarras": "7898096852275",
@@ -1487,7 +1487,7 @@
   {
     "id": "7898096855160",
     "nome": "CHEMITAL GATOS 4 COMP P/ 4KG",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 20,
     "estoque": 2,
     "codigoBarras": "7898096855160",
@@ -1496,7 +1496,7 @@
   {
     "id": "7898096853005",
     "nome": "CHEMITAL GATOS P 4KG",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 18,
     "estoque": 9,
     "codigoBarras": "7898096853005",
@@ -1505,7 +1505,7 @@
   {
     "id": "7898096850486",
     "nome": "CHEMITEC BALSAMEX 30G",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 29,
     "estoque": 4,
     "codigoBarras": "7898096850486",
@@ -1514,7 +1514,7 @@
   {
     "id": "7898096855023",
     "nome": "CHEMITRIL 10% 50ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 45,
     "estoque": 4,
     "codigoBarras": "7898096855023",
@@ -1523,7 +1523,7 @@
   {
     "id": "7898096855016",
     "nome": "CHEMITRIL INJET 10% 10ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 30,
     "estoque": 4,
     "codigoBarras": "7898096855016",
@@ -1532,7 +1532,7 @@
   {
     "id": "7898096855047",
     "nome": "CHEMITRIL INJET 2,5% 20ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 35,
     "estoque": 5,
     "codigoBarras": "7898096855047",
@@ -1559,7 +1559,7 @@
   {
     "id": "7898568979639",
     "nome": "COLEIRA ANTIPARASITARIA DUGS",
-    "categoria": "Passeio",
+    "categoria": "Medicamentos",
     "preco": 35,
     "estoque": 4,
     "codigoBarras": "7898568979639",
@@ -1568,7 +1568,7 @@
   {
     "id": "7898568979882",
     "nome": "COLEIRA ANTIPULGAS CONFRONT GRANDES",
-    "categoria": "Passeio",
+    "categoria": "Medicamentos",
     "preco": 40,
     "estoque": -6,
     "codigoBarras": "7898568979882",
@@ -1577,7 +1577,7 @@
   {
     "id": "7898568979875",
     "nome": "COLEIRA ANTIPULGAS CONFRONT MEDIOS E PQNOS",
-    "categoria": "Passeio",
+    "categoria": "Medicamentos",
     "preco": 32,
     "estoque": -4,
     "codigoBarras": "7898568979875",
@@ -1586,7 +1586,7 @@
   {
     "id": "7891126001452",
     "nome": "COLEIRA ANTIPULGAS P/ GATOS - BULLCAT",
-    "categoria": "Passeio",
+    "categoria": "Medicamentos",
     "preco": 40,
     "estoque": 3,
     "codigoBarras": "7891126001452",
@@ -1892,7 +1892,7 @@
   {
     "id": "7898994300168",
     "nome": "CONCENTRADO P GALINHA 5KG",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 28,
     "estoque": 3,
     "codigoBarras": "7898994300168",
@@ -1901,7 +1901,7 @@
   {
     "id": "7898416701368",
     "nome": "CONDROFARM CARTELA",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 20,
     "estoque": 5,
     "codigoBarras": "7898416701368",
@@ -1910,7 +1910,7 @@
   {
     "id": "2000000099978",
     "nome": "CONTRACEPTIVO INJETAVEL EXTROGIN",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 25,
     "estoque": 1,
     "codigoBarras": "2000000099978",
@@ -1919,7 +1919,7 @@
   {
     "id": "7891126001629",
     "nome": "COPROVET",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 58,
     "estoque": 2,
     "codigoBarras": "7891126001629",
@@ -1982,7 +1982,7 @@
   {
     "id": "7896014902040",
     "nome": "CRUZWALDINA 500ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 40,
     "estoque": 5,
     "codigoBarras": "7896014902040",
@@ -2009,7 +2009,7 @@
   {
     "id": "7898049716609",
     "nome": "DECTOMAX ANTIPARASIT.INJ.50ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 45,
     "estoque": -2,
     "codigoBarras": "7898049716609",
@@ -2018,7 +2018,7 @@
   {
     "id": "7891000247495",
     "nome": "DENTALIFE 40G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 9,
     "estoque": 7,
     "codigoBarras": "7891000247495",
@@ -2036,7 +2036,7 @@
   {
     "id": "7899098010809",
     "nome": "DESTORCEDOR",
-    "categoria": "Outros",
+    "categoria": "Passeio",
     "preco": 15,
     "estoque": 10,
     "codigoBarras": "7899098010809",
@@ -2045,7 +2045,7 @@
   {
     "id": "7898096852398",
     "nome": "DEXIUM SOLUCAO INJET 50ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 50,
     "estoque": 4,
     "codigoBarras": "7898096852398",
@@ -2054,7 +2054,7 @@
   {
     "id": "7898941459741",
     "nome": "DIGESTIV 20 TABL",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 50,
     "estoque": 5,
     "codigoBarras": "7898941459741",
@@ -2072,7 +2072,7 @@
   {
     "id": "7898279420185",
     "nome": "DIPIRONA 25% PRADODOG",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 20,
     "estoque": 8,
     "codigoBarras": "7898279420185",
@@ -2081,7 +2081,7 @@
   {
     "id": "7898096852152",
     "nome": "DIUZON SOLUCAO INJET 10ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 45,
     "estoque": 6,
     "codigoBarras": "7898096852152",
@@ -2090,7 +2090,7 @@
   {
     "id": "7898940811052",
     "nome": "DOCKY 7KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 35,
     "estoque": -3,
     "codigoBarras": "7898940811052",
@@ -2099,7 +2099,7 @@
   {
     "id": "7898639620736",
     "nome": "DODI 5KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 25,
     "estoque": -17,
     "codigoBarras": "7898639620736",
@@ -2108,7 +2108,7 @@
   {
     "id": "7898639620606",
     "nome": "DODI CAES 20KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 110,
     "estoque": 0,
     "codigoBarras": "7898639620606",
@@ -2117,7 +2117,7 @@
   {
     "id": "7897265602338",
     "nome": "DODOG 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 65,
     "estoque": 6,
     "codigoBarras": "7897265602338",
@@ -2216,7 +2216,7 @@
   {
     "id": "736532880482",
     "nome": "DON NICO 20KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 155,
     "estoque": -2,
     "codigoBarras": "736532880482",
@@ -2225,7 +2225,7 @@
   {
     "id": "042882460770",
     "nome": "DON NICO ADULTOS 20KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 120,
     "estoque": 3,
     "codigoBarras": "042882460770",
@@ -2234,7 +2234,7 @@
   {
     "id": "736532880475",
     "nome": "DON NICO CAES 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 80,
     "estoque": 5,
     "codigoBarras": "736532880475",
@@ -2243,7 +2243,7 @@
   {
     "id": "736532880505",
     "nome": "DON NICO GATOS ADULTOS 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 89,
     "estoque": 3,
     "codigoBarras": "736532880505",
@@ -2261,7 +2261,7 @@
   {
     "id": "7898416700828",
     "nome": "ENTERO ANTIDIARREICO",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 10,
     "estoque": -4,
     "codigoBarras": "7898416700828",
@@ -2324,7 +2324,7 @@
   {
     "id": "7898639621085",
     "nome": "FAMIL CACHORROS ADULTOS 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 120,
     "estoque": 6,
     "codigoBarras": "7898639621085",
@@ -2333,7 +2333,7 @@
   {
     "id": "7898639620972",
     "nome": "FAMIL CAO FILHOTE 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 115,
     "estoque": -6,
     "codigoBarras": "7898639620972",
@@ -2342,7 +2342,7 @@
   {
     "id": "7898639620965",
     "nome": "FAMIL CAO PQNO PORTE 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 110,
     "estoque": 4,
     "codigoBarras": "7898639620965",
@@ -2351,7 +2351,7 @@
   {
     "id": "7898639621009",
     "nome": "FAMIL GATOS CASTRADOS 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 135,
     "estoque": 2,
     "codigoBarras": "7898639621009",
@@ -2387,7 +2387,7 @@
   {
     "id": "7898939116496",
     "nome": "FARINHA DE CALCIO 200G",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 12,
     "estoque": 2,
     "codigoBarras": "7898939116496",
@@ -2630,7 +2630,7 @@
   {
     "id": "7897164900252",
     "nome": "GAIOLA CODORNA PEQ PRATA",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 140,
     "estoque": 1,
     "codigoBarras": "7897164900252",
@@ -2639,7 +2639,7 @@
   {
     "id": "7908405901614",
     "nome": "GAIOLA VERDE PASSARINHO",
-    "categoria": "Outros",
+    "categoria": "Outros Animais",
     "preco": 85,
     "estoque": 2,
     "codigoBarras": "7908405901614",
@@ -2666,7 +2666,7 @@
   {
     "id": "619205829202",
     "nome": "GDOG 25KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 130,
     "estoque": 3,
     "codigoBarras": "619205829202",
@@ -2675,7 +2675,7 @@
   {
     "id": "618341119536",
     "nome": "GDOG 7KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 40,
     "estoque": 0,
     "codigoBarras": "618341119536",
@@ -2693,7 +2693,7 @@
   {
     "id": "2000000099941",
     "nome": "GRANEL BAH CAT",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 9,
     "estoque": 99907,
     "codigoBarras": "2000000099941",
@@ -2729,7 +2729,7 @@
   {
     "id": "2000000099940",
     "nome": "GRANEL BILLY CAT FILHOTE",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 13,
     "estoque": 999976,
     "codigoBarras": "2000000099940",
@@ -2738,7 +2738,7 @@
   {
     "id": "2000000099956",
     "nome": "GRANEL BILLY DOG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 7,
     "estoque": 9999974,
     "codigoBarras": "2000000099956",
@@ -2747,7 +2747,7 @@
   {
     "id": "2000000099948",
     "nome": "GRANEL BIOCARE",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 10,
     "estoque": 9999807,
     "codigoBarras": "2000000099948",
@@ -2756,7 +2756,7 @@
   {
     "id": "2000000099934",
     "nome": "GRANEL BRAIN PLUS ADULTOS PQNAS RCAS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 15,
     "estoque": 9999702,
     "codigoBarras": "2000000099934",
@@ -2765,7 +2765,7 @@
   {
     "id": "2000000099922",
     "nome": "GRANEL BRAIN PLUS GATOS CASTRADOS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 19,
     "estoque": 9999955,
     "codigoBarras": "2000000099922",
@@ -2837,7 +2837,7 @@
   {
     "id": "2000000099962",
     "nome": "GRANEL DON NICO CARNE E FRANGO",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 10,
     "estoque": 99999962,
     "codigoBarras": "2000000099962",
@@ -2846,7 +2846,7 @@
   {
     "id": "2000000099999",
     "nome": "GRANEL DON NICO GATOS ADULTOS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 13,
     "estoque": 999999,
     "codigoBarras": "2000000099999",
@@ -2855,7 +2855,7 @@
   {
     "id": "2000000099952",
     "nome": "GRANEL FAMIL CAO PQNO PORTE",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 12,
     "estoque": 99999947,
     "codigoBarras": "2000000099952",
@@ -2873,7 +2873,7 @@
   {
     "id": "2000000099915",
     "nome": "GRANEL FAMIL GATOS CASTRADOS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 14,
     "estoque": 99938,
     "codigoBarras": "2000000099915",
@@ -2945,7 +2945,7 @@
   {
     "id": "2000000099946",
     "nome": "GRANEL MIKDOG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 14,
     "estoque": 9999973,
     "codigoBarras": "2000000099946",
@@ -2954,7 +2954,7 @@
   {
     "id": "2000000099947",
     "nome": "GRANEL MIKDOG NUGGETS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 16,
     "estoque": 999974,
     "codigoBarras": "2000000099947",
@@ -2963,7 +2963,7 @@
   {
     "id": "2000000099920",
     "nome": "GRANEL MIMOS CAT",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 20,
     "estoque": 999729,
     "codigoBarras": "2000000099920",
@@ -3008,7 +3008,7 @@
   {
     "id": "2000000099913",
     "nome": "GRANEL MONELLO GATO FILHOTES",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 18,
     "estoque": 100001073,
     "codigoBarras": "2000000099913",
@@ -3026,7 +3026,7 @@
   {
     "id": "2000000099996",
     "nome": "GRANEL NUTRI CAES ADULTOS RAÇAS PQNAS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 12,
     "estoque": 999999,
     "codigoBarras": "2000000099996",
@@ -3035,7 +3035,7 @@
   {
     "id": "2000000099995",
     "nome": "GRANEL NUTRI CAES FILHOTES RAÇAS PQNAS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 12,
     "estoque": 999999,
     "codigoBarras": "2000000099995",
@@ -3044,7 +3044,7 @@
   {
     "id": "2000000099998",
     "nome": "GRANEL NUTRI GATOS ADULTOS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 12,
     "estoque": 999999,
     "codigoBarras": "2000000099998",
@@ -3053,7 +3053,7 @@
   {
     "id": "2000000099997",
     "nome": "GRANEL NUTRI GATOS CAST",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 13,
     "estoque": 999999,
     "codigoBarras": "2000000099997",
@@ -3071,7 +3071,7 @@
   {
     "id": "2000000099925",
     "nome": "GRANEL OPTIMUM ADULTOS RAÇAS PQNAS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 16,
     "estoque": 9999958,
     "codigoBarras": "2000000099925",
@@ -3080,7 +3080,7 @@
   {
     "id": "2000000099924",
     "nome": "GRANEL OPTIMUM GATOS CASTRADOS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 18,
     "estoque": 999965,
     "codigoBarras": "2000000099924",
@@ -3116,7 +3116,7 @@
   {
     "id": "2000000099942",
     "nome": "GRANEL PRIMOCAO JUNIOR",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 17,
     "estoque": 9999971,
     "codigoBarras": "2000000099942",
@@ -3125,7 +3125,7 @@
   {
     "id": "2000000099935",
     "nome": "GRANEL PRIMOCAO PQNS RCAS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 13,
     "estoque": 99803,
     "codigoBarras": "2000000099935",
@@ -3134,7 +3134,7 @@
   {
     "id": "2000000099919",
     "nome": "GRANEL PRIMOGATO BLEND ADULTO",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 17,
     "estoque": 9999968,
     "codigoBarras": "2000000099919",
@@ -3143,7 +3143,7 @@
   {
     "id": "2000000099950",
     "nome": "GRANEL PRIMOGATO FILHOTE",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 16,
     "estoque": 9999951,
     "codigoBarras": "2000000099950",
@@ -3152,7 +3152,7 @@
   {
     "id": "2000000099949",
     "nome": "GRANEL PRIMOGATO ORIGINAL",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 13.5,
     "estoque": 9999906,
     "codigoBarras": "2000000099949",
@@ -3197,7 +3197,7 @@
   {
     "id": "2000000099937",
     "nome": "GRANEL THREE DOGS ADULTOS PQNS RCAS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 17,
     "estoque": 999763,
     "codigoBarras": "2000000099937",
@@ -3206,7 +3206,7 @@
   {
     "id": "2000000099930",
     "nome": "GRANEL THREE DOGS FILHOTE PQNS RCS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 18,
     "estoque": 9999972,
     "codigoBarras": "2000000099930",
@@ -3314,7 +3314,7 @@
   {
     "id": "7629186806409",
     "nome": "HAMBURGUER BORRACHA",
-    "categoria": "Outros",
+    "categoria": "Brinquedos",
     "preco": 14,
     "estoque": -1,
     "codigoBarras": "7629186806409",
@@ -3368,7 +3368,7 @@
   {
     "id": "7898026080532",
     "nome": "INSET.MATA PULGAS DIPIL 50G",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 12,
     "estoque": 9,
     "codigoBarras": "7898026080532",
@@ -3476,7 +3476,7 @@
   {
     "id": "7898406300625",
     "nome": "LILIDOG 20KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 90,
     "estoque": 1,
     "codigoBarras": "7898406300625",
@@ -3485,7 +3485,7 @@
   {
     "id": "7898406304197",
     "nome": "LILIDOG 5KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 26,
     "estoque": 0,
     "codigoBarras": "7898406304197",
@@ -3521,7 +3521,7 @@
   {
     "id": "7898905706430",
     "nome": "LOGICAT 4KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 7.5,
     "estoque": 0,
     "codigoBarras": "7898905706430",
@@ -3557,7 +3557,7 @@
   {
     "id": "7898474542019",
     "nome": "MACACAO SOFT TAM G",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 45,
     "estoque": 0,
     "codigoBarras": "7898474542019",
@@ -3566,7 +3566,7 @@
   {
     "id": "7898474542002",
     "nome": "MACACAO SOFT TAM M",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 40,
     "estoque": 1,
     "codigoBarras": "7898474542002",
@@ -3647,7 +3647,7 @@
   {
     "id": "7897551900414",
     "nome": "MEK DOG 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 80,
     "estoque": 2,
     "codigoBarras": "7897551900414",
@@ -3656,7 +3656,7 @@
   {
     "id": "7908291134219",
     "nome": "MELANCIA DE BORRACHA",
-    "categoria": "Outros",
+    "categoria": "Brinquedos",
     "preco": 23,
     "estoque": 0,
     "codigoBarras": "7908291134219",
@@ -3746,7 +3746,7 @@
   {
     "id": "7898349703361",
     "nome": "MONELLO CAES FILHOTES 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 185,
     "estoque": 6,
     "codigoBarras": "7898349703361",
@@ -3755,7 +3755,7 @@
   {
     "id": "7898349703248",
     "nome": "MONELLO CAES PQNO PORTE 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 180,
     "estoque": 2,
     "codigoBarras": "7898349703248",
@@ -3764,7 +3764,7 @@
   {
     "id": "7898349703637",
     "nome": "MONELLO GATOS CAST. 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 140,
     "estoque": 2,
     "codigoBarras": "7898349703637",
@@ -3800,7 +3800,7 @@
   {
     "id": "7898254040155",
     "nome": "NATU VERM 04 UND.",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 12,
     "estoque": 11,
     "codigoBarras": "7898254040155",
@@ -3827,7 +3827,7 @@
   {
     "id": "7898019867225",
     "nome": "NEOPET GATO 0,32ML",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 38,
     "estoque": 4,
     "codigoBarras": "7898019867225",
@@ -3926,7 +3926,7 @@
   {
     "id": "2000000099994",
     "nome": "NUTRI SABORE CAES ADULTOS 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 85,
     "estoque": 5,
     "codigoBarras": "2000000099994",
@@ -3935,7 +3935,7 @@
   {
     "id": "736532880543",
     "nome": "NUTRI SABORE CAES ADULTOS 20KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 160,
     "estoque": 3,
     "codigoBarras": "736532880543",
@@ -3953,7 +3953,7 @@
   {
     "id": "736532880499",
     "nome": "NUTRI SABORE GATOS 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 110,
     "estoque": 1,
     "codigoBarras": "736532880499",
@@ -3962,7 +3962,7 @@
   {
     "id": "2000000099974",
     "nome": "NUTRI SABORE GATOS CAST",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 12,
     "estoque": 99999997,
     "codigoBarras": "2000000099974",
@@ -3971,7 +3971,7 @@
   {
     "id": "7890000012713",
     "nome": "NUTRI SABORE GATOS CAST 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 115,
     "estoque": 1,
     "codigoBarras": "7890000012713",
@@ -3998,7 +3998,7 @@
   {
     "id": "7896029037263",
     "nome": "OPTIMUM CAES 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 160,
     "estoque": 0,
     "codigoBarras": "7896029037263",
@@ -4007,7 +4007,7 @@
   {
     "id": "7896029037331",
     "nome": "OPTIMUM GATO CASTRADO FRANGO 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 180,
     "estoque": 3,
     "codigoBarras": "7896029037331",
@@ -4016,7 +4016,7 @@
   {
     "id": "7896029038314",
     "nome": "OPTIMUM GATOS ADULTO FRNGO",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 165,
     "estoque": 0,
     "codigoBarras": "7896029038314",
@@ -4025,7 +4025,7 @@
   {
     "id": "7896029037454",
     "nome": "OPTIMUM GATOS CAST CARNE 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 165,
     "estoque": 1,
     "codigoBarras": "7896029037454",
@@ -4034,7 +4034,7 @@
   {
     "id": "7908291101518",
     "nome": "OSSO DE BORRACHA",
-    "categoria": "Alimentação",
+    "categoria": "Brinquedos",
     "preco": 40,
     "estoque": 2,
     "codigoBarras": "7908291101518",
@@ -4043,7 +4043,7 @@
   {
     "id": "7908291122308",
     "nome": "OSSO DE BORRACHA COLORIDO",
-    "categoria": "Alimentação",
+    "categoria": "Brinquedos",
     "preco": 23,
     "estoque": 1,
     "codigoBarras": "7908291122308",
@@ -4070,7 +4070,7 @@
   {
     "id": "7898006194044",
     "nome": "Otolin UCB   Antibiótico/Anti-inflamatório (Emb. contém 1un. de 15ml)",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 28,
     "estoque": 0,
     "codigoBarras": "7898006194044",
@@ -4079,7 +4079,7 @@
   {
     "id": "7898941459628",
     "nome": "OTOTIX CAO E GATO 120ML",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 65,
     "estoque": 3,
     "codigoBarras": "7898941459628",
@@ -4097,7 +4097,7 @@
   {
     "id": "7896273809388",
     "nome": "PALITO KELDOG MIX DE CEREAIS 500G",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 46,
     "estoque": 4,
     "codigoBarras": "7896273809388",
@@ -4106,7 +4106,7 @@
   {
     "id": "7896273809364",
     "nome": "PALITO KELDOG MIX DE CEREAIS 55G",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 6,
     "estoque": 3,
     "codigoBarras": "7896273809364",
@@ -4268,7 +4268,7 @@
   {
     "id": "7896029021804",
     "nome": "PETISCO ANTI B. DE PELO WHISKAS",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 16,
     "estoque": 7,
     "codigoBarras": "7896029021804",
@@ -4349,7 +4349,7 @@
   {
     "id": "7898602021133",
     "nome": "PIPI POSTE",
-    "categoria": "Outros",
+    "categoria": "Areias e Higiênico",
     "preco": 17,
     "estoque": 1,
     "codigoBarras": "7898602021133",
@@ -4421,7 +4421,7 @@
   {
     "id": "7898510458878",
     "nome": "PRIMOCAO MEDIAS E GRANDES 20KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 180,
     "estoque": 1,
     "codigoBarras": "7898510458878",
@@ -4430,7 +4430,7 @@
   {
     "id": "7898510458946",
     "nome": "PRIMOCAO PEQUENAS RAÇAS 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 110,
     "estoque": -2,
     "codigoBarras": "7898510458946",
@@ -4439,7 +4439,7 @@
   {
     "id": "7898510458953",
     "nome": "PRIMOCAO PEQUENAS RAÇAS 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 155,
     "estoque": 1,
     "codigoBarras": "7898510458953",
@@ -4448,7 +4448,7 @@
   {
     "id": "7898510459110",
     "nome": "PRIMOGATO BLEND 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 160,
     "estoque": 1,
     "codigoBarras": "7898510459110",
@@ -4457,7 +4457,7 @@
   {
     "id": "2000000099961",
     "nome": "PRIMOGATO BLEND 20KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 330,
     "estoque": 1,
     "codigoBarras": "2000000099961",
@@ -4466,7 +4466,7 @@
   {
     "id": "7898510459172",
     "nome": "PRIMOGATO FILHOTES 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 225,
     "estoque": -1,
     "codigoBarras": "7898510459172",
@@ -4475,7 +4475,7 @@
   {
     "id": "789510459035",
     "nome": "PRIMOGATO ORIGINAL 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 120,
     "estoque": 4,
     "codigoBarras": "789510459035",
@@ -4484,7 +4484,7 @@
   {
     "id": "7898510459042",
     "nome": "PRIMOGATO ORIGINAL 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 185,
     "estoque": -1,
     "codigoBarras": "7898510459042",
@@ -4502,7 +4502,7 @@
   {
     "id": "7898586870338",
     "nome": "PROVERME 28G",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 14,
     "estoque": 23,
     "codigoBarras": "7898586870338",
@@ -4556,7 +4556,7 @@
   {
     "id": "7896029079485",
     "nome": "RAÃ‡ÃƒO FELINA WHISKAS PEIXE",
-    "categoria": "Rações",
+    "categoria": "Outros Animais",
     "preco": 13,
     "estoque": 20,
     "codigoBarras": "7896029079485",
@@ -4610,7 +4610,7 @@
   {
     "id": "23901872",
     "nome": "RACAO CALOPSITA 500G",
-    "categoria": "Rações",
+    "categoria": "Outros Animais",
     "preco": 7,
     "estoque": 4,
     "codigoBarras": "23901872",
@@ -4691,7 +4691,7 @@
   {
     "id": "7891000118061",
     "nome": "RACAO FRISKIES SACHE PERU AO MOLHO 85G",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 2.75,
     "estoque": 26,
     "codigoBarras": "7891000118061",
@@ -4700,7 +4700,7 @@
   {
     "id": "7891000118054",
     "nome": "RACAO FRISKIES SACHET 85G FRANGO AO MOLHO",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 2.75,
     "estoque": 2,
     "codigoBarras": "7891000118054",
@@ -4736,7 +4736,7 @@
   {
     "id": "7898639620880",
     "nome": "RACAO GATO KIARA PEIXE E FRANGO 20KG",
-    "categoria": "Rações",
+    "categoria": "Outros Animais",
     "preco": 150,
     "estoque": 2,
     "codigoBarras": "7898639620880",
@@ -4772,7 +4772,7 @@
   {
     "id": "0618341119536",
     "nome": "RACÃO GDOG ADULTO 7KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 40,
     "estoque": 28,
     "codigoBarras": "0618341119536",
@@ -4799,7 +4799,7 @@
   {
     "id": "23901070",
     "nome": "RACAO HAMSTER 500G",
-    "categoria": "Rações",
+    "categoria": "Outros Animais",
     "preco": 9,
     "estoque": -1,
     "codigoBarras": "23901070",
@@ -4844,7 +4844,7 @@
   {
     "id": "7898639620583",
     "nome": "RACAO PEIXE FORTFISH 20KG 22%",
-    "categoria": "Rações",
+    "categoria": "Outros Animais",
     "preco": 65,
     "estoque": -47,
     "codigoBarras": "7898639620583",
@@ -4889,7 +4889,7 @@
   {
     "id": "7896803010123",
     "nome": "RACAO SUPRA COELHO AGRO 5KG",
-    "categoria": "Rações",
+    "categoria": "Outros Animais",
     "preco": 21,
     "estoque": 3,
     "codigoBarras": "7896803010123",
@@ -5114,7 +5114,7 @@
   {
     "id": "7891000244135",
     "nome": "SACHE CARNE DOG CHOW",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": 21,
     "codigoBarras": "7891000244135",
@@ -5123,7 +5123,7 @@
   {
     "id": "7898510459240",
     "nome": "SACHE CARNE THREE DOGS 100G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": 14,
     "codigoBarras": "7898510459240",
@@ -5132,7 +5132,7 @@
   {
     "id": "7891000244074",
     "nome": "SACHE CAT CHOW ADULTO FRANGO 85G",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": 8,
     "codigoBarras": "7891000244074",
@@ -5141,7 +5141,7 @@
   {
     "id": "7891000244012",
     "nome": "SACHE CAT CHOW FILHOTES FRANGO 85G",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": 26,
     "codigoBarras": "7891000244012",
@@ -5150,7 +5150,7 @@
   {
     "id": "7891000240205",
     "nome": "SACHE CAT CHOW GATO CASTRADOS CARNE 85G",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": 29,
     "codigoBarras": "7891000240205",
@@ -5159,7 +5159,7 @@
   {
     "id": "7896029056394",
     "nome": "SACHE CHAMP CARNE",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.5,
     "estoque": -73,
     "codigoBarras": "7896029056394",
@@ -5168,7 +5168,7 @@
   {
     "id": "7896029056400",
     "nome": "SACHE CHAMP FRANGO",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.5,
     "estoque": -17,
     "codigoBarras": "7896029056400",
@@ -5177,7 +5177,7 @@
   {
     "id": "7891000244111",
     "nome": "SACHE DOG CHOW 85G AD PEQ RCAS",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": -34,
     "codigoBarras": "7891000244111",
@@ -5186,7 +5186,7 @@
   {
     "id": "7891000311455",
     "nome": "SACHE FELIX 85G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": -2,
     "codigoBarras": "7891000311455",
@@ -5195,7 +5195,7 @@
   {
     "id": "7891000115800",
     "nome": "SACHE FILHOTES CARNE 85G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.75,
     "estoque": 3,
     "codigoBarras": "7891000115800",
@@ -5204,7 +5204,7 @@
   {
     "id": "7891000244746",
     "nome": "SACHE FILHOTES TODOS TAM DOG CHOW",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": 19,
     "codigoBarras": "7891000244746",
@@ -5213,7 +5213,7 @@
   {
     "id": "7891000115695",
     "nome": "SACHE FRANGO DOG CHOW",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": 23,
     "codigoBarras": "7891000115695",
@@ -5222,7 +5222,7 @@
   {
     "id": "7891000434352",
     "nome": "SACHE FRISKIES MAR DE SABORES 80G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.75,
     "estoque": 32,
     "codigoBarras": "7891000434352",
@@ -5231,7 +5231,7 @@
   {
     "id": "7891000434611",
     "nome": "SACHE FRISKIES MEGA MIX 80G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.75,
     "estoque": 31,
     "codigoBarras": "7891000434611",
@@ -5240,7 +5240,7 @@
   {
     "id": "7891000434345",
     "nome": "SACHE FRISKIES MIX DE CARNES 80G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.75,
     "estoque": 25,
     "codigoBarras": "7891000434345",
@@ -5249,7 +5249,7 @@
   {
     "id": "7896048915986",
     "nome": "SACHE GRAN PLUS CARNE",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 3.5,
     "estoque": 31,
     "codigoBarras": "7896048915986",
@@ -5258,7 +5258,7 @@
   {
     "id": "7896273808817",
     "nome": "SACHE KELCAT 85G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.5,
     "estoque": 20,
     "codigoBarras": "7896273808817",
@@ -5267,7 +5267,7 @@
   {
     "id": "7896273809159",
     "nome": "SACHE KELCAT 85G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.5,
     "estoque": 4,
     "codigoBarras": "7896273809159",
@@ -5276,7 +5276,7 @@
   {
     "id": "7896273808787",
     "nome": "SACHE KELDOG CARNEIRO 100G",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.5,
     "estoque": 260,
     "codigoBarras": "7896273808787",
@@ -5285,7 +5285,7 @@
   {
     "id": "7896029018057",
     "nome": "SACHE KIT E KAT 70G CARNE",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.5,
     "estoque": 77,
     "codigoBarras": "7896029018057",
@@ -5294,7 +5294,7 @@
   {
     "id": "7896029018064",
     "nome": "SACHE KIT E KAT 70G FRNGO",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.5,
     "estoque": 363,
     "codigoBarras": "7896029018064",
@@ -5303,7 +5303,7 @@
   {
     "id": "7896029018101",
     "nome": "SACHE KITEKAT PEIXE 70G",
-    "categoria": "Outros Animais",
+    "categoria": "Alimentação",
     "preco": 2.5,
     "estoque": 28,
     "codigoBarras": "7896029018101",
@@ -5312,7 +5312,7 @@
   {
     "id": "7896029046210",
     "nome": "SACHE OPTIMUM CAST SALMAO",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 3,
     "estoque": 35,
     "codigoBarras": "7896029046210",
@@ -5321,7 +5321,7 @@
   {
     "id": "7896029018231",
     "nome": "SACHE OPTIMUM GATO CAST",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.75,
     "estoque": 21,
     "codigoBarras": "7896029018231",
@@ -5330,7 +5330,7 @@
   {
     "id": "7896029046333",
     "nome": "SACHE OPTIMUM GATOS CAST",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 2.75,
     "estoque": -3,
     "codigoBarras": "7896029046333",
@@ -5339,7 +5339,7 @@
   {
     "id": "7898510459202",
     "nome": "SACHE THREE CATS CAST FRNG",
-    "categoria": "Outros",
+    "categoria": "Alimentação",
     "preco": 3.5,
     "estoque": 24,
     "codigoBarras": "7898510459202",
@@ -5348,7 +5348,7 @@
   {
     "id": "7896029046609",
     "nome": "SACHE WHISKAS",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 3.5,
     "estoque": -2,
     "codigoBarras": "7896029046609",
@@ -5357,7 +5357,7 @@
   {
     "id": "7896029046173",
     "nome": "SACHE WHISKAS FRANGO 85G",
-    "categoria": "Rações",
+    "categoria": "Alimentação",
     "preco": 3.5,
     "estoque": 16,
     "codigoBarras": "7896029046173",
@@ -5438,7 +5438,7 @@
   {
     "id": "7898275011479",
     "nome": "SHAMPO P/CAES GATOS SENHINA FILHOTES 500ML",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 22,
     "estoque": 4,
     "codigoBarras": "7898275011479",
@@ -5681,7 +5681,7 @@
   {
     "id": "7898121840840",
     "nome": "STRONDAL VERM ORAL",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 15,
     "estoque": -19,
     "codigoBarras": "7898121840840",
@@ -5699,7 +5699,7 @@
   {
     "id": "7896637512121",
     "nome": "TALCO ANTIPÚLGAS TOY CAES",
-    "categoria": "Brinquedos",
+    "categoria": "Medicamentos",
     "preco": 25,
     "estoque": 0,
     "codigoBarras": "7896637512121",
@@ -5888,7 +5888,7 @@
   {
     "id": "2000000099917",
     "nome": "THREE CATS CASTRADOS",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 24,
     "estoque": 99955,
     "codigoBarras": "2000000099917",
@@ -5897,7 +5897,7 @@
   {
     "id": "7898510458182",
     "nome": "THREE CATS CASTRADOS 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 334,
     "estoque": 0,
     "codigoBarras": "7898510458182",
@@ -5906,7 +5906,7 @@
   {
     "id": "7898510457765",
     "nome": "THREE CATS CASTRADOS CARNE 1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 26.9,
     "estoque": -4,
     "codigoBarras": "7898510457765",
@@ -5915,7 +5915,7 @@
   {
     "id": "7898510457734",
     "nome": "THREE CATS FILHOTE CARNE 1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 28,
     "estoque": 3,
     "codigoBarras": "7898510457734",
@@ -5924,7 +5924,7 @@
   {
     "id": "7898510458137",
     "nome": "THREE DOGS ADLT PQN RCAS FRNGO 15KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 245,
     "estoque": 2,
     "codigoBarras": "7898510458137",
@@ -5933,7 +5933,7 @@
   {
     "id": "7898510457567",
     "nome": "THREE DOGS ADULTOS 10KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 120,
     "estoque": 0,
     "codigoBarras": "7898510457567",
@@ -5942,7 +5942,7 @@
   {
     "id": "7898510458038",
     "nome": "THREE DOGS FILHOTES SP 10,1KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 170,
     "estoque": 1,
     "codigoBarras": "7898510458038",
@@ -5951,7 +5951,7 @@
   {
     "id": "7898510457581",
     "nome": "THREE DOGS ORIGINAL ADULTOS 20KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 210,
     "estoque": 3,
     "codigoBarras": "7898510457581",
@@ -5960,7 +5960,7 @@
   {
     "id": "7797600000211",
     "nome": "TIPER C ANTI PULGAS ATÉ 15KG",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 30,
     "estoque": 3,
     "codigoBarras": "7797600000211",
@@ -5978,7 +5978,7 @@
   {
     "id": "7890000012737",
     "nome": "TUCÃO 5KG",
-    "categoria": "Outros",
+    "categoria": "Rações",
     "preco": 27,
     "estoque": 13,
     "codigoBarras": "7890000012737",
@@ -5996,7 +5996,7 @@
   {
     "id": "7898026081454",
     "nome": "V.MATA MOSCA DIPIL 25G",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 6,
     "estoque": 30,
     "codigoBarras": "7898026081454",
@@ -6077,7 +6077,7 @@
   {
     "id": "7898121840550",
     "nome": "VERMEX PLUS 20ML",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 30,
     "estoque": -5,
     "codigoBarras": "7898121840550",
@@ -6086,7 +6086,7 @@
   {
     "id": "7898568973187",
     "nome": "VERMICANIS 2,4G (30KG) CARTELA COM 2",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 22,
     "estoque": 6,
     "codigoBarras": "7898568973187",
@@ -6095,7 +6095,7 @@
   {
     "id": "7898568979813",
     "nome": "VERMICANIS PLUS 10KG",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 12,
     "estoque": 7,
     "codigoBarras": "7898568979813",
@@ -6104,7 +6104,7 @@
   {
     "id": "7898568979820",
     "nome": "VERMICANIS PLUS 30KG",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 22,
     "estoque": 3,
     "codigoBarras": "7898568979820",
@@ -6122,7 +6122,7 @@
   {
     "id": "7898567461586",
     "nome": "VERMINEX COMPRIMIDOS",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 10,
     "estoque": 2,
     "codigoBarras": "7898567461586",
@@ -6131,7 +6131,7 @@
   {
     "id": "2000000099988",
     "nome": "VERMITRIL MAX ATE 50KG",
-    "categoria": "Outros",
+    "categoria": "Medicamentos",
     "preco": 25,
     "estoque": -1,
     "codigoBarras": "2000000099988",
@@ -6212,7 +6212,7 @@
   {
     "id": "7896029092347",
     "nome": "WHISKAS 900G PEIXE",
-    "categoria": "Rações",
+    "categoria": "Outros Animais",
     "preco": 20,
     "estoque": -5,
     "codigoBarras": "7896029092347",

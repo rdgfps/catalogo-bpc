@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import { Command, MessageCircle, Package, Search, SlidersHorizontal, X } from "lucide-react";
 import { CategoryCover } from "@/components/catalog/CategoryCover";
 import type { Product } from "@/types";
-import { buildWhatsAppLink, formatPrice, formatWhatsAppLabel } from "@/lib/utils";
+import { buildWhatsAppLink, formatPrice, formatWhatsAppLabel, matchesSearch } from "@/lib/utils";
 
 const PAGE_SIZE = 48;
 
@@ -42,11 +42,10 @@ export function CatalogClient({
     let products = [...initialProducts];
 
     if (search.trim()) {
-      const q = search.toLowerCase().trim();
       products = products.filter(
         (p) =>
-          p.nome.toLowerCase().includes(q) ||
-          (p.codigoBarras && p.codigoBarras.includes(q))
+          matchesSearch(`${p.nome} ${p.categoria}`, search) ||
+          (p.codigoBarras && p.codigoBarras.includes(search.trim()))
       );
     }
 
@@ -109,12 +108,11 @@ export function CatalogClient({
   const visibleProducts = filteredProducts.slice(0, visibleCount);
   const hasMoreProducts = visibleProducts.length < filteredProducts.length;
   const commandProducts = useMemo(() => {
-    const q = commandSearch.toLowerCase().trim();
+    const q = commandSearch.trim();
     const source = q
       ? initialProducts.filter(
           (p) =>
-            p.nome.toLowerCase().includes(q) ||
-            p.categoria.toLowerCase().includes(q) ||
+            matchesSearch(`${p.nome} ${p.categoria}`, q) ||
             (p.codigoBarras && p.codigoBarras.includes(q))
         )
       : initialProducts;
@@ -122,9 +120,9 @@ export function CatalogClient({
   }, [commandSearch, initialProducts]);
 
   const commandCategories = useMemo(() => {
-    const q = commandSearch.toLowerCase().trim();
+    const q = commandSearch.trim();
     return categories
-      .filter((c) => !q || c.name.toLowerCase().includes(q))
+      .filter((c) => !q || matchesSearch(c.name, q))
       .slice(0, 5);
   }, [categories, commandSearch]);
 
@@ -140,7 +138,7 @@ export function CatalogClient({
               placeholder="Buscar produto ou código de barras"
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              className="w-full rounded-md border border-orange-300/14 bg-black/28 py-3 pl-10 pr-10 text-sm text-orange-50 placeholder:text-orange-50/34 transition-all focus:border-transparent focus:bg-black/42 focus:outline-none focus:ring-2 focus:ring-orange-500"
+              className="w-full rounded-md border border-orange-300/14 bg-orange-50 py-3 pl-10 pr-10 text-sm text-black placeholder:text-black/45 transition-all focus:border-transparent focus:bg-white focus:outline-none focus:ring-2 focus:ring-orange-500"
             />
             {search && (
               <button
@@ -156,7 +154,7 @@ export function CatalogClient({
           <select
             value={sort}
             onChange={(e) => setSort(e.target.value)}
-            className="cursor-pointer rounded-md border border-orange-300/14 bg-black/30 px-3 py-3 text-sm text-orange-50 focus:outline-none focus:ring-2 focus:ring-orange-500"
+            className="cursor-pointer rounded-md border border-orange-300/14 bg-orange-50 px-3 py-3 text-sm text-black focus:outline-none focus:ring-2 focus:ring-orange-500"
           >
             <option value="az">Nome: A-Z</option>
             <option value="za">Nome: Z-A</option>
@@ -351,19 +349,19 @@ function CommandPalette({
 
       <div className="relative w-full max-w-2xl overflow-hidden rounded-lg border border-orange-300/18 bg-[#090604] shadow-[0_32px_140px_rgba(0,0,0,0.7)]">
         <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-orange-300/70 to-transparent" />
-        <div className="flex items-center gap-3 border-b border-orange-300/12 px-4 py-3">
+        <div className="flex items-center gap-3 border-b border-orange-300/12 bg-orange-50 px-4 py-3">
           <Command className="h-5 w-5 text-orange-300" />
           <input
             autoFocus
             value={query}
             onChange={(event) => onQueryChange(event.target.value)}
             placeholder="Digite produto, categoria ou código..."
-            className="min-w-0 flex-1 bg-transparent text-base font-semibold text-orange-50 placeholder:text-orange-50/34 focus:outline-none"
+            className="min-w-0 flex-1 bg-transparent text-base font-semibold text-black placeholder:text-black/45 focus:outline-none"
           />
           <button
             type="button"
             onClick={onClose}
-            className="text-orange-50/42 transition-colors hover:text-orange-100"
+            className="text-black/45 transition-colors hover:text-black"
             aria-label="Fechar"
           >
             <X className="h-5 w-5" />

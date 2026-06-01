@@ -13,7 +13,7 @@ export function FloatingWhatsApp({ phones }: Props) {
   const links = phones.map((phone) => buildGeneralWhatsAppLink(phone));
 
   return (
-    <div className="fixed bottom-5 right-5 z-[75]">
+    <div className="fixed bottom-20 right-4 z-[75] sm:bottom-5 sm:right-5">
       {open && (
         <div className="mb-3 w-60 overflow-hidden rounded-lg border border-orange-300/18 bg-[#090604]/98 p-2 shadow-[0_24px_90px_rgba(0,0,0,0.55)] backdrop-blur-xl">
           <p className="px-3 pb-2 pt-1 text-xs font-bold uppercase tracking-wide text-orange-300/80">

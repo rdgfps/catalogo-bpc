@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import type { Product, CatalogConfig } from "@/types";
 import { defaultStoreLocation } from "@/lib/location";
+import { matchesSearch } from "@/lib/utils";
 
 // ============================================================
 // Caminhos de dados (armazenados em /data no projeto)
@@ -118,11 +119,10 @@ export function getFilteredProducts(filters: ProductFilters = {}): Product[] {
   let products = getProducts().filter((p) => p.ativo);
 
   if (filters.search) {
-    const q = filters.search.toLowerCase();
     products = products.filter(
       (p) =>
-        p.nome.toLowerCase().includes(q) ||
-        (p.codigoBarras && p.codigoBarras.includes(q))
+        matchesSearch(`${p.nome} ${p.categoria}`, filters.search || "") ||
+        (p.codigoBarras && p.codigoBarras.includes(filters.search || ""))
     );
   }
 

@@ -14,9 +14,9 @@ export function Footer({ whatsapps, location }: Props) {
 
   return (
     <footer className="relative overflow-hidden border-t border-orange-300/15 bg-[#050505]">
-      <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-orange-400/70 to-transparent" />
-      <div className="absolute -left-32 bottom-0 h-72 w-72 rounded-full bg-orange-600/10 blur-3xl" />
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div className="pointer-events-none absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-orange-400/70 to-transparent" />
+      <div className="pointer-events-none absolute -left-32 bottom-0 h-72 w-72 rounded-full bg-orange-600/10 blur-3xl" />
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 gap-8 mb-8 md:grid-cols-[1.1fr_0.8fr_1fr_1fr]">
           <div>
             <div className="flex items-center gap-3 mb-3">
@@ -82,7 +82,7 @@ export function Footer({ whatsapps, location }: Props) {
                 href={location.mapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-3 inline-flex items-center gap-2 text-sm font-bold text-orange-300 transition-colors hover:text-orange-100"
+                className="relative z-20 mt-3 flex w-full items-center justify-center gap-2 rounded-md border border-orange-300/16 bg-orange-500/10 px-3 py-3 text-sm font-bold text-orange-300 transition-colors hover:border-orange-300/35 hover:bg-orange-500/16 hover:text-orange-100 sm:inline-flex sm:w-auto sm:justify-start sm:border-0 sm:bg-transparent sm:px-0 sm:py-0"
               >
                 Abrir rota <Navigation className="h-4 w-4" />
               </a>
